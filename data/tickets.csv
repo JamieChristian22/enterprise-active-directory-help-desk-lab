@@ -1,0 +1,51 @@
+ticket_id,type,title,category,priority,requester,assigned_to,opened,resolved,resolution_minutes,sla_target_minutes,sla_result,status,configuration_item
+INC-2026-001,INC,Password reset after lockout,Account Access,P2,Alicia Morgan,Morgan Reyes,2026-01-05 10:22,2026-01-05 12:26,124,240,Met,Resolved,NS-WS-101
+INC-2026-002,INC,User cannot sign in after password change,Account Access,P3,Brandon Lee,Alex Thompson,2026-01-05 12:29,2026-01-05 18:00,331,480,Met,Resolved,NS-WS-102
+INC-2026-003,INC,No internet connectivity,Network,P3,Carla Ruiz,Jamie Christian II,2026-01-05 14:36,2026-01-05 17:28,172,480,Met,Resolved,NS-WS-103
+INC-2026-004,INC,VPN connects but internal resources unavailable,Network,P3,Daniel Brooks,Morgan Reyes,2026-01-06 08:43,2026-01-06 12:57,254,480,Met,Resolved,NS-WS-104
+INC-2026-005,INC,Mapped drive missing,File Services,P3,Evelyn Hart,Alex Thompson,2026-01-06 10:50,2026-01-06 16:26,336,480,Met,Resolved,NS-WS-105
+INC-2026-006,INC,Access denied to department share,File Services,P3,Frank Owens,Jamie Christian II,2026-01-06 12:57,2026-01-06 15:54,177,480,Met,Resolved,NS-WS-106
+INC-2026-007,INC,Print jobs stuck in queue,Printing,P3,Grace Kim,Morgan Reyes,2026-01-07 14:19,2026-01-07 18:38,259,480,Met,Resolved,NS-WS-107
+INC-2026-008,INC,Department printer offline,Printing,P3,Henry Patel,Alex Thompson,2026-01-07 08:26,2026-01-07 14:06,340,480,Met,Resolved,NS-WS-108
+INC-2026-009,INC,Windows workstation running slowly,Endpoint,P3,Isabella Ward,Jamie Christian II,2026-01-07 10:33,2026-01-07 13:35,182,480,Met,Resolved,NS-WS-109
+INC-2026-010,INC,Blue screen after driver update,Endpoint,P2,Jordan Price,Morgan Reyes,2026-01-08 12:40,2026-01-08 14:52,132,240,Met,Resolved,NS-WS-110
+INC-2026-011,INC,Microsoft 365 app will not launch,Software,P3,Kendra Bell,Alex Thompson,2026-01-08 14:47,2026-01-08 20:32,345,480,Met,Resolved,NS-WS-111
+REQ-2026-012,REQ,Approved application installation request,Software,P4,Liam Scott,Jamie Christian II,2026-01-08 08:54,2026-01-08 18:15,561,1440,Met,Resolved,NS-WS-112
+INC-2026-013,INC,Suspected phishing email,Security,P1,Maya Chen,Morgan Reyes,2026-01-09 10:16,2026-01-09 10:49,33,60,Met,Resolved,NS-WS-113
+INC-2026-014,INC,Lost company laptop,Security,P1,Noah Evans,Alex Thompson,2026-01-09 12:23,2026-01-09 13:06,43,60,Met,Resolved,NS-WS-114
+REQ-2026-015,REQ,New employee account and workstation setup,Onboarding,P3,Olivia Reed,Jamie Christian II,2026-01-09 14:30,2026-01-09 17:41,191,480,Met,Resolved,NS-WS-115
+INC-2026-016,INC,Terminate employee access,Offboarding,P1,Peter Grant,Morgan Reyes,2026-01-10 08:37,2026-01-10 09:11,34,60,Met,Resolved,NS-WS-116
+INC-2026-017,INC,Internal hostname not resolving,DNS,P2,Renee Cole,Alex Thompson,2026-01-10 10:44,2026-01-10 13:41,177,240,Met,Resolved,NS-WS-117
+INC-2026-018,INC,Workstation receives APIPA address,DHCP,P2,Samuel Ross,Jamie Christian II,2026-01-10 12:51,2026-01-10 14:29,98,240,Met,Resolved,NS-WS-118
+INC-2026-019,INC,Mapped drive policy not applying,Group Policy,P3,Tanya Mills,Morgan Reyes,2026-01-11 14:58,2026-01-11 19:36,278,480,Met,Resolved,NS-WS-119
+INC-2026-020,INC,Docking station monitors not detected,Hardware,P3,Victor Shaw,Alex Thompson,2026-01-11 08:20,2026-01-11 14:20,360,480,Met,Resolved,NS-WS-120
+INC-2026-021,INC,Password reset after lockout,Account Access,P2,Alicia Morgan,Jamie Christian II,2026-01-11 10:27,2026-01-11 12:07,100,240,Met,Resolved,NS-WS-121
+INC-2026-022,INC,User cannot sign in after password change,Account Access,P3,Brandon Lee,Morgan Reyes,2026-01-12 12:34,2026-01-12 17:17,283,480,Met,Resolved,NS-WS-122
+INC-2026-023,INC,No internet connectivity,Network,P3,Carla Ruiz,Alex Thompson,2026-01-12 14:41,2026-01-12 20:45,364,480,Met,Resolved,NS-WS-123
+INC-2026-024,INC,VPN connects but internal resources unavailable,Network,P3,Daniel Brooks,Jamie Christian II,2026-01-12 08:48,2026-01-12 12:14,206,480,Met,Resolved,NS-WS-124
+INC-2026-025,INC,Mapped drive missing,File Services,P3,Evelyn Hart,Morgan Reyes,2026-01-13 10:55,2026-01-13 15:43,288,480,Met,Resolved,NS-WS-125
+INC-2026-026,INC,Access denied to department share,File Services,P3,Frank Owens,Alex Thompson,2026-01-13 12:17,2026-01-13 18:26,369,480,Met,Resolved,NS-WS-126
+INC-2026-027,INC,Print jobs stuck in queue,Printing,P3,Grace Kim,Jamie Christian II,2026-01-13 14:24,2026-01-13 17:55,211,480,Met,Resolved,NS-WS-127
+INC-2026-028,INC,Department printer offline,Printing,P3,Henry Patel,Morgan Reyes,2026-01-14 08:31,2026-01-14 13:23,292,480,Met,Resolved,NS-WS-128
+INC-2026-029,INC,Windows workstation running slowly,Endpoint,P3,Isabella Ward,Alex Thompson,2026-01-14 10:38,2026-01-14 16:52,374,480,Met,Resolved,NS-WS-129
+INC-2026-030,INC,Blue screen after driver update,Endpoint,P2,Jordan Price,Jamie Christian II,2026-01-14 12:45,2026-01-14 14:32,107,240,Met,Resolved,NS-WS-130
+INC-2026-031,INC,Microsoft 365 app will not launch,Software,P3,Kendra Bell,Morgan Reyes,2026-01-15 14:52,2026-01-15 19:49,297,480,Met,Resolved,NS-WS-131
+INC-2026-032,INC,Approved application installation request,Software,P4,Liam Scott,Alex Thompson,2026-01-15 08:59,2026-01-16 03:56,1137,1440,Met,Resolved,NS-WS-132
+INC-2026-033,INC,Suspected phishing email,Security,P1,Maya Chen,Jamie Christian II,2026-01-15 10:21,2026-01-15 10:48,27,60,Met,Resolved,NS-WS-133
+INC-2026-034,INC,Lost company laptop,Security,P1,Noah Evans,Morgan Reyes,2026-01-16 12:28,2026-01-16 13:05,37,60,Met,Resolved,NS-WS-134
+INC-2026-035,INC,New employee account and workstation setup,Onboarding,P3,Olivia Reed,Alex Thompson,2026-01-16 14:35,2026-01-16 20:59,384,480,Met,Resolved,NS-WS-135
+INC-2026-036,INC,Terminate employee access,Offboarding,P1,Peter Grant,Jamie Christian II,2026-01-16 08:42,2026-01-16 09:10,28,60,Met,Resolved,NS-WS-136
+INC-2026-037,INC,Internal hostname not resolving,DNS,P2,Renee Cole,Morgan Reyes,2026-01-17 10:49,2026-01-17 13:22,153,240,Met,Resolved,NS-WS-137
+INC-2026-038,INC,Workstation receives APIPA address,DHCP,P2,Samuel Ross,Alex Thompson,2026-01-17 12:56,2026-01-17 16:10,194,240,Met,Resolved,NS-WS-138
+INC-2026-039,INC,Mapped drive policy not applying,Group Policy,P3,Tanya Mills,Jamie Christian II,2026-01-17 14:18,2026-01-17 18:08,230,480,Met,Resolved,NS-WS-139
+INC-2026-040,INC,Docking station monitors not detected,Hardware,P3,Victor Shaw,Morgan Reyes,2026-01-18 08:25,2026-01-18 13:36,311,480,Met,Resolved,NS-WS-140
+INC-2026-041,INC,Password reset after lockout,Account Access,P2,Alicia Morgan,Alex Thompson,2026-01-18 10:32,2026-01-18 13:48,196,240,Met,Resolved,NS-WS-141
+INC-2026-042,INC,User cannot sign in after password change,Account Access,P3,Brandon Lee,Jamie Christian II,2026-01-18 12:39,2026-01-18 16:34,235,480,Met,Resolved,NS-WS-142
+INC-2026-043,INC,No internet connectivity,Network,P3,Carla Ruiz,Morgan Reyes,2026-01-19 14:46,2026-01-19 20:02,316,480,Met,Resolved,NS-WS-143
+INC-2026-044,INC,VPN connects but internal resources unavailable,Network,P3,Daniel Brooks,Alex Thompson,2026-01-19 08:53,2026-01-19 15:31,398,480,Met,Resolved,NS-WS-144
+INC-2026-045,INC,Mapped drive missing,File Services,P3,Evelyn Hart,Jamie Christian II,2026-01-19 10:15,2026-01-19 14:15,240,480,Met,Resolved,NS-WS-145
+INC-2026-046,INC,Access denied to department share,File Services,P3,Frank Owens,Morgan Reyes,2026-01-20 12:22,2026-01-20 17:43,321,480,Met,Resolved,NS-WS-146
+INC-2026-047,INC,Print jobs stuck in queue,Printing,P3,Grace Kim,Alex Thompson,2026-01-20 14:29,2026-01-20 21:12,403,480,Met,Resolved,NS-WS-147
+INC-2026-048,INC,Department printer offline,Printing,P3,Henry Patel,Jamie Christian II,2026-01-20 08:36,2026-01-20 12:40,244,480,Met,Resolved,NS-WS-148
+INC-2026-049,INC,Windows workstation running slowly,Endpoint,P3,Isabella Ward,Morgan Reyes,2026-01-21 10:43,2026-01-21 16:09,326,480,Met,Resolved,NS-WS-149
+INC-2026-050,INC,Blue screen after driver update,Endpoint,P2,Jordan Price,Alex Thompson,2026-01-21 12:50,2026-01-21 14:14,84,240,Met,Resolved,NS-WS-150
