@@ -1,0 +1,1001 @@
+hostname,software,version,publisher,approved,install_date
+NSR-LT-0001,Microsoft 365 Apps,2.5,Google,No,2025-01-02
+NSR-LT-0002,Microsoft Teams,122.0,Cisco,Yes,2025-01-03
+NSR-LT-0003,Microsoft Teams,2.5,Google,Yes,2025-01-04
+NSR-LT-0004,Google Chrome,2.5,Igor Pavlov,Yes,2025-01-05
+NSR-LT-0005,Microsoft 365 Apps,2.5,Igor Pavlov,Yes,2025-01-06
+NSR-LT-0006,Microsoft 365 Apps,23.8,Adobe,Yes,2025-01-07
+NSR-LT-0007,Microsoft 365 Apps,2.5,Google,Yes,2025-01-08
+NSR-LT-0008,Adobe Acrobat Reader,24.4,Igor Pavlov,Yes,2025-01-09
+NSR-LT-0009,Microsoft 365 Apps,23.8,Microsoft,No,2025-01-10
+NSR-LT-0010,7-Zip,23.8,Adobe,Yes,2025-01-11
+NSR-LT-0011,7-Zip,122.0,Cisco,Yes,2025-01-12
+NSR-LT-0012,Google Chrome,24.4,Adobe,Yes,2025-01-13
+NSR-LT-0013,Google Chrome,1.0,Google,Yes,2025-01-14
+NSR-LT-0014,Adobe Acrobat Reader,2.5,Google,Yes,2025-01-15
+NSR-LT-0015,Cisco AnyConnect,23.8,Igor Pavlov,Yes,2025-01-16
+NSR-LT-0016,7-Zip,1.0,Google,Yes,2025-01-17
+NSR-LT-0017,Adobe Acrobat Reader,2.5,Cisco,Yes,2025-01-18
+NSR-LT-0018,7-Zip,23.8,Cisco,Yes,2025-01-19
+NSR-LT-0019,Microsoft Teams,2.5,Adobe,Yes,2025-01-20
+NSR-LT-0020,Google Chrome,1.0,Cisco,Yes,2025-01-21
+NSR-LT-0021,Power BI Desktop,23.8,Microsoft,Yes,2025-01-22
+NSR-LT-0022,Google Chrome,24.4,Igor Pavlov,Yes,2025-01-23
+NSR-LT-0023,7-Zip,2.5,Igor Pavlov,Yes,2025-01-24
+NSR-LT-0024,Microsoft Teams,1.0,Cisco,Yes,2025-01-25
+NSR-LT-0025,7-Zip,2.5,Cisco,No,2025-01-26
+NSR-LT-0026,7-Zip,1.0,Google,Yes,2025-01-27
+NSR-LT-0027,Microsoft 365 Apps,2.5,Adobe,Yes,2025-01-28
+NSR-LT-0028,7-Zip,24.4,Google,Yes,2025-01-29
+NSR-LT-0029,Google Chrome,1.0,Adobe,Yes,2025-01-30
+NSR-LT-0030,Microsoft Teams,24.4,Google,Yes,2025-01-31
+NSR-LT-0031,Power BI Desktop,24.4,Cisco,Yes,2025-02-01
+NSR-LT-0032,Power BI Desktop,24.4,Google,Yes,2025-02-02
+NSR-LT-0033,Power BI Desktop,122.0,Cisco,Yes,2025-02-03
+NSR-LT-0034,Google Chrome,122.0,Adobe,Yes,2025-02-04
+NSR-LT-0035,Google Chrome,23.8,Igor Pavlov,Yes,2025-02-05
+NSR-LT-0036,7-Zip,1.0,Cisco,Yes,2025-02-06
+NSR-LT-0037,Adobe Acrobat Reader,2.5,Microsoft,Yes,2025-02-07
+NSR-LT-0038,Microsoft Teams,122.0,Google,No,2025-02-08
+NSR-LT-0039,Adobe Acrobat Reader,2.5,Google,Yes,2025-02-09
+NSR-LT-0040,Microsoft Teams,24.4,Google,Yes,2025-02-10
+NSR-LT-0041,Microsoft 365 Apps,122.0,Google,Yes,2025-02-11
+NSR-LT-0042,Microsoft 365 Apps,24.4,Cisco,Yes,2025-02-12
+NSR-LT-0043,7-Zip,1.0,Igor Pavlov,Yes,2025-02-13
+NSR-LT-0044,Adobe Acrobat Reader,23.8,Microsoft,No,2025-02-14
+NSR-LT-0045,7-Zip,24.4,Cisco,Yes,2025-02-15
+NSR-LT-0046,Power BI Desktop,24.4,Adobe,Yes,2025-02-16
+NSR-LT-0047,Power BI Desktop,122.0,Microsoft,Yes,2025-02-17
+NSR-LT-0048,Microsoft Teams,23.8,Igor Pavlov,Yes,2025-02-18
+NSR-LT-0049,Power BI Desktop,1.0,Adobe,Yes,2025-02-19
+NSR-LT-0050,7-Zip,24.4,Adobe,Yes,2025-02-20
+NSR-LT-0051,Microsoft 365 Apps,1.0,Google,Yes,2025-02-21
+NSR-LT-0052,Microsoft 365 Apps,122.0,Microsoft,Yes,2025-02-22
+NSR-LT-0053,Google Chrome,2.5,Adobe,Yes,2025-02-23
+NSR-LT-0054,Cisco AnyConnect,1.0,Cisco,Yes,2025-02-24
+NSR-LT-0055,Google Chrome,122.0,Adobe,Yes,2025-02-25
+NSR-LT-0056,Power BI Desktop,122.0,Igor Pavlov,Yes,2025-02-26
+NSR-LT-0057,Cisco AnyConnect,122.0,Adobe,No,2025-02-27
+NSR-LT-0058,Adobe Acrobat Reader,2.5,Igor Pavlov,Yes,2025-02-28
+NSR-LT-0059,Power BI Desktop,122.0,Igor Pavlov,Yes,2025-03-01
+NSR-LT-0060,Cisco AnyConnect,122.0,Google,Yes,2025-03-02
+NSR-LT-0061,Cisco AnyConnect,23.8,Google,Yes,2025-03-03
+NSR-LT-0062,Power BI Desktop,24.4,Cisco,No,2025-03-04
+NSR-LT-0063,Microsoft 365 Apps,2.5,Igor Pavlov,No,2025-03-05
+NSR-LT-0064,Microsoft Teams,1.0,Cisco,Yes,2025-03-06
+NSR-LT-0065,Adobe Acrobat Reader,23.8,Google,Yes,2025-03-07
+NSR-LT-0066,Google Chrome,1.0,Cisco,Yes,2025-03-08
+NSR-LT-0067,Google Chrome,1.0,Microsoft,Yes,2025-03-09
+NSR-LT-0068,Adobe Acrobat Reader,122.0,Igor Pavlov,Yes,2025-03-10
+NSR-LT-0069,Microsoft 365 Apps,23.8,Cisco,Yes,2025-03-11
+NSR-LT-0070,Microsoft 365 Apps,122.0,Microsoft,No,2025-03-12
+NSR-LT-0071,Adobe Acrobat Reader,24.4,Google,No,2025-03-13
+NSR-LT-0072,7-Zip,23.8,Google,Yes,2025-03-14
+NSR-LT-0073,Power BI Desktop,2.5,Igor Pavlov,Yes,2025-03-15
+NSR-LT-0074,Microsoft 365 Apps,2.5,Google,Yes,2025-03-16
+NSR-LT-0075,Microsoft Teams,1.0,Google,Yes,2025-03-17
+NSR-LT-0076,7-Zip,2.5,Google,Yes,2025-03-18
+NSR-LT-0077,Google Chrome,1.0,Adobe,Yes,2025-03-19
+NSR-LT-0078,Google Chrome,1.0,Cisco,Yes,2025-03-20
+NSR-LT-0079,Cisco AnyConnect,24.4,Adobe,No,2025-03-21
+NSR-LT-0080,Adobe Acrobat Reader,24.4,Google,Yes,2025-03-22
+NSR-LT-0081,7-Zip,1.0,Microsoft,Yes,2025-03-23
+NSR-LT-0082,7-Zip,23.8,Google,Yes,2025-03-24
+NSR-LT-0083,Cisco AnyConnect,23.8,Adobe,Yes,2025-03-25
+NSR-LT-0084,7-Zip,2.5,Igor Pavlov,Yes,2025-03-26
+NSR-LT-0085,7-Zip,1.0,Adobe,Yes,2025-03-27
+NSR-LT-0086,Adobe Acrobat Reader,122.0,Microsoft,Yes,2025-03-28
+NSR-LT-0087,Microsoft 365 Apps,122.0,Adobe,Yes,2025-03-29
+NSR-LT-0088,Microsoft 365 Apps,122.0,Adobe,Yes,2025-03-30
+NSR-LT-0089,Power BI Desktop,122.0,Adobe,No,2025-03-31
+NSR-LT-0090,Adobe Acrobat Reader,24.4,Google,Yes,2025-04-01
+NSR-LT-0091,Power BI Desktop,2.5,Adobe,Yes,2025-04-02
+NSR-LT-0092,Google Chrome,24.4,Google,Yes,2025-04-03
+NSR-LT-0093,Adobe Acrobat Reader,1.0,Adobe,Yes,2025-04-04
+NSR-LT-0094,Adobe Acrobat Reader,2.5,Cisco,Yes,2025-04-05
+NSR-LT-0095,Adobe Acrobat Reader,23.8,Google,Yes,2025-04-06
+NSR-LT-0096,Microsoft 365 Apps,23.8,Cisco,Yes,2025-04-07
+NSR-LT-0097,Microsoft 365 Apps,24.4,Adobe,Yes,2025-04-08
+NSR-LT-0098,7-Zip,2.5,Igor Pavlov,Yes,2025-04-09
+NSR-LT-0099,Cisco AnyConnect,2.5,Google,Yes,2025-04-10
+NSR-LT-0100,Microsoft Teams,2.5,Igor Pavlov,No,2025-04-11
+NSR-LT-0101,Microsoft Teams,2.5,Cisco,Yes,2025-04-12
+NSR-LT-0102,Microsoft Teams,2.5,Cisco,Yes,2025-04-13
+NSR-LT-0103,Power BI Desktop,122.0,Adobe,Yes,2025-04-14
+NSR-LT-0104,Power BI Desktop,1.0,Microsoft,Yes,2025-04-15
+NSR-LT-0105,Google Chrome,24.4,Google,Yes,2025-04-16
+NSR-LT-0106,Power BI Desktop,122.0,Microsoft,Yes,2025-04-17
+NSR-LT-0107,Cisco AnyConnect,122.0,Adobe,Yes,2025-04-18
+NSR-LT-0108,7-Zip,23.8,Igor Pavlov,Yes,2025-04-19
+NSR-LT-0109,Power BI Desktop,122.0,Adobe,Yes,2025-04-20
+NSR-LT-0110,Microsoft Teams,122.0,Cisco,Yes,2025-04-21
+NSR-LT-0111,7-Zip,24.4,Igor Pavlov,Yes,2025-04-22
+NSR-LT-0112,Microsoft 365 Apps,122.0,Adobe,Yes,2025-04-23
+NSR-LT-0113,Power BI Desktop,2.5,Igor Pavlov,Yes,2025-04-24
+NSR-LT-0114,Google Chrome,122.0,Igor Pavlov,Yes,2025-04-25
+NSR-LT-0115,Google Chrome,1.0,Microsoft,No,2025-04-26
+NSR-LT-0116,Microsoft Teams,24.4,Google,Yes,2025-04-27
+NSR-LT-0117,Cisco AnyConnect,23.8,Google,Yes,2025-04-28
+NSR-LT-0118,Microsoft Teams,122.0,Adobe,Yes,2025-04-29
+NSR-LT-0119,Cisco AnyConnect,24.4,Google,Yes,2025-04-30
+NSR-LT-0120,Cisco AnyConnect,2.5,Igor Pavlov,Yes,2025-05-01
+NSR-LT-0121,Microsoft Teams,24.4,Adobe,Yes,2025-05-02
+NSR-LT-0122,Power BI Desktop,24.4,Adobe,Yes,2025-05-03
+NSR-LT-0123,Microsoft Teams,122.0,Cisco,Yes,2025-05-04
+NSR-LT-0124,Google Chrome,2.5,Microsoft,No,2025-05-05
+NSR-LT-0125,Cisco AnyConnect,2.5,Google,Yes,2025-05-06
+NSR-LT-0126,Power BI Desktop,24.4,Cisco,Yes,2025-05-07
+NSR-LT-0127,Power BI Desktop,2.5,Igor Pavlov,Yes,2025-05-08
+NSR-LT-0128,Microsoft Teams,24.4,Igor Pavlov,Yes,2025-05-09
+NSR-LT-0129,Power BI Desktop,122.0,Google,No,2025-05-10
+NSR-LT-0130,Cisco AnyConnect,24.4,Adobe,Yes,2025-05-11
+NSR-LT-0131,7-Zip,122.0,Microsoft,Yes,2025-05-12
+NSR-LT-0132,Microsoft 365 Apps,2.5,Microsoft,Yes,2025-05-13
+NSR-LT-0133,Power BI Desktop,23.8,Igor Pavlov,No,2025-05-14
+NSR-LT-0134,Microsoft 365 Apps,24.4,Adobe,Yes,2025-05-15
+NSR-LT-0135,Cisco AnyConnect,23.8,Google,Yes,2025-05-16
+NSR-LT-0136,Power BI Desktop,23.8,Adobe,Yes,2025-05-17
+NSR-LT-0137,Adobe Acrobat Reader,1.0,Adobe,No,2025-05-18
+NSR-LT-0138,7-Zip,2.5,Google,Yes,2025-05-19
+NSR-LT-0139,Google Chrome,122.0,Cisco,Yes,2025-05-20
+NSR-LT-0140,Cisco AnyConnect,23.8,Google,Yes,2025-05-21
+NSR-LT-0141,Power BI Desktop,24.4,Microsoft,Yes,2025-05-22
+NSR-LT-0142,7-Zip,23.8,Igor Pavlov,No,2025-05-23
+NSR-LT-0143,Microsoft Teams,2.5,Adobe,Yes,2025-05-24
+NSR-LT-0144,Google Chrome,122.0,Google,Yes,2025-05-25
+NSR-LT-0145,Power BI Desktop,1.0,Microsoft,Yes,2025-05-26
+NSR-LT-0146,Cisco AnyConnect,2.5,Adobe,Yes,2025-05-27
+NSR-LT-0147,Google Chrome,23.8,Adobe,Yes,2025-05-28
+NSR-LT-0148,Google Chrome,24.4,Adobe,Yes,2025-05-29
+NSR-LT-0149,Power BI Desktop,23.8,Google,Yes,2025-05-30
+NSR-LT-0150,Adobe Acrobat Reader,24.4,Cisco,Yes,2025-05-31
+NSR-LT-0151,Power BI Desktop,1.0,Cisco,No,2025-06-01
+NSR-LT-0152,Microsoft Teams,23.8,Microsoft,Yes,2025-06-02
+NSR-LT-0153,Microsoft Teams,24.4,Microsoft,Yes,2025-06-03
+NSR-LT-0154,Microsoft 365 Apps,24.4,Google,Yes,2025-06-04
+NSR-LT-0155,Microsoft 365 Apps,24.4,Google,Yes,2025-06-05
+NSR-LT-0156,Microsoft 365 Apps,23.8,Google,Yes,2025-06-06
+NSR-LT-0157,Microsoft 365 Apps,24.4,Adobe,Yes,2025-06-07
+NSR-LT-0158,Microsoft Teams,23.8,Igor Pavlov,No,2025-06-08
+NSR-LT-0159,Microsoft Teams,2.5,Google,Yes,2025-06-09
+NSR-LT-0160,Microsoft 365 Apps,1.0,Adobe,Yes,2025-06-10
+NSR-LT-0161,Power BI Desktop,24.4,Igor Pavlov,Yes,2025-06-11
+NSR-LT-0162,Cisco AnyConnect,122.0,Igor Pavlov,Yes,2025-06-12
+NSR-LT-0163,Google Chrome,122.0,Cisco,Yes,2025-06-13
+NSR-LT-0164,7-Zip,24.4,Google,Yes,2025-06-14
+NSR-LT-0165,7-Zip,122.0,Adobe,Yes,2025-06-15
+NSR-LT-0166,Adobe Acrobat Reader,122.0,Cisco,Yes,2025-06-16
+NSR-LT-0167,Adobe Acrobat Reader,23.8,Adobe,Yes,2025-06-17
+NSR-LT-0168,Cisco AnyConnect,2.5,Adobe,Yes,2025-06-18
+NSR-LT-0169,Microsoft 365 Apps,122.0,Cisco,Yes,2025-06-19
+NSR-LT-0170,Cisco AnyConnect,24.4,Google,Yes,2025-06-20
+NSR-LT-0171,Google Chrome,24.4,Igor Pavlov,Yes,2025-06-21
+NSR-LT-0172,Microsoft 365 Apps,24.4,Adobe,Yes,2025-06-22
+NSR-LT-0173,Microsoft Teams,1.0,Google,Yes,2025-06-23
+NSR-LT-0174,Microsoft Teams,24.4,Google,Yes,2025-06-24
+NSR-LT-0175,Adobe Acrobat Reader,2.5,Cisco,No,2025-06-25
+NSR-LT-0176,Google Chrome,24.4,Igor Pavlov,Yes,2025-06-26
+NSR-LT-0177,Cisco AnyConnect,1.0,Igor Pavlov,No,2025-06-27
+NSR-LT-0178,Microsoft Teams,122.0,Google,No,2025-06-28
+NSR-LT-0179,Google Chrome,23.8,Adobe,No,2025-06-29
+NSR-LT-0180,Google Chrome,122.0,Adobe,Yes,2025-06-30
+NSR-LT-0181,Microsoft Teams,1.0,Cisco,Yes,2025-07-01
+NSR-LT-0182,Cisco AnyConnect,1.0,Igor Pavlov,Yes,2025-07-02
+NSR-LT-0183,Adobe Acrobat Reader,23.8,Google,Yes,2025-07-03
+NSR-LT-0184,Microsoft Teams,23.8,Microsoft,Yes,2025-07-04
+NSR-LT-0185,Microsoft 365 Apps,122.0,Microsoft,Yes,2025-07-05
+NSR-LT-0186,Microsoft 365 Apps,23.8,Adobe,Yes,2025-07-06
+NSR-LT-0187,Google Chrome,24.4,Microsoft,Yes,2025-07-07
+NSR-LT-0188,Microsoft 365 Apps,2.5,Microsoft,Yes,2025-07-08
+NSR-LT-0189,Microsoft Teams,23.8,Igor Pavlov,Yes,2025-07-09
+NSR-LT-0190,Power BI Desktop,24.4,Adobe,Yes,2025-07-10
+NSR-LT-0191,Google Chrome,1.0,Adobe,Yes,2025-07-11
+NSR-LT-0192,Power BI Desktop,2.5,Microsoft,Yes,2025-07-12
+NSR-LT-0193,Power BI Desktop,24.4,Microsoft,Yes,2025-07-13
+NSR-LT-0194,Adobe Acrobat Reader,2.5,Cisco,Yes,2025-07-14
+NSR-LT-0195,Power BI Desktop,24.4,Microsoft,Yes,2025-07-15
+NSR-LT-0196,Power BI Desktop,2.5,Igor Pavlov,Yes,2025-07-16
+NSR-LT-0197,Microsoft Teams,1.0,Cisco,Yes,2025-07-17
+NSR-LT-0198,Google Chrome,1.0,Google,No,2025-07-18
+NSR-LT-0199,Microsoft Teams,24.4,Igor Pavlov,No,2025-07-19
+NSR-LT-0200,Cisco AnyConnect,23.8,Cisco,No,2025-07-20
+NSR-LT-0201,Google Chrome,1.0,Google,Yes,2025-07-21
+NSR-LT-0202,Microsoft 365 Apps,23.8,Igor Pavlov,No,2025-07-22
+NSR-LT-0203,Cisco AnyConnect,2.5,Adobe,Yes,2025-07-23
+NSR-LT-0204,Power BI Desktop,2.5,Microsoft,Yes,2025-07-24
+NSR-LT-0205,Google Chrome,24.4,Adobe,Yes,2025-07-25
+NSR-LT-0206,Microsoft Teams,23.8,Google,Yes,2025-07-26
+NSR-LT-0207,Adobe Acrobat Reader,2.5,Microsoft,Yes,2025-07-27
+NSR-LT-0208,7-Zip,24.4,Google,Yes,2025-07-28
+NSR-LT-0209,Cisco AnyConnect,1.0,Cisco,Yes,2025-07-29
+NSR-LT-0210,Adobe Acrobat Reader,1.0,Google,Yes,2025-07-30
+NSR-LT-0211,Power BI Desktop,1.0,Microsoft,Yes,2025-07-31
+NSR-LT-0212,Google Chrome,2.5,Google,Yes,2025-08-01
+NSR-LT-0213,Microsoft Teams,24.4,Cisco,Yes,2025-08-02
+NSR-LT-0214,7-Zip,23.8,Igor Pavlov,No,2025-08-03
+NSR-LT-0215,Microsoft Teams,1.0,Igor Pavlov,Yes,2025-08-04
+NSR-LT-0216,Google Chrome,2.5,Adobe,Yes,2025-08-05
+NSR-LT-0217,Adobe Acrobat Reader,24.4,Google,Yes,2025-08-06
+NSR-LT-0218,7-Zip,24.4,Cisco,Yes,2025-08-07
+NSR-LT-0219,Microsoft Teams,122.0,Adobe,Yes,2025-08-08
+NSR-LT-0220,Google Chrome,24.4,Adobe,Yes,2025-08-09
+NSR-LT-0221,Power BI Desktop,122.0,Cisco,Yes,2025-08-10
+NSR-LT-0222,7-Zip,2.5,Igor Pavlov,Yes,2025-08-11
+NSR-LT-0223,Power BI Desktop,23.8,Google,Yes,2025-08-12
+NSR-LT-0224,Adobe Acrobat Reader,1.0,Google,Yes,2025-08-13
+NSR-LT-0225,Google Chrome,2.5,Microsoft,Yes,2025-08-14
+NSR-LT-0226,Power BI Desktop,23.8,Google,Yes,2025-08-15
+NSR-LT-0227,Cisco AnyConnect,1.0,Google,Yes,2025-08-16
+NSR-LT-0228,Microsoft Teams,122.0,Igor Pavlov,Yes,2025-08-17
+NSR-LT-0229,Microsoft Teams,122.0,Adobe,Yes,2025-08-18
+NSR-LT-0230,Adobe Acrobat Reader,23.8,Microsoft,Yes,2025-08-19
+NSR-LT-0231,7-Zip,1.0,Microsoft,Yes,2025-08-20
+NSR-LT-0232,Microsoft Teams,1.0,Cisco,Yes,2025-08-21
+NSR-LT-0233,Adobe Acrobat Reader,2.5,Microsoft,Yes,2025-08-22
+NSR-LT-0234,7-Zip,24.4,Igor Pavlov,Yes,2025-08-23
+NSR-LT-0235,7-Zip,122.0,Adobe,Yes,2025-08-24
+NSR-LT-0236,Cisco AnyConnect,2.5,Google,No,2025-08-25
+NSR-LT-0237,Microsoft 365 Apps,1.0,Cisco,No,2025-08-26
+NSR-LT-0238,Adobe Acrobat Reader,1.0,Igor Pavlov,No,2025-08-27
+NSR-LT-0239,Microsoft 365 Apps,23.8,Google,No,2025-08-28
+NSR-LT-0240,Adobe Acrobat Reader,23.8,Microsoft,Yes,2025-08-29
+NSR-LT-0241,Cisco AnyConnect,122.0,Microsoft,No,2025-08-30
+NSR-LT-0242,Microsoft 365 Apps,23.8,Microsoft,Yes,2025-08-31
+NSR-LT-0243,7-Zip,1.0,Microsoft,No,2025-09-01
+NSR-LT-0244,Microsoft Teams,122.0,Igor Pavlov,Yes,2025-09-02
+NSR-LT-0245,Microsoft Teams,122.0,Cisco,Yes,2025-09-03
+NSR-LT-0246,Google Chrome,2.5,Google,No,2025-09-04
+NSR-LT-0247,7-Zip,24.4,Microsoft,No,2025-09-05
+NSR-LT-0248,7-Zip,23.8,Igor Pavlov,No,2025-09-06
+NSR-LT-0249,Google Chrome,24.4,Microsoft,Yes,2025-09-07
+NSR-LT-0250,Power BI Desktop,2.5,Google,Yes,2025-09-08
+NSR-LT-0251,7-Zip,23.8,Cisco,Yes,2025-09-09
+NSR-LT-0252,7-Zip,24.4,Adobe,Yes,2025-09-10
+NSR-LT-0253,7-Zip,23.8,Adobe,Yes,2025-09-11
+NSR-LT-0254,Power BI Desktop,24.4,Adobe,Yes,2025-09-12
+NSR-LT-0255,Microsoft Teams,122.0,Google,Yes,2025-09-13
+NSR-LT-0256,Adobe Acrobat Reader,122.0,Adobe,Yes,2025-09-14
+NSR-LT-0257,Adobe Acrobat Reader,24.4,Igor Pavlov,Yes,2025-09-15
+NSR-LT-0258,Google Chrome,1.0,Adobe,Yes,2025-09-16
+NSR-LT-0259,Microsoft 365 Apps,122.0,Cisco,Yes,2025-09-17
+NSR-LT-0260,Microsoft 365 Apps,23.8,Cisco,Yes,2025-09-18
+NSR-LT-0261,Power BI Desktop,23.8,Microsoft,No,2025-09-19
+NSR-LT-0262,Power BI Desktop,23.8,Google,Yes,2025-09-20
+NSR-LT-0263,7-Zip,122.0,Google,Yes,2025-09-21
+NSR-LT-0264,Microsoft 365 Apps,1.0,Igor Pavlov,Yes,2025-09-22
+NSR-LT-0265,Microsoft Teams,2.5,Adobe,Yes,2025-09-23
+NSR-LT-0266,7-Zip,2.5,Cisco,Yes,2025-09-24
+NSR-LT-0267,Power BI Desktop,23.8,Microsoft,Yes,2025-09-25
+NSR-LT-0268,Adobe Acrobat Reader,122.0,Cisco,No,2025-09-26
+NSR-LT-0269,Microsoft 365 Apps,23.8,Igor Pavlov,Yes,2025-09-27
+NSR-LT-0270,Adobe Acrobat Reader,122.0,Microsoft,Yes,2025-09-28
+NSR-LT-0271,Google Chrome,23.8,Microsoft,No,2025-09-29
+NSR-LT-0272,Power BI Desktop,122.0,Igor Pavlov,Yes,2025-09-30
+NSR-LT-0273,Power BI Desktop,1.0,Adobe,Yes,2025-10-01
+NSR-LT-0274,Power BI Desktop,24.4,Igor Pavlov,Yes,2025-10-02
+NSR-LT-0275,Power BI Desktop,2.5,Google,Yes,2025-10-03
+NSR-LT-0276,Google Chrome,24.4,Microsoft,Yes,2025-10-04
+NSR-LT-0277,7-Zip,1.0,Adobe,Yes,2025-10-05
+NSR-LT-0278,7-Zip,2.5,Adobe,Yes,2025-10-06
+NSR-LT-0279,Google Chrome,2.5,Cisco,Yes,2025-10-07
+NSR-LT-0280,Google Chrome,24.4,Igor Pavlov,Yes,2025-10-08
+NSR-LT-0281,7-Zip,122.0,Microsoft,Yes,2025-10-09
+NSR-LT-0282,Adobe Acrobat Reader,23.8,Igor Pavlov,Yes,2025-10-10
+NSR-LT-0283,Microsoft Teams,23.8,Microsoft,Yes,2025-10-11
+NSR-LT-0284,7-Zip,1.0,Google,Yes,2025-10-12
+NSR-LT-0285,Cisco AnyConnect,1.0,Igor Pavlov,Yes,2025-10-13
+NSR-LT-0286,Adobe Acrobat Reader,2.5,Cisco,Yes,2025-10-14
+NSR-LT-0287,7-Zip,2.5,Igor Pavlov,Yes,2025-10-15
+NSR-LT-0288,Google Chrome,122.0,Cisco,Yes,2025-10-16
+NSR-LT-0289,7-Zip,122.0,Cisco,Yes,2025-10-17
+NSR-LT-0290,Microsoft 365 Apps,23.8,Igor Pavlov,Yes,2025-10-18
+NSR-LT-0291,Google Chrome,122.0,Microsoft,Yes,2025-10-19
+NSR-LT-0292,Google Chrome,24.4,Igor Pavlov,Yes,2025-10-20
+NSR-LT-0293,Cisco AnyConnect,2.5,Adobe,Yes,2025-10-21
+NSR-LT-0294,7-Zip,1.0,Adobe,Yes,2025-10-22
+NSR-LT-0295,Cisco AnyConnect,122.0,Igor Pavlov,Yes,2025-10-23
+NSR-LT-0296,Microsoft Teams,24.4,Microsoft,Yes,2025-10-24
+NSR-LT-0297,Microsoft Teams,23.8,Cisco,No,2025-10-25
+NSR-LT-0298,Power BI Desktop,1.0,Microsoft,No,2025-10-26
+NSR-LT-0299,Microsoft 365 Apps,2.5,Google,Yes,2025-10-27
+NSR-LT-0300,Power BI Desktop,23.8,Microsoft,Yes,2025-10-28
+NSR-LT-0301,Google Chrome,1.0,Adobe,Yes,2025-10-29
+NSR-LT-0302,Adobe Acrobat Reader,1.0,Adobe,Yes,2025-10-30
+NSR-LT-0303,Google Chrome,122.0,Cisco,Yes,2025-10-31
+NSR-LT-0304,7-Zip,122.0,Adobe,Yes,2025-11-01
+NSR-LT-0305,Adobe Acrobat Reader,122.0,Cisco,No,2025-11-02
+NSR-LT-0306,Google Chrome,1.0,Igor Pavlov,Yes,2025-11-03
+NSR-LT-0307,Google Chrome,122.0,Microsoft,Yes,2025-11-04
+NSR-LT-0308,Microsoft Teams,1.0,Adobe,Yes,2025-11-05
+NSR-LT-0309,Power BI Desktop,122.0,Adobe,Yes,2025-11-06
+NSR-LT-0310,Adobe Acrobat Reader,1.0,Microsoft,Yes,2025-11-07
+NSR-LT-0311,Google Chrome,23.8,Adobe,Yes,2025-11-08
+NSR-LT-0312,Microsoft 365 Apps,23.8,Igor Pavlov,Yes,2025-11-09
+NSR-LT-0313,Adobe Acrobat Reader,122.0,Microsoft,Yes,2025-11-10
+NSR-LT-0314,Adobe Acrobat Reader,122.0,Google,Yes,2025-11-11
+NSR-LT-0315,Microsoft Teams,2.5,Google,Yes,2025-11-12
+NSR-LT-0316,7-Zip,1.0,Microsoft,Yes,2025-11-13
+NSR-LT-0317,7-Zip,23.8,Adobe,Yes,2025-11-14
+NSR-LT-0318,Adobe Acrobat Reader,2.5,Microsoft,Yes,2025-11-15
+NSR-LT-0319,Google Chrome,23.8,Adobe,No,2025-11-16
+NSR-LT-0320,Cisco AnyConnect,2.5,Google,Yes,2025-11-17
+NSR-LT-0321,Power BI Desktop,1.0,Adobe,Yes,2025-11-18
+NSR-LT-0322,Power BI Desktop,1.0,Google,Yes,2025-11-19
+NSR-LT-0323,Microsoft Teams,2.5,Adobe,Yes,2025-11-20
+NSR-LT-0324,Google Chrome,2.5,Microsoft,No,2025-11-21
+NSR-LT-0325,Adobe Acrobat Reader,122.0,Google,No,2025-11-22
+NSR-LT-0326,Google Chrome,2.5,Igor Pavlov,Yes,2025-11-23
+NSR-LT-0327,7-Zip,2.5,Igor Pavlov,Yes,2025-11-24
+NSR-LT-0328,7-Zip,23.8,Igor Pavlov,Yes,2025-11-25
+NSR-LT-0329,Microsoft Teams,2.5,Cisco,Yes,2025-11-26
+NSR-LT-0330,7-Zip,2.5,Cisco,Yes,2025-11-27
+NSR-LT-0331,Google Chrome,122.0,Cisco,Yes,2025-11-28
+NSR-LT-0332,Power BI Desktop,2.5,Google,Yes,2025-11-29
+NSR-LT-0333,Cisco AnyConnect,1.0,Google,Yes,2025-11-30
+NSR-LT-0334,Google Chrome,1.0,Cisco,Yes,2025-12-01
+NSR-LT-0335,Power BI Desktop,2.5,Microsoft,Yes,2025-12-02
+NSR-LT-0336,Adobe Acrobat Reader,24.4,Adobe,Yes,2025-12-03
+NSR-LT-0337,Google Chrome,23.8,Cisco,Yes,2025-12-04
+NSR-LT-0338,Microsoft 365 Apps,2.5,Cisco,Yes,2025-12-05
+NSR-LT-0339,Power BI Desktop,122.0,Google,Yes,2025-12-06
+NSR-LT-0340,7-Zip,122.0,Google,Yes,2025-12-07
+NSR-LT-0341,7-Zip,2.5,Cisco,No,2025-12-08
+NSR-LT-0342,Microsoft 365 Apps,23.8,Microsoft,No,2025-12-09
+NSR-LT-0343,Power BI Desktop,24.4,Cisco,Yes,2025-12-10
+NSR-LT-0344,Power BI Desktop,122.0,Igor Pavlov,No,2025-12-11
+NSR-LT-0345,Google Chrome,23.8,Cisco,Yes,2025-12-12
+NSR-LT-0346,Adobe Acrobat Reader,24.4,Cisco,Yes,2025-12-13
+NSR-LT-0347,Microsoft Teams,2.5,Microsoft,Yes,2025-12-14
+NSR-LT-0348,Power BI Desktop,1.0,Adobe,Yes,2025-12-15
+NSR-LT-0349,Microsoft Teams,2.5,Cisco,Yes,2025-12-16
+NSR-LT-0350,Microsoft Teams,24.4,Google,Yes,2025-12-17
+NSR-LT-0351,Google Chrome,23.8,Igor Pavlov,Yes,2025-12-18
+NSR-LT-0352,Adobe Acrobat Reader,24.4,Microsoft,Yes,2025-12-19
+NSR-LT-0353,Google Chrome,24.4,Adobe,Yes,2025-12-20
+NSR-LT-0354,7-Zip,122.0,Google,Yes,2025-12-21
+NSR-LT-0355,7-Zip,1.0,Google,Yes,2025-12-22
+NSR-LT-0356,Adobe Acrobat Reader,24.4,Microsoft,Yes,2025-12-23
+NSR-LT-0357,7-Zip,122.0,Igor Pavlov,No,2025-12-24
+NSR-LT-0358,Microsoft 365 Apps,122.0,Igor Pavlov,Yes,2025-12-25
+NSR-LT-0359,Power BI Desktop,1.0,Cisco,Yes,2025-12-26
+NSR-LT-0360,Adobe Acrobat Reader,24.4,Adobe,Yes,2025-12-27
+NSR-LT-0361,Adobe Acrobat Reader,2.5,Igor Pavlov,Yes,2025-12-28
+NSR-LT-0362,7-Zip,1.0,Google,Yes,2025-12-29
+NSR-LT-0363,Adobe Acrobat Reader,24.4,Microsoft,No,2025-12-30
+NSR-LT-0364,7-Zip,1.0,Cisco,Yes,2025-12-31
+NSR-LT-0365,Google Chrome,122.0,Cisco,Yes,2026-01-01
+NSR-LT-0366,Adobe Acrobat Reader,23.8,Igor Pavlov,Yes,2026-01-02
+NSR-LT-0367,Microsoft Teams,24.4,Google,No,2026-01-03
+NSR-LT-0368,Microsoft Teams,24.4,Microsoft,Yes,2026-01-04
+NSR-LT-0369,Cisco AnyConnect,2.5,Microsoft,Yes,2026-01-05
+NSR-LT-0370,Microsoft 365 Apps,24.4,Adobe,Yes,2026-01-06
+NSR-LT-0371,7-Zip,24.4,Google,Yes,2026-01-07
+NSR-LT-0372,Microsoft Teams,24.4,Google,Yes,2026-01-08
+NSR-LT-0373,Microsoft 365 Apps,2.5,Adobe,Yes,2026-01-09
+NSR-LT-0374,Power BI Desktop,2.5,Cisco,Yes,2026-01-10
+NSR-LT-0375,Microsoft Teams,1.0,Igor Pavlov,Yes,2026-01-11
+NSR-LT-0376,Cisco AnyConnect,24.4,Adobe,No,2026-01-12
+NSR-LT-0377,Microsoft Teams,1.0,Cisco,Yes,2026-01-13
+NSR-LT-0378,Microsoft 365 Apps,122.0,Adobe,Yes,2026-01-14
+NSR-LT-0379,Adobe Acrobat Reader,24.4,Igor Pavlov,Yes,2026-01-15
+NSR-LT-0380,Power BI Desktop,1.0,Google,Yes,2026-01-16
+NSR-LT-0381,Microsoft Teams,2.5,Google,No,2026-01-17
+NSR-LT-0382,Adobe Acrobat Reader,24.4,Igor Pavlov,Yes,2026-01-18
+NSR-LT-0383,Microsoft 365 Apps,122.0,Google,Yes,2026-01-19
+NSR-LT-0384,Microsoft Teams,122.0,Adobe,Yes,2026-01-20
+NSR-LT-0385,Google Chrome,122.0,Cisco,Yes,2026-01-21
+NSR-LT-0386,Microsoft Teams,2.5,Microsoft,No,2026-01-22
+NSR-LT-0387,Cisco AnyConnect,1.0,Cisco,Yes,2026-01-23
+NSR-LT-0388,Google Chrome,122.0,Google,Yes,2026-01-24
+NSR-LT-0389,Cisco AnyConnect,1.0,Microsoft,Yes,2026-01-25
+NSR-LT-0390,Adobe Acrobat Reader,2.5,Cisco,No,2026-01-26
+NSR-LT-0391,Cisco AnyConnect,122.0,Google,Yes,2026-01-27
+NSR-LT-0392,Power BI Desktop,122.0,Cisco,Yes,2026-01-28
+NSR-LT-0393,Google Chrome,122.0,Adobe,Yes,2026-01-29
+NSR-LT-0394,Microsoft 365 Apps,23.8,Adobe,Yes,2026-01-30
+NSR-LT-0395,Adobe Acrobat Reader,1.0,Igor Pavlov,Yes,2026-01-31
+NSR-LT-0396,Microsoft 365 Apps,23.8,Igor Pavlov,Yes,2026-02-01
+NSR-LT-0397,Microsoft 365 Apps,23.8,Adobe,Yes,2026-02-02
+NSR-LT-0398,Adobe Acrobat Reader,122.0,Cisco,No,2026-02-03
+NSR-LT-0399,Microsoft Teams,122.0,Microsoft,Yes,2026-02-04
+NSR-LT-0400,7-Zip,122.0,Microsoft,Yes,2026-02-05
+NSR-LT-0401,Google Chrome,122.0,Adobe,Yes,2026-02-06
+NSR-LT-0402,7-Zip,23.8,Adobe,Yes,2026-02-07
+NSR-LT-0403,7-Zip,122.0,Adobe,Yes,2026-02-08
+NSR-LT-0404,7-Zip,122.0,Igor Pavlov,Yes,2026-02-09
+NSR-LT-0405,Google Chrome,24.4,Igor Pavlov,Yes,2026-02-10
+NSR-LT-0406,7-Zip,2.5,Adobe,Yes,2026-02-11
+NSR-LT-0407,Microsoft 365 Apps,1.0,Microsoft,Yes,2026-02-12
+NSR-LT-0408,Google Chrome,1.0,Cisco,Yes,2026-02-13
+NSR-LT-0409,Adobe Acrobat Reader,24.4,Microsoft,Yes,2026-02-14
+NSR-LT-0410,Cisco AnyConnect,122.0,Cisco,Yes,2026-02-15
+NSR-LT-0411,Google Chrome,2.5,Adobe,Yes,2026-02-16
+NSR-LT-0412,Power BI Desktop,1.0,Adobe,Yes,2026-02-17
+NSR-LT-0413,7-Zip,122.0,Adobe,Yes,2026-02-18
+NSR-LT-0414,Microsoft 365 Apps,23.8,Adobe,Yes,2026-02-19
+NSR-LT-0415,Google Chrome,122.0,Google,Yes,2026-02-20
+NSR-LT-0416,Power BI Desktop,2.5,Cisco,Yes,2026-02-21
+NSR-LT-0417,Power BI Desktop,23.8,Igor Pavlov,Yes,2026-02-22
+NSR-LT-0418,Power BI Desktop,1.0,Cisco,Yes,2026-02-23
+NSR-LT-0419,Microsoft Teams,24.4,Google,Yes,2026-02-24
+NSR-LT-0420,Adobe Acrobat Reader,24.4,Microsoft,Yes,2026-02-25
+NSR-LT-0421,Cisco AnyConnect,122.0,Adobe,Yes,2026-02-26
+NSR-LT-0422,7-Zip,1.0,Cisco,Yes,2026-02-27
+NSR-LT-0423,Google Chrome,23.8,Adobe,Yes,2026-02-28
+NSR-LT-0424,Microsoft Teams,23.8,Microsoft,Yes,2026-03-01
+NSR-LT-0425,Adobe Acrobat Reader,122.0,Cisco,Yes,2026-03-02
+NSR-LT-0426,7-Zip,24.4,Cisco,Yes,2026-03-03
+NSR-LT-0427,Microsoft 365 Apps,23.8,Adobe,No,2026-03-04
+NSR-LT-0428,Microsoft 365 Apps,23.8,Igor Pavlov,Yes,2026-03-05
+NSR-LT-0429,Adobe Acrobat Reader,2.5,Adobe,Yes,2026-03-06
+NSR-LT-0430,Power BI Desktop,23.8,Cisco,Yes,2026-03-07
+NSR-LT-0431,Cisco AnyConnect,2.5,Microsoft,Yes,2026-03-08
+NSR-LT-0432,Power BI Desktop,1.0,Cisco,Yes,2026-03-09
+NSR-LT-0433,Adobe Acrobat Reader,122.0,Microsoft,Yes,2026-03-10
+NSR-LT-0434,7-Zip,2.5,Cisco,Yes,2026-03-11
+NSR-LT-0435,Adobe Acrobat Reader,122.0,Adobe,Yes,2026-03-12
+NSR-LT-0436,Microsoft Teams,1.0,Google,No,2026-03-13
+NSR-LT-0437,Microsoft Teams,2.5,Microsoft,Yes,2026-03-14
+NSR-LT-0438,Adobe Acrobat Reader,122.0,Microsoft,Yes,2026-03-15
+NSR-LT-0439,Cisco AnyConnect,1.0,Google,Yes,2026-03-16
+NSR-LT-0440,Cisco AnyConnect,24.4,Microsoft,Yes,2026-03-17
+NSR-LT-0441,7-Zip,23.8,Microsoft,Yes,2026-03-18
+NSR-LT-0442,Power BI Desktop,23.8,Cisco,Yes,2026-03-19
+NSR-LT-0443,Microsoft Teams,2.5,Adobe,Yes,2026-03-20
+NSR-LT-0444,7-Zip,23.8,Igor Pavlov,No,2026-03-21
+NSR-LT-0445,Microsoft 365 Apps,23.8,Cisco,Yes,2026-03-22
+NSR-LT-0446,Cisco AnyConnect,1.0,Microsoft,Yes,2026-03-23
+NSR-LT-0447,7-Zip,122.0,Microsoft,Yes,2026-03-24
+NSR-LT-0448,7-Zip,23.8,Google,Yes,2026-03-25
+NSR-LT-0449,Cisco AnyConnect,2.5,Adobe,Yes,2026-03-26
+NSR-LT-0450,Microsoft Teams,2.5,Microsoft,Yes,2026-03-27
+NSR-LT-0451,7-Zip,23.8,Google,Yes,2026-03-28
+NSR-LT-0452,Microsoft 365 Apps,2.5,Microsoft,Yes,2026-03-29
+NSR-LT-0453,Google Chrome,1.0,Microsoft,Yes,2026-03-30
+NSR-LT-0454,Microsoft 365 Apps,1.0,Igor Pavlov,Yes,2026-03-31
+NSR-LT-0455,Microsoft Teams,122.0,Google,No,2026-04-01
+NSR-LT-0456,Power BI Desktop,24.4,Google,Yes,2026-04-02
+NSR-LT-0457,Cisco AnyConnect,23.8,Cisco,No,2026-04-03
+NSR-LT-0458,Power BI Desktop,122.0,Microsoft,Yes,2026-04-04
+NSR-LT-0459,7-Zip,2.5,Microsoft,No,2026-04-05
+NSR-LT-0460,Adobe Acrobat Reader,1.0,Igor Pavlov,Yes,2026-04-06
+NSR-LT-0461,Google Chrome,24.4,Igor Pavlov,Yes,2026-04-07
+NSR-LT-0462,Microsoft Teams,2.5,Google,Yes,2026-04-08
+NSR-LT-0463,Cisco AnyConnect,24.4,Cisco,No,2026-04-09
+NSR-LT-0464,Google Chrome,23.8,Adobe,Yes,2026-04-10
+NSR-LT-0465,Adobe Acrobat Reader,1.0,Microsoft,Yes,2026-04-11
+NSR-LT-0466,Microsoft 365 Apps,23.8,Igor Pavlov,Yes,2026-04-12
+NSR-LT-0467,Power BI Desktop,2.5,Adobe,Yes,2026-04-13
+NSR-LT-0468,7-Zip,122.0,Cisco,Yes,2026-04-14
+NSR-LT-0469,Microsoft 365 Apps,24.4,Microsoft,Yes,2026-04-15
+NSR-LT-0470,7-Zip,1.0,Adobe,Yes,2026-04-16
+NSR-LT-0471,Adobe Acrobat Reader,24.4,Google,Yes,2026-04-17
+NSR-LT-0472,Microsoft Teams,122.0,Cisco,Yes,2026-04-18
+NSR-LT-0473,Microsoft Teams,24.4,Igor Pavlov,Yes,2026-04-19
+NSR-LT-0474,Cisco AnyConnect,2.5,Google,Yes,2026-04-20
+NSR-LT-0475,Power BI Desktop,24.4,Google,Yes,2026-04-21
+NSR-LT-0476,7-Zip,2.5,Cisco,No,2026-04-22
+NSR-LT-0477,Google Chrome,1.0,Google,Yes,2026-04-23
+NSR-LT-0478,Microsoft 365 Apps,122.0,Google,Yes,2026-04-24
+NSR-LT-0479,Cisco AnyConnect,122.0,Microsoft,Yes,2026-04-25
+NSR-LT-0480,Microsoft Teams,23.8,Igor Pavlov,Yes,2026-04-26
+NSR-LT-0481,7-Zip,1.0,Google,Yes,2026-04-27
+NSR-LT-0482,Cisco AnyConnect,24.4,Microsoft,Yes,2026-04-28
+NSR-LT-0483,Microsoft Teams,2.5,Google,No,2026-04-29
+NSR-LT-0484,Power BI Desktop,1.0,Cisco,No,2026-04-30
+NSR-LT-0485,Microsoft Teams,24.4,Google,Yes,2026-05-01
+NSR-LT-0486,Adobe Acrobat Reader,122.0,Google,Yes,2026-05-02
+NSR-LT-0487,Microsoft Teams,2.5,Adobe,Yes,2026-05-03
+NSR-LT-0488,7-Zip,23.8,Igor Pavlov,No,2026-05-04
+NSR-LT-0489,Cisco AnyConnect,1.0,Google,Yes,2026-05-05
+NSR-LT-0490,7-Zip,122.0,Igor Pavlov,Yes,2026-05-06
+NSR-LT-0491,Power BI Desktop,23.8,Microsoft,Yes,2026-05-07
+NSR-LT-0492,7-Zip,1.0,Microsoft,No,2026-05-08
+NSR-LT-0493,7-Zip,23.8,Microsoft,Yes,2026-05-09
+NSR-LT-0494,Power BI Desktop,1.0,Cisco,Yes,2026-05-10
+NSR-LT-0495,Google Chrome,122.0,Igor Pavlov,No,2026-05-11
+NSR-LT-0496,Cisco AnyConnect,24.4,Igor Pavlov,Yes,2026-05-12
+NSR-LT-0497,Adobe Acrobat Reader,122.0,Cisco,No,2026-05-13
+NSR-LT-0498,Microsoft Teams,24.4,Cisco,Yes,2026-05-14
+NSR-LT-0499,7-Zip,24.4,Adobe,Yes,2026-05-15
+NSR-LT-0500,Microsoft Teams,23.8,Cisco,Yes,2025-01-01
+NSR-LT-0001,Microsoft 365 Apps,1.0,Microsoft,Yes,2025-01-02
+NSR-LT-0002,Google Chrome,24.4,Igor Pavlov,Yes,2025-01-03
+NSR-LT-0003,Microsoft 365 Apps,2.5,Igor Pavlov,Yes,2025-01-04
+NSR-LT-0004,Power BI Desktop,122.0,Igor Pavlov,Yes,2025-01-05
+NSR-LT-0005,Microsoft Teams,24.4,Google,Yes,2025-01-06
+NSR-LT-0006,7-Zip,24.4,Igor Pavlov,Yes,2025-01-07
+NSR-LT-0007,Microsoft Teams,2.5,Igor Pavlov,Yes,2025-01-08
+NSR-LT-0008,Microsoft 365 Apps,122.0,Igor Pavlov,No,2025-01-09
+NSR-LT-0009,Microsoft Teams,122.0,Adobe,Yes,2025-01-10
+NSR-LT-0010,7-Zip,122.0,Adobe,Yes,2025-01-11
+NSR-LT-0011,Microsoft 365 Apps,122.0,Igor Pavlov,No,2025-01-12
+NSR-LT-0012,Cisco AnyConnect,1.0,Google,Yes,2025-01-13
+NSR-LT-0013,Google Chrome,1.0,Cisco,No,2025-01-14
+NSR-LT-0014,Google Chrome,122.0,Adobe,Yes,2025-01-15
+NSR-LT-0015,7-Zip,1.0,Google,Yes,2025-01-16
+NSR-LT-0016,Microsoft 365 Apps,2.5,Igor Pavlov,No,2025-01-17
+NSR-LT-0017,Google Chrome,1.0,Google,Yes,2025-01-18
+NSR-LT-0018,Cisco AnyConnect,122.0,Microsoft,Yes,2025-01-19
+NSR-LT-0019,7-Zip,1.0,Igor Pavlov,Yes,2025-01-20
+NSR-LT-0020,7-Zip,24.4,Google,No,2025-01-21
+NSR-LT-0021,Cisco AnyConnect,24.4,Adobe,Yes,2025-01-22
+NSR-LT-0022,Cisco AnyConnect,2.5,Microsoft,No,2025-01-23
+NSR-LT-0023,7-Zip,23.8,Google,Yes,2025-01-24
+NSR-LT-0024,Microsoft 365 Apps,24.4,Google,Yes,2025-01-25
+NSR-LT-0025,7-Zip,1.0,Adobe,No,2025-01-26
+NSR-LT-0026,7-Zip,1.0,Adobe,Yes,2025-01-27
+NSR-LT-0027,Microsoft 365 Apps,2.5,Google,Yes,2025-01-28
+NSR-LT-0028,Power BI Desktop,23.8,Adobe,Yes,2025-01-29
+NSR-LT-0029,7-Zip,23.8,Adobe,Yes,2025-01-30
+NSR-LT-0030,Microsoft 365 Apps,1.0,Google,Yes,2025-01-31
+NSR-LT-0031,7-Zip,2.5,Igor Pavlov,Yes,2025-02-01
+NSR-LT-0032,Power BI Desktop,2.5,Adobe,No,2025-02-02
+NSR-LT-0033,Microsoft Teams,24.4,Cisco,Yes,2025-02-03
+NSR-LT-0034,Power BI Desktop,1.0,Adobe,Yes,2025-02-04
+NSR-LT-0035,Microsoft Teams,122.0,Cisco,Yes,2025-02-05
+NSR-LT-0036,Power BI Desktop,24.4,Igor Pavlov,Yes,2025-02-06
+NSR-LT-0037,Google Chrome,24.4,Cisco,Yes,2025-02-07
+NSR-LT-0038,7-Zip,23.8,Microsoft,No,2025-02-08
+NSR-LT-0039,Cisco AnyConnect,1.0,Microsoft,Yes,2025-02-09
+NSR-LT-0040,Adobe Acrobat Reader,24.4,Igor Pavlov,Yes,2025-02-10
+NSR-LT-0041,Adobe Acrobat Reader,122.0,Cisco,Yes,2025-02-11
+NSR-LT-0042,Google Chrome,24.4,Igor Pavlov,Yes,2025-02-12
+NSR-LT-0043,Microsoft Teams,122.0,Igor Pavlov,Yes,2025-02-13
+NSR-LT-0044,Cisco AnyConnect,24.4,Igor Pavlov,No,2025-02-14
+NSR-LT-0045,Cisco AnyConnect,122.0,Microsoft,Yes,2025-02-15
+NSR-LT-0046,7-Zip,23.8,Igor Pavlov,Yes,2025-02-16
+NSR-LT-0047,Google Chrome,23.8,Adobe,Yes,2025-02-17
+NSR-LT-0048,Cisco AnyConnect,1.0,Adobe,No,2025-02-18
+NSR-LT-0049,7-Zip,24.4,Igor Pavlov,No,2025-02-19
+NSR-LT-0050,Google Chrome,2.5,Google,Yes,2025-02-20
+NSR-LT-0051,7-Zip,23.8,Cisco,Yes,2025-02-21
+NSR-LT-0052,7-Zip,1.0,Microsoft,Yes,2025-02-22
+NSR-LT-0053,Microsoft 365 Apps,24.4,Microsoft,Yes,2025-02-23
+NSR-LT-0054,Microsoft 365 Apps,24.4,Adobe,Yes,2025-02-24
+NSR-LT-0055,Google Chrome,23.8,Adobe,Yes,2025-02-25
+NSR-LT-0056,Microsoft 365 Apps,1.0,Google,Yes,2025-02-26
+NSR-LT-0057,Microsoft 365 Apps,122.0,Cisco,Yes,2025-02-27
+NSR-LT-0058,Google Chrome,1.0,Microsoft,Yes,2025-02-28
+NSR-LT-0059,Power BI Desktop,122.0,Cisco,Yes,2025-03-01
+NSR-LT-0060,Google Chrome,122.0,Cisco,Yes,2025-03-02
+NSR-LT-0061,Google Chrome,2.5,Adobe,Yes,2025-03-03
+NSR-LT-0062,Adobe Acrobat Reader,1.0,Igor Pavlov,Yes,2025-03-04
+NSR-LT-0063,Power BI Desktop,24.4,Adobe,Yes,2025-03-05
+NSR-LT-0064,Microsoft Teams,1.0,Adobe,Yes,2025-03-06
+NSR-LT-0065,Adobe Acrobat Reader,24.4,Adobe,Yes,2025-03-07
+NSR-LT-0066,Cisco AnyConnect,23.8,Cisco,Yes,2025-03-08
+NSR-LT-0067,Microsoft 365 Apps,24.4,Cisco,Yes,2025-03-09
+NSR-LT-0068,Adobe Acrobat Reader,2.5,Igor Pavlov,Yes,2025-03-10
+NSR-LT-0069,Microsoft Teams,122.0,Igor Pavlov,Yes,2025-03-11
+NSR-LT-0070,7-Zip,1.0,Igor Pavlov,No,2025-03-12
+NSR-LT-0071,Cisco AnyConnect,1.0,Microsoft,Yes,2025-03-13
+NSR-LT-0072,Microsoft 365 Apps,122.0,Adobe,Yes,2025-03-14
+NSR-LT-0073,Microsoft 365 Apps,24.4,Cisco,No,2025-03-15
+NSR-LT-0074,Google Chrome,1.0,Microsoft,No,2025-03-16
+NSR-LT-0075,Adobe Acrobat Reader,23.8,Cisco,No,2025-03-17
+NSR-LT-0076,Cisco AnyConnect,24.4,Google,Yes,2025-03-18
+NSR-LT-0077,7-Zip,24.4,Igor Pavlov,Yes,2025-03-19
+NSR-LT-0078,Adobe Acrobat Reader,1.0,Google,Yes,2025-03-20
+NSR-LT-0079,Microsoft 365 Apps,24.4,Igor Pavlov,Yes,2025-03-21
+NSR-LT-0080,7-Zip,122.0,Adobe,Yes,2025-03-22
+NSR-LT-0081,Google Chrome,23.8,Igor Pavlov,Yes,2025-03-23
+NSR-LT-0082,Google Chrome,1.0,Adobe,Yes,2025-03-24
+NSR-LT-0083,Power BI Desktop,23.8,Microsoft,Yes,2025-03-25
+NSR-LT-0084,Power BI Desktop,23.8,Cisco,Yes,2025-03-26
+NSR-LT-0085,7-Zip,1.0,Igor Pavlov,No,2025-03-27
+NSR-LT-0086,Microsoft Teams,23.8,Igor Pavlov,Yes,2025-03-28
+NSR-LT-0087,Google Chrome,23.8,Igor Pavlov,Yes,2025-03-29
+NSR-LT-0088,Google Chrome,24.4,Cisco,Yes,2025-03-30
+NSR-LT-0089,Microsoft 365 Apps,2.5,Microsoft,No,2025-03-31
+NSR-LT-0090,7-Zip,2.5,Igor Pavlov,Yes,2025-04-01
+NSR-LT-0091,Microsoft 365 Apps,122.0,Adobe,Yes,2025-04-02
+NSR-LT-0092,7-Zip,24.4,Microsoft,Yes,2025-04-03
+NSR-LT-0093,Cisco AnyConnect,1.0,Adobe,No,2025-04-04
+NSR-LT-0094,Microsoft 365 Apps,24.4,Microsoft,Yes,2025-04-05
+NSR-LT-0095,Power BI Desktop,122.0,Igor Pavlov,No,2025-04-06
+NSR-LT-0096,Power BI Desktop,122.0,Cisco,No,2025-04-07
+NSR-LT-0097,7-Zip,2.5,Microsoft,Yes,2025-04-08
+NSR-LT-0098,Google Chrome,2.5,Igor Pavlov,No,2025-04-09
+NSR-LT-0099,Microsoft 365 Apps,24.4,Google,Yes,2025-04-10
+NSR-LT-0100,Microsoft Teams,2.5,Microsoft,Yes,2025-04-11
+NSR-LT-0101,Google Chrome,1.0,Adobe,Yes,2025-04-12
+NSR-LT-0102,Adobe Acrobat Reader,122.0,Cisco,Yes,2025-04-13
+NSR-LT-0103,Microsoft 365 Apps,1.0,Microsoft,Yes,2025-04-14
+NSR-LT-0104,7-Zip,122.0,Cisco,Yes,2025-04-15
+NSR-LT-0105,Power BI Desktop,2.5,Igor Pavlov,Yes,2025-04-16
+NSR-LT-0106,Power BI Desktop,24.4,Adobe,Yes,2025-04-17
+NSR-LT-0107,Google Chrome,122.0,Google,Yes,2025-04-18
+NSR-LT-0108,Cisco AnyConnect,2.5,Microsoft,Yes,2025-04-19
+NSR-LT-0109,Microsoft Teams,23.8,Microsoft,Yes,2025-04-20
+NSR-LT-0110,Cisco AnyConnect,2.5,Igor Pavlov,Yes,2025-04-21
+NSR-LT-0111,Google Chrome,23.8,Google,Yes,2025-04-22
+NSR-LT-0112,Adobe Acrobat Reader,2.5,Google,Yes,2025-04-23
+NSR-LT-0113,Microsoft Teams,1.0,Google,Yes,2025-04-24
+NSR-LT-0114,Power BI Desktop,2.5,Microsoft,Yes,2025-04-25
+NSR-LT-0115,Microsoft 365 Apps,1.0,Microsoft,Yes,2025-04-26
+NSR-LT-0116,Microsoft 365 Apps,122.0,Adobe,Yes,2025-04-27
+NSR-LT-0117,Google Chrome,24.4,Cisco,Yes,2025-04-28
+NSR-LT-0118,Microsoft Teams,23.8,Google,Yes,2025-04-29
+NSR-LT-0119,Adobe Acrobat Reader,2.5,Cisco,Yes,2025-04-30
+NSR-LT-0120,Google Chrome,1.0,Google,Yes,2025-05-01
+NSR-LT-0121,Google Chrome,24.4,Google,Yes,2025-05-02
+NSR-LT-0122,Google Chrome,23.8,Adobe,Yes,2025-05-03
+NSR-LT-0123,Microsoft 365 Apps,122.0,Cisco,Yes,2025-05-04
+NSR-LT-0124,Microsoft 365 Apps,122.0,Microsoft,Yes,2025-05-05
+NSR-LT-0125,Cisco AnyConnect,122.0,Google,Yes,2025-05-06
+NSR-LT-0126,Adobe Acrobat Reader,2.5,Adobe,Yes,2025-05-07
+NSR-LT-0127,Microsoft Teams,1.0,Cisco,No,2025-05-08
+NSR-LT-0128,Power BI Desktop,24.4,Igor Pavlov,Yes,2025-05-09
+NSR-LT-0129,Microsoft Teams,1.0,Microsoft,No,2025-05-10
+NSR-LT-0130,Cisco AnyConnect,23.8,Cisco,Yes,2025-05-11
+NSR-LT-0131,Cisco AnyConnect,23.8,Google,Yes,2025-05-12
+NSR-LT-0132,Microsoft 365 Apps,1.0,Microsoft,Yes,2025-05-13
+NSR-LT-0133,Microsoft Teams,2.5,Microsoft,Yes,2025-05-14
+NSR-LT-0134,7-Zip,1.0,Microsoft,Yes,2025-05-15
+NSR-LT-0135,Google Chrome,24.4,Google,Yes,2025-05-16
+NSR-LT-0136,Cisco AnyConnect,24.4,Cisco,No,2025-05-17
+NSR-LT-0137,Google Chrome,23.8,Cisco,Yes,2025-05-18
+NSR-LT-0138,Cisco AnyConnect,2.5,Microsoft,Yes,2025-05-19
+NSR-LT-0139,Google Chrome,24.4,Cisco,Yes,2025-05-20
+NSR-LT-0140,Microsoft Teams,1.0,Igor Pavlov,Yes,2025-05-21
+NSR-LT-0141,Adobe Acrobat Reader,1.0,Igor Pavlov,Yes,2025-05-22
+NSR-LT-0142,Microsoft Teams,122.0,Igor Pavlov,Yes,2025-05-23
+NSR-LT-0143,Adobe Acrobat Reader,23.8,Cisco,Yes,2025-05-24
+NSR-LT-0144,Google Chrome,2.5,Adobe,Yes,2025-05-25
+NSR-LT-0145,Microsoft Teams,23.8,Cisco,Yes,2025-05-26
+NSR-LT-0146,Google Chrome,122.0,Microsoft,Yes,2025-05-27
+NSR-LT-0147,Microsoft Teams,1.0,Igor Pavlov,Yes,2025-05-28
+NSR-LT-0148,Adobe Acrobat Reader,2.5,Adobe,Yes,2025-05-29
+NSR-LT-0149,Cisco AnyConnect,122.0,Cisco,No,2025-05-30
+NSR-LT-0150,7-Zip,2.5,Google,Yes,2025-05-31
+NSR-LT-0151,Power BI Desktop,2.5,Microsoft,Yes,2025-06-01
+NSR-LT-0152,Power BI Desktop,122.0,Igor Pavlov,Yes,2025-06-02
+NSR-LT-0153,7-Zip,24.4,Igor Pavlov,Yes,2025-06-03
+NSR-LT-0154,Microsoft 365 Apps,24.4,Cisco,Yes,2025-06-04
+NSR-LT-0155,Cisco AnyConnect,24.4,Google,Yes,2025-06-05
+NSR-LT-0156,7-Zip,2.5,Google,Yes,2025-06-06
+NSR-LT-0157,Adobe Acrobat Reader,1.0,Microsoft,Yes,2025-06-07
+NSR-LT-0158,Google Chrome,122.0,Microsoft,Yes,2025-06-08
+NSR-LT-0159,7-Zip,24.4,Igor Pavlov,No,2025-06-09
+NSR-LT-0160,Power BI Desktop,1.0,Igor Pavlov,Yes,2025-06-10
+NSR-LT-0161,Microsoft Teams,1.0,Google,Yes,2025-06-11
+NSR-LT-0162,Google Chrome,24.4,Cisco,Yes,2025-06-12
+NSR-LT-0163,Cisco AnyConnect,23.8,Cisco,No,2025-06-13
+NSR-LT-0164,Microsoft 365 Apps,1.0,Igor Pavlov,No,2025-06-14
+NSR-LT-0165,Cisco AnyConnect,2.5,Igor Pavlov,Yes,2025-06-15
+NSR-LT-0166,Google Chrome,122.0,Microsoft,Yes,2025-06-16
+NSR-LT-0167,Adobe Acrobat Reader,2.5,Igor Pavlov,Yes,2025-06-17
+NSR-LT-0168,Power BI Desktop,23.8,Igor Pavlov,No,2025-06-18
+NSR-LT-0169,Google Chrome,1.0,Microsoft,Yes,2025-06-19
+NSR-LT-0170,Google Chrome,23.8,Google,Yes,2025-06-20
+NSR-LT-0171,Cisco AnyConnect,24.4,Adobe,No,2025-06-21
+NSR-LT-0172,7-Zip,122.0,Google,Yes,2025-06-22
+NSR-LT-0173,Power BI Desktop,1.0,Google,Yes,2025-06-23
+NSR-LT-0174,Google Chrome,1.0,Google,No,2025-06-24
+NSR-LT-0175,Cisco AnyConnect,1.0,Microsoft,Yes,2025-06-25
+NSR-LT-0176,Cisco AnyConnect,24.4,Google,Yes,2025-06-26
+NSR-LT-0177,Cisco AnyConnect,23.8,Cisco,No,2025-06-27
+NSR-LT-0178,7-Zip,1.0,Google,No,2025-06-28
+NSR-LT-0179,Power BI Desktop,2.5,Cisco,Yes,2025-06-29
+NSR-LT-0180,Microsoft Teams,122.0,Microsoft,No,2025-06-30
+NSR-LT-0181,Adobe Acrobat Reader,122.0,Cisco,No,2025-07-01
+NSR-LT-0182,Power BI Desktop,2.5,Adobe,Yes,2025-07-02
+NSR-LT-0183,Cisco AnyConnect,122.0,Igor Pavlov,Yes,2025-07-03
+NSR-LT-0184,Microsoft 365 Apps,1.0,Adobe,Yes,2025-07-04
+NSR-LT-0185,Adobe Acrobat Reader,24.4,Google,Yes,2025-07-05
+NSR-LT-0186,Power BI Desktop,1.0,Igor Pavlov,No,2025-07-06
+NSR-LT-0187,7-Zip,122.0,Adobe,Yes,2025-07-07
+NSR-LT-0188,7-Zip,23.8,Microsoft,Yes,2025-07-08
+NSR-LT-0189,Adobe Acrobat Reader,1.0,Microsoft,Yes,2025-07-09
+NSR-LT-0190,Microsoft Teams,23.8,Microsoft,Yes,2025-07-10
+NSR-LT-0191,Microsoft Teams,23.8,Microsoft,No,2025-07-11
+NSR-LT-0192,Microsoft Teams,24.4,Cisco,Yes,2025-07-12
+NSR-LT-0193,7-Zip,1.0,Adobe,Yes,2025-07-13
+NSR-LT-0194,Google Chrome,122.0,Cisco,Yes,2025-07-14
+NSR-LT-0195,Cisco AnyConnect,24.4,Igor Pavlov,No,2025-07-15
+NSR-LT-0196,Google Chrome,1.0,Adobe,Yes,2025-07-16
+NSR-LT-0197,Microsoft 365 Apps,1.0,Cisco,Yes,2025-07-17
+NSR-LT-0198,Google Chrome,23.8,Igor Pavlov,Yes,2025-07-18
+NSR-LT-0199,Cisco AnyConnect,23.8,Igor Pavlov,Yes,2025-07-19
+NSR-LT-0200,Google Chrome,122.0,Google,Yes,2025-07-20
+NSR-LT-0201,Adobe Acrobat Reader,23.8,Google,Yes,2025-07-21
+NSR-LT-0202,Power BI Desktop,23.8,Cisco,Yes,2025-07-22
+NSR-LT-0203,Microsoft Teams,24.4,Adobe,Yes,2025-07-23
+NSR-LT-0204,Power BI Desktop,1.0,Cisco,Yes,2025-07-24
+NSR-LT-0205,Cisco AnyConnect,24.4,Cisco,Yes,2025-07-25
+NSR-LT-0206,Microsoft Teams,122.0,Adobe,Yes,2025-07-26
+NSR-LT-0207,Microsoft Teams,2.5,Cisco,Yes,2025-07-27
+NSR-LT-0208,Microsoft 365 Apps,1.0,Adobe,Yes,2025-07-28
+NSR-LT-0209,Microsoft Teams,24.4,Adobe,Yes,2025-07-29
+NSR-LT-0210,Microsoft Teams,2.5,Google,No,2025-07-30
+NSR-LT-0211,Microsoft 365 Apps,23.8,Adobe,Yes,2025-07-31
+NSR-LT-0212,Cisco AnyConnect,24.4,Google,Yes,2025-08-01
+NSR-LT-0213,7-Zip,23.8,Microsoft,Yes,2025-08-02
+NSR-LT-0214,Adobe Acrobat Reader,24.4,Cisco,Yes,2025-08-03
+NSR-LT-0215,Cisco AnyConnect,2.5,Microsoft,No,2025-08-04
+NSR-LT-0216,7-Zip,122.0,Adobe,No,2025-08-05
+NSR-LT-0217,Google Chrome,23.8,Igor Pavlov,Yes,2025-08-06
+NSR-LT-0218,Power BI Desktop,122.0,Cisco,Yes,2025-08-07
+NSR-LT-0219,Google Chrome,24.4,Adobe,No,2025-08-08
+NSR-LT-0220,Microsoft 365 Apps,24.4,Microsoft,Yes,2025-08-09
+NSR-LT-0221,Google Chrome,122.0,Microsoft,Yes,2025-08-10
+NSR-LT-0222,Microsoft 365 Apps,24.4,Google,Yes,2025-08-11
+NSR-LT-0223,Adobe Acrobat Reader,23.8,Microsoft,Yes,2025-08-12
+NSR-LT-0224,Microsoft 365 Apps,122.0,Cisco,Yes,2025-08-13
+NSR-LT-0225,7-Zip,2.5,Adobe,Yes,2025-08-14
+NSR-LT-0226,Microsoft 365 Apps,1.0,Google,Yes,2025-08-15
+NSR-LT-0227,Google Chrome,1.0,Google,Yes,2025-08-16
+NSR-LT-0228,Microsoft Teams,24.4,Adobe,Yes,2025-08-17
+NSR-LT-0229,7-Zip,122.0,Microsoft,No,2025-08-18
+NSR-LT-0230,Cisco AnyConnect,24.4,Cisco,No,2025-08-19
+NSR-LT-0231,Power BI Desktop,24.4,Adobe,Yes,2025-08-20
+NSR-LT-0232,Cisco AnyConnect,1.0,Adobe,Yes,2025-08-21
+NSR-LT-0233,Cisco AnyConnect,23.8,Igor Pavlov,Yes,2025-08-22
+NSR-LT-0234,Microsoft 365 Apps,2.5,Igor Pavlov,No,2025-08-23
+NSR-LT-0235,Adobe Acrobat Reader,24.4,Adobe,Yes,2025-08-24
+NSR-LT-0236,Power BI Desktop,24.4,Igor Pavlov,Yes,2025-08-25
+NSR-LT-0237,Power BI Desktop,122.0,Google,Yes,2025-08-26
+NSR-LT-0238,Microsoft Teams,2.5,Adobe,Yes,2025-08-27
+NSR-LT-0239,Power BI Desktop,122.0,Adobe,Yes,2025-08-28
+NSR-LT-0240,7-Zip,24.4,Microsoft,Yes,2025-08-29
+NSR-LT-0241,Adobe Acrobat Reader,23.8,Igor Pavlov,Yes,2025-08-30
+NSR-LT-0242,7-Zip,24.4,Google,Yes,2025-08-31
+NSR-LT-0243,Microsoft Teams,2.5,Igor Pavlov,Yes,2025-09-01
+NSR-LT-0244,7-Zip,24.4,Microsoft,Yes,2025-09-02
+NSR-LT-0245,Power BI Desktop,122.0,Adobe,Yes,2025-09-03
+NSR-LT-0246,7-Zip,24.4,Cisco,Yes,2025-09-04
+NSR-LT-0247,Power BI Desktop,1.0,Cisco,Yes,2025-09-05
+NSR-LT-0248,Cisco AnyConnect,24.4,Microsoft,No,2025-09-06
+NSR-LT-0249,Google Chrome,23.8,Igor Pavlov,Yes,2025-09-07
+NSR-LT-0250,Adobe Acrobat Reader,2.5,Microsoft,Yes,2025-09-08
+NSR-LT-0251,Power BI Desktop,23.8,Igor Pavlov,Yes,2025-09-09
+NSR-LT-0252,7-Zip,23.8,Google,Yes,2025-09-10
+NSR-LT-0253,7-Zip,24.4,Adobe,No,2025-09-11
+NSR-LT-0254,Google Chrome,24.4,Microsoft,Yes,2025-09-12
+NSR-LT-0255,7-Zip,122.0,Microsoft,Yes,2025-09-13
+NSR-LT-0256,Microsoft Teams,122.0,Microsoft,Yes,2025-09-14
+NSR-LT-0257,Cisco AnyConnect,24.4,Cisco,Yes,2025-09-15
+NSR-LT-0258,Microsoft Teams,1.0,Adobe,Yes,2025-09-16
+NSR-LT-0259,Adobe Acrobat Reader,23.8,Microsoft,Yes,2025-09-17
+NSR-LT-0260,Cisco AnyConnect,122.0,Microsoft,Yes,2025-09-18
+NSR-LT-0261,Microsoft Teams,2.5,Microsoft,Yes,2025-09-19
+NSR-LT-0262,Power BI Desktop,2.5,Google,Yes,2025-09-20
+NSR-LT-0263,Power BI Desktop,23.8,Adobe,Yes,2025-09-21
+NSR-LT-0264,Google Chrome,23.8,Microsoft,Yes,2025-09-22
+NSR-LT-0265,7-Zip,23.8,Cisco,Yes,2025-09-23
+NSR-LT-0266,Microsoft Teams,122.0,Adobe,Yes,2025-09-24
+NSR-LT-0267,Power BI Desktop,24.4,Igor Pavlov,Yes,2025-09-25
+NSR-LT-0268,Microsoft Teams,1.0,Cisco,Yes,2025-09-26
+NSR-LT-0269,7-Zip,2.5,Cisco,Yes,2025-09-27
+NSR-LT-0270,7-Zip,122.0,Google,No,2025-09-28
+NSR-LT-0271,7-Zip,1.0,Igor Pavlov,Yes,2025-09-29
+NSR-LT-0272,Microsoft 365 Apps,1.0,Cisco,Yes,2025-09-30
+NSR-LT-0273,Adobe Acrobat Reader,23.8,Adobe,No,2025-10-01
+NSR-LT-0274,Cisco AnyConnect,2.5,Igor Pavlov,Yes,2025-10-02
+NSR-LT-0275,7-Zip,23.8,Cisco,No,2025-10-03
+NSR-LT-0276,Cisco AnyConnect,1.0,Microsoft,Yes,2025-10-04
+NSR-LT-0277,Microsoft Teams,2.5,Cisco,Yes,2025-10-05
+NSR-LT-0278,Microsoft Teams,2.5,Cisco,Yes,2025-10-06
+NSR-LT-0279,Adobe Acrobat Reader,1.0,Microsoft,Yes,2025-10-07
+NSR-LT-0280,Power BI Desktop,24.4,Igor Pavlov,Yes,2025-10-08
+NSR-LT-0281,Microsoft Teams,1.0,Microsoft,No,2025-10-09
+NSR-LT-0282,7-Zip,122.0,Microsoft,Yes,2025-10-10
+NSR-LT-0283,Microsoft 365 Apps,23.8,Microsoft,Yes,2025-10-11
+NSR-LT-0284,Cisco AnyConnect,1.0,Microsoft,Yes,2025-10-12
+NSR-LT-0285,7-Zip,2.5,Google,Yes,2025-10-13
+NSR-LT-0286,Microsoft Teams,23.8,Microsoft,Yes,2025-10-14
+NSR-LT-0287,Microsoft Teams,23.8,Google,Yes,2025-10-15
+NSR-LT-0288,Cisco AnyConnect,2.5,Google,No,2025-10-16
+NSR-LT-0289,7-Zip,2.5,Google,Yes,2025-10-17
+NSR-LT-0290,Microsoft 365 Apps,1.0,Google,Yes,2025-10-18
+NSR-LT-0291,7-Zip,2.5,Cisco,Yes,2025-10-19
+NSR-LT-0292,Microsoft Teams,122.0,Microsoft,No,2025-10-20
+NSR-LT-0293,Microsoft 365 Apps,2.5,Google,No,2025-10-21
+NSR-LT-0294,Adobe Acrobat Reader,23.8,Google,Yes,2025-10-22
+NSR-LT-0295,Adobe Acrobat Reader,1.0,Cisco,Yes,2025-10-23
+NSR-LT-0296,Adobe Acrobat Reader,24.4,Cisco,Yes,2025-10-24
+NSR-LT-0297,Microsoft Teams,24.4,Microsoft,Yes,2025-10-25
+NSR-LT-0298,Microsoft 365 Apps,24.4,Microsoft,Yes,2025-10-26
+NSR-LT-0299,Microsoft Teams,24.4,Adobe,No,2025-10-27
+NSR-LT-0300,Cisco AnyConnect,122.0,Microsoft,Yes,2025-10-28
+NSR-LT-0301,Cisco AnyConnect,24.4,Microsoft,Yes,2025-10-29
+NSR-LT-0302,Cisco AnyConnect,24.4,Google,No,2025-10-30
+NSR-LT-0303,Cisco AnyConnect,24.4,Cisco,Yes,2025-10-31
+NSR-LT-0304,Adobe Acrobat Reader,23.8,Igor Pavlov,Yes,2025-11-01
+NSR-LT-0305,Power BI Desktop,1.0,Igor Pavlov,No,2025-11-02
+NSR-LT-0306,Cisco AnyConnect,2.5,Microsoft,No,2025-11-03
+NSR-LT-0307,Adobe Acrobat Reader,1.0,Igor Pavlov,Yes,2025-11-04
+NSR-LT-0308,7-Zip,1.0,Microsoft,Yes,2025-11-05
+NSR-LT-0309,Adobe Acrobat Reader,24.4,Google,Yes,2025-11-06
+NSR-LT-0310,Google Chrome,2.5,Microsoft,Yes,2025-11-07
+NSR-LT-0311,Microsoft Teams,23.8,Cisco,Yes,2025-11-08
+NSR-LT-0312,Power BI Desktop,24.4,Microsoft,Yes,2025-11-09
+NSR-LT-0313,Power BI Desktop,24.4,Igor Pavlov,Yes,2025-11-10
+NSR-LT-0314,Power BI Desktop,122.0,Google,Yes,2025-11-11
+NSR-LT-0315,Power BI Desktop,24.4,Adobe,Yes,2025-11-12
+NSR-LT-0316,Google Chrome,122.0,Igor Pavlov,Yes,2025-11-13
+NSR-LT-0317,7-Zip,23.8,Cisco,Yes,2025-11-14
+NSR-LT-0318,Microsoft 365 Apps,1.0,Adobe,Yes,2025-11-15
+NSR-LT-0319,Adobe Acrobat Reader,2.5,Cisco,Yes,2025-11-16
+NSR-LT-0320,Microsoft 365 Apps,1.0,Microsoft,Yes,2025-11-17
+NSR-LT-0321,Google Chrome,1.0,Cisco,Yes,2025-11-18
+NSR-LT-0322,7-Zip,23.8,Cisco,Yes,2025-11-19
+NSR-LT-0323,7-Zip,122.0,Microsoft,Yes,2025-11-20
+NSR-LT-0324,Google Chrome,122.0,Igor Pavlov,Yes,2025-11-21
+NSR-LT-0325,Microsoft Teams,23.8,Igor Pavlov,Yes,2025-11-22
+NSR-LT-0326,7-Zip,23.8,Google,Yes,2025-11-23
+NSR-LT-0327,Power BI Desktop,122.0,Google,Yes,2025-11-24
+NSR-LT-0328,Power BI Desktop,1.0,Igor Pavlov,Yes,2025-11-25
+NSR-LT-0329,Adobe Acrobat Reader,24.4,Adobe,Yes,2025-11-26
+NSR-LT-0330,Adobe Acrobat Reader,24.4,Microsoft,Yes,2025-11-27
+NSR-LT-0331,Microsoft Teams,122.0,Adobe,No,2025-11-28
+NSR-LT-0332,Microsoft Teams,24.4,Igor Pavlov,Yes,2025-11-29
+NSR-LT-0333,Cisco AnyConnect,24.4,Igor Pavlov,Yes,2025-11-30
+NSR-LT-0334,7-Zip,24.4,Google,No,2025-12-01
+NSR-LT-0335,7-Zip,122.0,Igor Pavlov,Yes,2025-12-02
+NSR-LT-0336,7-Zip,2.5,Google,Yes,2025-12-03
+NSR-LT-0337,Adobe Acrobat Reader,23.8,Igor Pavlov,Yes,2025-12-04
+NSR-LT-0338,Adobe Acrobat Reader,122.0,Adobe,Yes,2025-12-05
+NSR-LT-0339,Cisco AnyConnect,1.0,Microsoft,Yes,2025-12-06
+NSR-LT-0340,Microsoft 365 Apps,2.5,Adobe,Yes,2025-12-07
+NSR-LT-0341,Power BI Desktop,122.0,Microsoft,No,2025-12-08
+NSR-LT-0342,Cisco AnyConnect,24.4,Microsoft,Yes,2025-12-09
+NSR-LT-0343,Cisco AnyConnect,23.8,Igor Pavlov,Yes,2025-12-10
+NSR-LT-0344,Microsoft 365 Apps,2.5,Cisco,Yes,2025-12-11
+NSR-LT-0345,Google Chrome,23.8,Google,Yes,2025-12-12
+NSR-LT-0346,Google Chrome,1.0,Adobe,Yes,2025-12-13
+NSR-LT-0347,Cisco AnyConnect,2.5,Microsoft,Yes,2025-12-14
+NSR-LT-0348,Cisco AnyConnect,1.0,Igor Pavlov,No,2025-12-15
+NSR-LT-0349,Power BI Desktop,24.4,Google,Yes,2025-12-16
+NSR-LT-0350,Adobe Acrobat Reader,23.8,Microsoft,No,2025-12-17
+NSR-LT-0351,Adobe Acrobat Reader,122.0,Microsoft,Yes,2025-12-18
+NSR-LT-0352,Adobe Acrobat Reader,122.0,Igor Pavlov,Yes,2025-12-19
+NSR-LT-0353,7-Zip,1.0,Igor Pavlov,Yes,2025-12-20
+NSR-LT-0354,Google Chrome,2.5,Adobe,Yes,2025-12-21
+NSR-LT-0355,7-Zip,23.8,Cisco,Yes,2025-12-22
+NSR-LT-0356,Cisco AnyConnect,23.8,Igor Pavlov,Yes,2025-12-23
+NSR-LT-0357,Adobe Acrobat Reader,1.0,Google,Yes,2025-12-24
+NSR-LT-0358,Cisco AnyConnect,23.8,Microsoft,Yes,2025-12-25
+NSR-LT-0359,7-Zip,24.4,Cisco,Yes,2025-12-26
+NSR-LT-0360,Google Chrome,1.0,Google,Yes,2025-12-27
+NSR-LT-0361,7-Zip,23.8,Adobe,Yes,2025-12-28
+NSR-LT-0362,7-Zip,122.0,Igor Pavlov,Yes,2025-12-29
+NSR-LT-0363,Microsoft Teams,23.8,Microsoft,No,2025-12-30
+NSR-LT-0364,Power BI Desktop,23.8,Google,Yes,2025-12-31
+NSR-LT-0365,Adobe Acrobat Reader,122.0,Adobe,Yes,2026-01-01
+NSR-LT-0366,Adobe Acrobat Reader,24.4,Adobe,Yes,2026-01-02
+NSR-LT-0367,7-Zip,24.4,Google,Yes,2026-01-03
+NSR-LT-0368,Microsoft 365 Apps,122.0,Cisco,Yes,2026-01-04
+NSR-LT-0369,Adobe Acrobat Reader,2.5,Igor Pavlov,Yes,2026-01-05
+NSR-LT-0370,Google Chrome,122.0,Google,Yes,2026-01-06
+NSR-LT-0371,7-Zip,1.0,Google,Yes,2026-01-07
+NSR-LT-0372,Cisco AnyConnect,24.4,Cisco,Yes,2026-01-08
+NSR-LT-0373,Microsoft Teams,23.8,Igor Pavlov,Yes,2026-01-09
+NSR-LT-0374,Cisco AnyConnect,1.0,Cisco,Yes,2026-01-10
+NSR-LT-0375,Cisco AnyConnect,23.8,Cisco,Yes,2026-01-11
+NSR-LT-0376,Google Chrome,122.0,Cisco,Yes,2026-01-12
+NSR-LT-0377,Microsoft Teams,1.0,Cisco,Yes,2026-01-13
+NSR-LT-0378,Microsoft 365 Apps,2.5,Adobe,Yes,2026-01-14
+NSR-LT-0379,Adobe Acrobat Reader,122.0,Igor Pavlov,Yes,2026-01-15
+NSR-LT-0380,Google Chrome,1.0,Cisco,Yes,2026-01-16
+NSR-LT-0381,Cisco AnyConnect,2.5,Microsoft,Yes,2026-01-17
+NSR-LT-0382,Power BI Desktop,23.8,Google,Yes,2026-01-18
+NSR-LT-0383,Google Chrome,1.0,Igor Pavlov,Yes,2026-01-19
+NSR-LT-0384,Microsoft 365 Apps,1.0,Adobe,Yes,2026-01-20
+NSR-LT-0385,Cisco AnyConnect,1.0,Igor Pavlov,Yes,2026-01-21
+NSR-LT-0386,Google Chrome,1.0,Igor Pavlov,No,2026-01-22
+NSR-LT-0387,Power BI Desktop,2.5,Cisco,Yes,2026-01-23
+NSR-LT-0388,7-Zip,122.0,Microsoft,Yes,2026-01-24
+NSR-LT-0389,Google Chrome,122.0,Google,Yes,2026-01-25
+NSR-LT-0390,Adobe Acrobat Reader,1.0,Cisco,Yes,2026-01-26
+NSR-LT-0391,Microsoft 365 Apps,23.8,Adobe,Yes,2026-01-27
+NSR-LT-0392,Google Chrome,24.4,Cisco,Yes,2026-01-28
+NSR-LT-0393,Microsoft Teams,2.5,Microsoft,Yes,2026-01-29
+NSR-LT-0394,Microsoft Teams,23.8,Igor Pavlov,Yes,2026-01-30
+NSR-LT-0395,Cisco AnyConnect,122.0,Microsoft,Yes,2026-01-31
+NSR-LT-0396,7-Zip,23.8,Microsoft,Yes,2026-02-01
+NSR-LT-0397,7-Zip,24.4,Igor Pavlov,No,2026-02-02
+NSR-LT-0398,Microsoft Teams,23.8,Cisco,Yes,2026-02-03
+NSR-LT-0399,Adobe Acrobat Reader,23.8,Adobe,Yes,2026-02-04
+NSR-LT-0400,Google Chrome,122.0,Microsoft,No,2026-02-05
+NSR-LT-0401,Google Chrome,1.0,Cisco,Yes,2026-02-06
+NSR-LT-0402,7-Zip,24.4,Adobe,No,2026-02-07
+NSR-LT-0403,Google Chrome,23.8,Microsoft,Yes,2026-02-08
+NSR-LT-0404,Power BI Desktop,2.5,Igor Pavlov,Yes,2026-02-09
+NSR-LT-0405,Microsoft 365 Apps,24.4,Adobe,Yes,2026-02-10
+NSR-LT-0406,Microsoft 365 Apps,2.5,Adobe,Yes,2026-02-11
+NSR-LT-0407,Power BI Desktop,2.5,Igor Pavlov,No,2026-02-12
+NSR-LT-0408,Cisco AnyConnect,24.4,Microsoft,Yes,2026-02-13
+NSR-LT-0409,Power BI Desktop,1.0,Igor Pavlov,Yes,2026-02-14
+NSR-LT-0410,Google Chrome,24.4,Adobe,No,2026-02-15
+NSR-LT-0411,Adobe Acrobat Reader,1.0,Cisco,No,2026-02-16
+NSR-LT-0412,Cisco AnyConnect,122.0,Microsoft,Yes,2026-02-17
+NSR-LT-0413,Adobe Acrobat Reader,122.0,Google,No,2026-02-18
+NSR-LT-0414,Cisco AnyConnect,24.4,Microsoft,Yes,2026-02-19
+NSR-LT-0415,Google Chrome,2.5,Igor Pavlov,No,2026-02-20
+NSR-LT-0416,Microsoft Teams,1.0,Igor Pavlov,Yes,2026-02-21
+NSR-LT-0417,Google Chrome,23.8,Adobe,Yes,2026-02-22
+NSR-LT-0418,Microsoft 365 Apps,1.0,Cisco,Yes,2026-02-23
+NSR-LT-0419,7-Zip,2.5,Google,No,2026-02-24
+NSR-LT-0420,Adobe Acrobat Reader,23.8,Igor Pavlov,Yes,2026-02-25
+NSR-LT-0421,Power BI Desktop,2.5,Adobe,Yes,2026-02-26
+NSR-LT-0422,Google Chrome,122.0,Adobe,Yes,2026-02-27
+NSR-LT-0423,Microsoft Teams,1.0,Igor Pavlov,Yes,2026-02-28
+NSR-LT-0424,Microsoft Teams,24.4,Igor Pavlov,Yes,2026-03-01
+NSR-LT-0425,Microsoft Teams,1.0,Microsoft,Yes,2026-03-02
+NSR-LT-0426,Google Chrome,122.0,Cisco,Yes,2026-03-03
+NSR-LT-0427,Adobe Acrobat Reader,2.5,Adobe,No,2026-03-04
+NSR-LT-0428,Power BI Desktop,2.5,Microsoft,Yes,2026-03-05
+NSR-LT-0429,7-Zip,24.4,Google,Yes,2026-03-06
+NSR-LT-0430,Microsoft Teams,1.0,Adobe,Yes,2026-03-07
+NSR-LT-0431,7-Zip,1.0,Microsoft,No,2026-03-08
+NSR-LT-0432,7-Zip,24.4,Igor Pavlov,No,2026-03-09
+NSR-LT-0433,Adobe Acrobat Reader,1.0,Cisco,No,2026-03-10
+NSR-LT-0434,Microsoft Teams,2.5,Adobe,Yes,2026-03-11
+NSR-LT-0435,Google Chrome,24.4,Igor Pavlov,Yes,2026-03-12
+NSR-LT-0436,Adobe Acrobat Reader,2.5,Google,Yes,2026-03-13
+NSR-LT-0437,Power BI Desktop,23.8,Cisco,Yes,2026-03-14
+NSR-LT-0438,Microsoft Teams,24.4,Cisco,Yes,2026-03-15
+NSR-LT-0439,Cisco AnyConnect,23.8,Cisco,Yes,2026-03-16
+NSR-LT-0440,Adobe Acrobat Reader,2.5,Adobe,Yes,2026-03-17
+NSR-LT-0441,Google Chrome,24.4,Microsoft,Yes,2026-03-18
+NSR-LT-0442,Adobe Acrobat Reader,2.5,Adobe,No,2026-03-19
+NSR-LT-0443,Adobe Acrobat Reader,2.5,Igor Pavlov,No,2026-03-20
+NSR-LT-0444,Adobe Acrobat Reader,122.0,Adobe,Yes,2026-03-21
+NSR-LT-0445,Microsoft 365 Apps,122.0,Microsoft,Yes,2026-03-22
+NSR-LT-0446,Cisco AnyConnect,2.5,Igor Pavlov,Yes,2026-03-23
+NSR-LT-0447,7-Zip,122.0,Microsoft,Yes,2026-03-24
+NSR-LT-0448,Cisco AnyConnect,122.0,Google,Yes,2026-03-25
+NSR-LT-0449,Cisco AnyConnect,24.4,Adobe,Yes,2026-03-26
+NSR-LT-0450,7-Zip,1.0,Google,Yes,2026-03-27
+NSR-LT-0451,Cisco AnyConnect,2.5,Google,Yes,2026-03-28
+NSR-LT-0452,Cisco AnyConnect,24.4,Cisco,Yes,2026-03-29
+NSR-LT-0453,Cisco AnyConnect,122.0,Igor Pavlov,Yes,2026-03-30
+NSR-LT-0454,Cisco AnyConnect,1.0,Adobe,Yes,2026-03-31
+NSR-LT-0455,Microsoft Teams,24.4,Adobe,No,2026-04-01
+NSR-LT-0456,Cisco AnyConnect,24.4,Adobe,Yes,2026-04-02
+NSR-LT-0457,7-Zip,23.8,Google,Yes,2026-04-03
+NSR-LT-0458,Adobe Acrobat Reader,2.5,Adobe,No,2026-04-04
+NSR-LT-0459,Adobe Acrobat Reader,2.5,Google,No,2026-04-05
+NSR-LT-0460,Google Chrome,24.4,Microsoft,Yes,2026-04-06
+NSR-LT-0461,Microsoft Teams,1.0,Cisco,Yes,2026-04-07
+NSR-LT-0462,Microsoft 365 Apps,24.4,Adobe,Yes,2026-04-08
+NSR-LT-0463,Google Chrome,24.4,Igor Pavlov,Yes,2026-04-09
+NSR-LT-0464,Adobe Acrobat Reader,1.0,Igor Pavlov,Yes,2026-04-10
+NSR-LT-0465,Google Chrome,122.0,Igor Pavlov,Yes,2026-04-11
+NSR-LT-0466,Adobe Acrobat Reader,1.0,Cisco,Yes,2026-04-12
+NSR-LT-0467,Cisco AnyConnect,1.0,Cisco,Yes,2026-04-13
+NSR-LT-0468,Microsoft Teams,2.5,Google,Yes,2026-04-14
+NSR-LT-0469,7-Zip,122.0,Cisco,Yes,2026-04-15
+NSR-LT-0470,Microsoft 365 Apps,122.0,Google,Yes,2026-04-16
+NSR-LT-0471,Adobe Acrobat Reader,1.0,Cisco,Yes,2026-04-17
+NSR-LT-0472,Google Chrome,1.0,Adobe,Yes,2026-04-18
+NSR-LT-0473,Cisco AnyConnect,1.0,Igor Pavlov,Yes,2026-04-19
+NSR-LT-0474,7-Zip,1.0,Adobe,Yes,2026-04-20
+NSR-LT-0475,Microsoft 365 Apps,1.0,Igor Pavlov,No,2026-04-21
+NSR-LT-0476,Google Chrome,24.4,Igor Pavlov,No,2026-04-22
+NSR-LT-0477,Cisco AnyConnect,122.0,Microsoft,Yes,2026-04-23
+NSR-LT-0478,Microsoft 365 Apps,122.0,Igor Pavlov,Yes,2026-04-24
+NSR-LT-0479,Google Chrome,122.0,Cisco,Yes,2026-04-25
+NSR-LT-0480,Power BI Desktop,1.0,Adobe,Yes,2026-04-26
+NSR-LT-0481,Power BI Desktop,1.0,Microsoft,Yes,2026-04-27
+NSR-LT-0482,7-Zip,24.4,Microsoft,Yes,2026-04-28
+NSR-LT-0483,Cisco AnyConnect,2.5,Cisco,Yes,2026-04-29
+NSR-LT-0484,Microsoft 365 Apps,1.0,Cisco,Yes,2026-04-30
+NSR-LT-0485,Adobe Acrobat Reader,24.4,Adobe,No,2026-05-01
+NSR-LT-0486,Power BI Desktop,2.5,Microsoft,Yes,2026-05-02
+NSR-LT-0487,Adobe Acrobat Reader,24.4,Adobe,No,2026-05-03
+NSR-LT-0488,7-Zip,2.5,Adobe,No,2026-05-04
+NSR-LT-0489,Microsoft 365 Apps,23.8,Google,Yes,2026-05-05
+NSR-LT-0490,Adobe Acrobat Reader,24.4,Igor Pavlov,Yes,2026-05-06
+NSR-LT-0491,Cisco AnyConnect,122.0,Google,Yes,2026-05-07
+NSR-LT-0492,Microsoft 365 Apps,24.4,Adobe,Yes,2026-05-08
+NSR-LT-0493,Microsoft Teams,24.4,Igor Pavlov,Yes,2026-05-09
+NSR-LT-0494,Microsoft 365 Apps,122.0,Adobe,Yes,2026-05-10
+NSR-LT-0495,Google Chrome,2.5,Cisco,Yes,2026-05-11
+NSR-LT-0496,7-Zip,122.0,Microsoft,Yes,2026-05-12
+NSR-LT-0497,Adobe Acrobat Reader,24.4,Microsoft,Yes,2026-05-13
+NSR-LT-0498,Cisco AnyConnect,2.5,Cisco,No,2026-05-14
+NSR-LT-0499,Cisco AnyConnect,2.5,Google,Yes,2026-05-15
+NSR-LT-0500,Cisco AnyConnect,122.0,Microsoft,Yes,2025-01-01

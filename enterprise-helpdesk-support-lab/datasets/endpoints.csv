@@ -1,0 +1,501 @@
+asset_tag,hostname,user_id,model,os,department,site,encryption,compliance,last_checkin
+LT-00001,NSR-LT-0001,User-008,HP EliteBook 840 G10,Windows 11 24H2,Marketing,Remote,Encrypted,Compliant,2026-07-01T01:00
+LT-00002,NSR-LT-0002,User-015,Dell Latitude 5440,Windows 11 23H2,HR,Charlotte,Not Encrypted,Compliant,2026-07-01T02:00
+LT-00003,NSR-LT-0003,User-022,Dell Latitude 5440,Windows 11 24H2,Operations,Raleigh,Encrypted,Compliant,2026-07-01T03:00
+LT-00004,NSR-LT-0004,User-029,Dell Latitude 5440,Windows 11 23H2,HR,Raleigh,Encrypted,Compliant,2026-07-01T04:00
+LT-00005,NSR-LT-0005,User-036,HP EliteBook 840 G10,Windows 11 24H2,Marketing,Remote,Not Encrypted,Compliant,2026-07-01T05:00
+LT-00006,NSR-LT-0006,User-043,Dell Latitude 5440,Windows 11 23H2,Operations,Charlotte,Encrypted,Compliant,2026-07-01T06:00
+LT-00007,NSR-LT-0007,User-050,Dell Latitude 5440,Windows 11 24H2,Operations,Remote,Encrypted,Noncompliant,2026-07-01T07:00
+LT-00008,NSR-LT-0008,User-057,Lenovo T14 Gen 4,Windows 11 23H2,HR,Remote,Encrypted,Compliant,2026-07-01T08:00
+LT-00009,NSR-LT-0009,User-064,Dell Latitude 5440,Windows 11 24H2,Finance,Remote,Encrypted,Compliant,2026-07-01T09:00
+LT-00010,NSR-LT-0010,User-071,HP EliteBook 840 G10,Windows 11 23H2,Marketing,Raleigh,Encrypted,Compliant,2026-07-01T10:00
+LT-00011,NSR-LT-0011,User-078,Lenovo T14 Gen 4,Windows 11 24H2,IT,Raleigh,Not Encrypted,Compliant,2026-07-01T11:00
+LT-00012,NSR-LT-0012,User-085,HP EliteBook 840 G10,Windows 11 24H2,IT,Charlotte,Encrypted,Noncompliant,2026-07-01T12:00
+LT-00013,NSR-LT-0013,User-092,Lenovo T14 Gen 4,Windows 11 24H2,Marketing,Remote,Encrypted,Compliant,2026-07-01T13:00
+LT-00014,NSR-LT-0014,User-099,HP EliteBook 840 G10,Windows 11 23H2,Operations,Raleigh,Encrypted,Noncompliant,2026-07-01T14:00
+LT-00015,NSR-LT-0015,User-106,Lenovo T14 Gen 4,Windows 11 24H2,HR,Raleigh,Not Encrypted,Compliant,2026-07-01T15:00
+LT-00016,NSR-LT-0016,User-113,Lenovo T14 Gen 4,Windows 11 24H2,Marketing,Charlotte,Encrypted,Compliant,2026-07-01T16:00
+LT-00017,NSR-LT-0017,User-120,Lenovo T14 Gen 4,Windows 11 24H2,Finance,Charlotte,Encrypted,Compliant,2026-07-01T17:00
+LT-00018,NSR-LT-0018,User-127,Dell Latitude 5440,Windows 11 23H2,Finance,Charlotte,Encrypted,Noncompliant,2026-07-01T18:00
+LT-00019,NSR-LT-0019,User-134,Lenovo T14 Gen 4,Windows 11 23H2,HR,Raleigh,Encrypted,Noncompliant,2026-07-01T19:00
+LT-00020,NSR-LT-0020,User-141,HP EliteBook 840 G10,Windows 11 24H2,Sales,Charlotte,Encrypted,Compliant,2026-07-01T20:00
+LT-00021,NSR-LT-0021,User-148,HP EliteBook 840 G10,Windows 11 23H2,Sales,Remote,Not Encrypted,Compliant,2026-07-01T21:00
+LT-00022,NSR-LT-0022,User-155,Lenovo T14 Gen 4,Windows 11 23H2,Finance,Raleigh,Encrypted,Noncompliant,2026-07-01T22:00
+LT-00023,NSR-LT-0023,User-162,Lenovo T14 Gen 4,Windows 11 24H2,HR,Remote,Not Encrypted,Noncompliant,2026-07-01T23:00
+LT-00024,NSR-LT-0024,User-169,Dell Latitude 5440,Windows 11 24H2,HR,Raleigh,Encrypted,Compliant,2026-07-02T00:00
+LT-00025,NSR-LT-0025,User-176,Lenovo T14 Gen 4,Windows 11 24H2,Marketing,Charlotte,Encrypted,Noncompliant,2026-07-02T01:00
+LT-00026,NSR-LT-0026,User-183,Dell Latitude 5440,Windows 11 24H2,Sales,Raleigh,Encrypted,Compliant,2026-07-02T02:00
+LT-00027,NSR-LT-0027,User-190,Lenovo T14 Gen 4,Windows 11 23H2,Sales,Charlotte,Encrypted,Noncompliant,2026-07-02T03:00
+LT-00028,NSR-LT-0028,User-197,Lenovo T14 Gen 4,Windows 11 23H2,Marketing,Charlotte,Encrypted,Noncompliant,2026-07-02T04:00
+LT-00029,NSR-LT-0029,User-204,HP EliteBook 840 G10,Windows 11 24H2,IT,Raleigh,Not Encrypted,Compliant,2026-07-02T05:00
+LT-00030,NSR-LT-0030,User-211,Dell Latitude 5440,Windows 11 24H2,HR,Remote,Encrypted,Noncompliant,2026-07-02T06:00
+LT-00031,NSR-LT-0031,User-218,HP EliteBook 840 G10,Windows 11 23H2,Operations,Raleigh,Not Encrypted,Noncompliant,2026-07-02T07:00
+LT-00032,NSR-LT-0032,User-225,Lenovo T14 Gen 4,Windows 11 23H2,HR,Charlotte,Encrypted,Noncompliant,2026-07-02T08:00
+LT-00033,NSR-LT-0033,User-232,HP EliteBook 840 G10,Windows 11 23H2,HR,Raleigh,Not Encrypted,Compliant,2026-07-02T09:00
+LT-00034,NSR-LT-0034,User-239,HP EliteBook 840 G10,Windows 11 23H2,IT,Remote,Encrypted,Noncompliant,2026-07-02T10:00
+LT-00035,NSR-LT-0035,User-246,Lenovo T14 Gen 4,Windows 11 23H2,Finance,Remote,Not Encrypted,Compliant,2026-07-02T11:00
+LT-00036,NSR-LT-0036,User-003,HP EliteBook 840 G10,Windows 11 23H2,Finance,Raleigh,Not Encrypted,Compliant,2026-07-02T12:00
+LT-00037,NSR-LT-0037,User-010,Dell Latitude 5440,Windows 11 24H2,Operations,Raleigh,Not Encrypted,Compliant,2026-07-02T13:00
+LT-00038,NSR-LT-0038,User-017,HP EliteBook 840 G10,Windows 11 24H2,Finance,Raleigh,Encrypted,Compliant,2026-07-02T14:00
+LT-00039,NSR-LT-0039,User-024,HP EliteBook 840 G10,Windows 11 23H2,Marketing,Charlotte,Encrypted,Compliant,2026-07-02T15:00
+LT-00040,NSR-LT-0040,User-031,Dell Latitude 5440,Windows 11 23H2,Finance,Remote,Encrypted,Compliant,2026-07-02T16:00
+LT-00041,NSR-LT-0041,User-038,Dell Latitude 5440,Windows 11 24H2,Marketing,Charlotte,Encrypted,Noncompliant,2026-07-02T17:00
+LT-00042,NSR-LT-0042,User-045,Lenovo T14 Gen 4,Windows 11 24H2,Operations,Charlotte,Encrypted,Compliant,2026-07-02T18:00
+LT-00043,NSR-LT-0043,User-052,HP EliteBook 840 G10,Windows 11 23H2,IT,Charlotte,Encrypted,Noncompliant,2026-07-02T19:00
+LT-00044,NSR-LT-0044,User-059,HP EliteBook 840 G10,Windows 11 23H2,Finance,Remote,Encrypted,Compliant,2026-07-02T20:00
+LT-00045,NSR-LT-0045,User-066,Lenovo T14 Gen 4,Windows 11 24H2,Marketing,Remote,Encrypted,Compliant,2026-07-02T21:00
+LT-00046,NSR-LT-0046,User-073,HP EliteBook 840 G10,Windows 11 24H2,Marketing,Raleigh,Encrypted,Compliant,2026-07-02T22:00
+LT-00047,NSR-LT-0047,User-080,Dell Latitude 5440,Windows 11 24H2,HR,Charlotte,Not Encrypted,Compliant,2026-07-02T23:00
+LT-00048,NSR-LT-0048,User-087,Lenovo T14 Gen 4,Windows 11 24H2,Marketing,Charlotte,Not Encrypted,Compliant,2026-07-03T00:00
+LT-00049,NSR-LT-0049,User-094,Lenovo T14 Gen 4,Windows 11 24H2,IT,Remote,Not Encrypted,Noncompliant,2026-07-03T01:00
+LT-00050,NSR-LT-0050,User-101,HP EliteBook 840 G10,Windows 11 24H2,Operations,Charlotte,Encrypted,Compliant,2026-07-03T02:00
+LT-00051,NSR-LT-0051,User-108,HP EliteBook 840 G10,Windows 11 23H2,HR,Remote,Not Encrypted,Compliant,2026-07-03T03:00
+LT-00052,NSR-LT-0052,User-115,Dell Latitude 5440,Windows 11 24H2,Operations,Charlotte,Not Encrypted,Compliant,2026-07-03T04:00
+LT-00053,NSR-LT-0053,User-122,HP EliteBook 840 G10,Windows 11 24H2,Operations,Raleigh,Encrypted,Compliant,2026-07-03T05:00
+LT-00054,NSR-LT-0054,User-129,Lenovo T14 Gen 4,Windows 11 23H2,Finance,Charlotte,Not Encrypted,Noncompliant,2026-07-03T06:00
+LT-00055,NSR-LT-0055,User-136,Lenovo T14 Gen 4,Windows 11 23H2,Marketing,Raleigh,Not Encrypted,Noncompliant,2026-07-03T07:00
+LT-00056,NSR-LT-0056,User-143,Dell Latitude 5440,Windows 11 23H2,Operations,Charlotte,Not Encrypted,Compliant,2026-07-03T08:00
+LT-00057,NSR-LT-0057,User-150,HP EliteBook 840 G10,Windows 11 24H2,HR,Remote,Encrypted,Noncompliant,2026-07-03T09:00
+LT-00058,NSR-LT-0058,User-157,Lenovo T14 Gen 4,Windows 11 24H2,Operations,Remote,Not Encrypted,Compliant,2026-07-03T10:00
+LT-00059,NSR-LT-0059,User-164,HP EliteBook 840 G10,Windows 11 24H2,Sales,Charlotte,Encrypted,Compliant,2026-07-03T11:00
+LT-00060,NSR-LT-0060,User-171,Dell Latitude 5440,Windows 11 23H2,Sales,Charlotte,Not Encrypted,Compliant,2026-07-03T12:00
+LT-00061,NSR-LT-0061,User-178,Lenovo T14 Gen 4,Windows 11 24H2,Finance,Charlotte,Encrypted,Compliant,2026-07-03T13:00
+LT-00062,NSR-LT-0062,User-185,HP EliteBook 840 G10,Windows 11 23H2,Operations,Charlotte,Encrypted,Compliant,2026-07-03T14:00
+LT-00063,NSR-LT-0063,User-192,Dell Latitude 5440,Windows 11 23H2,IT,Raleigh,Encrypted,Noncompliant,2026-07-03T15:00
+LT-00064,NSR-LT-0064,User-199,Dell Latitude 5440,Windows 11 23H2,IT,Raleigh,Not Encrypted,Noncompliant,2026-07-03T16:00
+LT-00065,NSR-LT-0065,User-206,HP EliteBook 840 G10,Windows 11 24H2,Sales,Charlotte,Encrypted,Noncompliant,2026-07-03T17:00
+LT-00066,NSR-LT-0066,User-213,Dell Latitude 5440,Windows 11 23H2,HR,Raleigh,Encrypted,Compliant,2026-07-03T18:00
+LT-00067,NSR-LT-0067,User-220,Dell Latitude 5440,Windows 11 23H2,IT,Raleigh,Encrypted,Compliant,2026-07-03T19:00
+LT-00068,NSR-LT-0068,User-227,Dell Latitude 5440,Windows 11 24H2,IT,Remote,Encrypted,Noncompliant,2026-07-03T20:00
+LT-00069,NSR-LT-0069,User-234,HP EliteBook 840 G10,Windows 11 24H2,Operations,Remote,Not Encrypted,Compliant,2026-07-03T21:00
+LT-00070,NSR-LT-0070,User-241,Lenovo T14 Gen 4,Windows 11 23H2,IT,Remote,Encrypted,Compliant,2026-07-03T22:00
+LT-00071,NSR-LT-0071,User-248,Lenovo T14 Gen 4,Windows 11 23H2,Operations,Remote,Encrypted,Compliant,2026-07-03T23:00
+LT-00072,NSR-LT-0072,User-005,Dell Latitude 5440,Windows 11 23H2,IT,Charlotte,Encrypted,Compliant,2026-07-04T00:00
+LT-00073,NSR-LT-0073,User-012,HP EliteBook 840 G10,Windows 11 24H2,Marketing,Remote,Not Encrypted,Compliant,2026-07-04T01:00
+LT-00074,NSR-LT-0074,User-019,Dell Latitude 5440,Windows 11 23H2,Operations,Remote,Encrypted,Noncompliant,2026-07-04T02:00
+LT-00075,NSR-LT-0075,User-026,Dell Latitude 5440,Windows 11 23H2,Operations,Remote,Encrypted,Noncompliant,2026-07-04T03:00
+LT-00076,NSR-LT-0076,User-033,Dell Latitude 5440,Windows 11 23H2,Marketing,Charlotte,Encrypted,Compliant,2026-07-04T04:00
+LT-00077,NSR-LT-0077,User-040,Dell Latitude 5440,Windows 11 23H2,Sales,Raleigh,Encrypted,Noncompliant,2026-07-04T05:00
+LT-00078,NSR-LT-0078,User-047,Dell Latitude 5440,Windows 11 24H2,Marketing,Raleigh,Not Encrypted,Compliant,2026-07-04T06:00
+LT-00079,NSR-LT-0079,User-054,Lenovo T14 Gen 4,Windows 11 24H2,HR,Charlotte,Encrypted,Noncompliant,2026-07-04T07:00
+LT-00080,NSR-LT-0080,User-061,Lenovo T14 Gen 4,Windows 11 24H2,IT,Raleigh,Encrypted,Compliant,2026-07-04T08:00
+LT-00081,NSR-LT-0081,User-068,Dell Latitude 5440,Windows 11 23H2,Marketing,Raleigh,Encrypted,Compliant,2026-07-04T09:00
+LT-00082,NSR-LT-0082,User-075,HP EliteBook 840 G10,Windows 11 24H2,Operations,Charlotte,Not Encrypted,Noncompliant,2026-07-04T10:00
+LT-00083,NSR-LT-0083,User-082,Dell Latitude 5440,Windows 11 24H2,Operations,Raleigh,Encrypted,Compliant,2026-07-04T11:00
+LT-00084,NSR-LT-0084,User-089,Lenovo T14 Gen 4,Windows 11 23H2,Sales,Raleigh,Not Encrypted,Noncompliant,2026-07-04T12:00
+LT-00085,NSR-LT-0085,User-096,HP EliteBook 840 G10,Windows 11 24H2,IT,Charlotte,Not Encrypted,Compliant,2026-07-04T13:00
+LT-00086,NSR-LT-0086,User-103,HP EliteBook 840 G10,Windows 11 24H2,Operations,Charlotte,Not Encrypted,Compliant,2026-07-04T14:00
+LT-00087,NSR-LT-0087,User-110,Lenovo T14 Gen 4,Windows 11 24H2,HR,Charlotte,Encrypted,Compliant,2026-07-04T15:00
+LT-00088,NSR-LT-0088,User-117,Lenovo T14 Gen 4,Windows 11 24H2,Marketing,Raleigh,Encrypted,Compliant,2026-07-04T16:00
+LT-00089,NSR-LT-0089,User-124,HP EliteBook 840 G10,Windows 11 23H2,Operations,Raleigh,Not Encrypted,Compliant,2026-07-04T17:00
+LT-00090,NSR-LT-0090,User-131,Dell Latitude 5440,Windows 11 23H2,Marketing,Charlotte,Encrypted,Compliant,2026-07-04T18:00
+LT-00091,NSR-LT-0091,User-138,Lenovo T14 Gen 4,Windows 11 24H2,Finance,Charlotte,Encrypted,Noncompliant,2026-07-04T19:00
+LT-00092,NSR-LT-0092,User-145,Dell Latitude 5440,Windows 11 23H2,HR,Remote,Encrypted,Compliant,2026-07-04T20:00
+LT-00093,NSR-LT-0093,User-152,HP EliteBook 840 G10,Windows 11 24H2,HR,Charlotte,Not Encrypted,Compliant,2026-07-04T21:00
+LT-00094,NSR-LT-0094,User-159,HP EliteBook 840 G10,Windows 11 23H2,IT,Remote,Encrypted,Compliant,2026-07-04T22:00
+LT-00095,NSR-LT-0095,User-166,HP EliteBook 840 G10,Windows 11 24H2,Operations,Remote,Encrypted,Compliant,2026-07-04T23:00
+LT-00096,NSR-LT-0096,User-173,HP EliteBook 840 G10,Windows 11 24H2,IT,Remote,Not Encrypted,Compliant,2026-07-05T00:00
+LT-00097,NSR-LT-0097,User-180,HP EliteBook 840 G10,Windows 11 24H2,Operations,Raleigh,Not Encrypted,Noncompliant,2026-07-05T01:00
+LT-00098,NSR-LT-0098,User-187,HP EliteBook 840 G10,Windows 11 23H2,Marketing,Charlotte,Not Encrypted,Compliant,2026-07-05T02:00
+LT-00099,NSR-LT-0099,User-194,HP EliteBook 840 G10,Windows 11 23H2,Operations,Remote,Not Encrypted,Noncompliant,2026-07-05T03:00
+LT-00100,NSR-LT-0100,User-201,HP EliteBook 840 G10,Windows 11 23H2,HR,Charlotte,Encrypted,Compliant,2026-07-05T04:00
+LT-00101,NSR-LT-0101,User-208,Dell Latitude 5440,Windows 11 24H2,Finance,Remote,Not Encrypted,Compliant,2026-07-05T05:00
+LT-00102,NSR-LT-0102,User-215,Lenovo T14 Gen 4,Windows 11 23H2,HR,Remote,Encrypted,Compliant,2026-07-05T06:00
+LT-00103,NSR-LT-0103,User-222,HP EliteBook 840 G10,Windows 11 24H2,Operations,Remote,Not Encrypted,Compliant,2026-07-05T07:00
+LT-00104,NSR-LT-0104,User-229,HP EliteBook 840 G10,Windows 11 24H2,Operations,Remote,Not Encrypted,Compliant,2026-07-05T08:00
+LT-00105,NSR-LT-0105,User-236,Lenovo T14 Gen 4,Windows 11 23H2,Sales,Remote,Encrypted,Compliant,2026-07-05T09:00
+LT-00106,NSR-LT-0106,User-243,Lenovo T14 Gen 4,Windows 11 23H2,HR,Charlotte,Encrypted,Noncompliant,2026-07-05T10:00
+LT-00107,NSR-LT-0107,User-250,Dell Latitude 5440,Windows 11 24H2,Finance,Charlotte,Encrypted,Compliant,2026-07-05T11:00
+LT-00108,NSR-LT-0108,User-007,HP EliteBook 840 G10,Windows 11 24H2,Operations,Raleigh,Encrypted,Compliant,2026-07-05T12:00
+LT-00109,NSR-LT-0109,User-014,Lenovo T14 Gen 4,Windows 11 24H2,IT,Remote,Encrypted,Compliant,2026-07-05T13:00
+LT-00110,NSR-LT-0110,User-021,Dell Latitude 5440,Windows 11 23H2,IT,Raleigh,Encrypted,Noncompliant,2026-07-05T14:00
+LT-00111,NSR-LT-0111,User-028,Lenovo T14 Gen 4,Windows 11 23H2,Sales,Raleigh,Encrypted,Noncompliant,2026-07-05T15:00
+LT-00112,NSR-LT-0112,User-035,HP EliteBook 840 G10,Windows 11 23H2,HR,Raleigh,Encrypted,Compliant,2026-07-05T16:00
+LT-00113,NSR-LT-0113,User-042,HP EliteBook 840 G10,Windows 11 24H2,IT,Raleigh,Not Encrypted,Compliant,2026-07-05T17:00
+LT-00114,NSR-LT-0114,User-049,HP EliteBook 840 G10,Windows 11 24H2,Sales,Raleigh,Not Encrypted,Compliant,2026-07-05T18:00
+LT-00115,NSR-LT-0115,User-056,Dell Latitude 5440,Windows 11 24H2,IT,Raleigh,Encrypted,Compliant,2026-07-05T19:00
+LT-00116,NSR-LT-0116,User-063,Dell Latitude 5440,Windows 11 24H2,Operations,Charlotte,Encrypted,Noncompliant,2026-07-05T20:00
+LT-00117,NSR-LT-0117,User-070,HP EliteBook 840 G10,Windows 11 23H2,IT,Raleigh,Encrypted,Compliant,2026-07-05T21:00
+LT-00118,NSR-LT-0118,User-077,Lenovo T14 Gen 4,Windows 11 24H2,Marketing,Remote,Encrypted,Compliant,2026-07-05T22:00
+LT-00119,NSR-LT-0119,User-084,Lenovo T14 Gen 4,Windows 11 23H2,Operations,Raleigh,Encrypted,Compliant,2026-07-05T23:00
+LT-00120,NSR-LT-0120,User-091,Lenovo T14 Gen 4,Windows 11 23H2,Finance,Raleigh,Encrypted,Noncompliant,2026-07-06T00:00
+LT-00121,NSR-LT-0121,User-098,Dell Latitude 5440,Windows 11 23H2,Sales,Remote,Encrypted,Compliant,2026-07-06T01:00
+LT-00122,NSR-LT-0122,User-105,Dell Latitude 5440,Windows 11 24H2,HR,Raleigh,Encrypted,Compliant,2026-07-06T02:00
+LT-00123,NSR-LT-0123,User-112,HP EliteBook 840 G10,Windows 11 23H2,Sales,Charlotte,Not Encrypted,Compliant,2026-07-06T03:00
+LT-00124,NSR-LT-0124,User-119,Dell Latitude 5440,Windows 11 24H2,Finance,Raleigh,Encrypted,Noncompliant,2026-07-06T04:00
+LT-00125,NSR-LT-0125,User-126,HP EliteBook 840 G10,Windows 11 24H2,IT,Raleigh,Encrypted,Compliant,2026-07-06T05:00
+LT-00126,NSR-LT-0126,User-133,Lenovo T14 Gen 4,Windows 11 23H2,HR,Charlotte,Encrypted,Compliant,2026-07-06T06:00
+LT-00127,NSR-LT-0127,User-140,Lenovo T14 Gen 4,Windows 11 23H2,Marketing,Raleigh,Encrypted,Noncompliant,2026-07-06T07:00
+LT-00128,NSR-LT-0128,User-147,Dell Latitude 5440,Windows 11 23H2,Finance,Charlotte,Encrypted,Noncompliant,2026-07-06T08:00
+LT-00129,NSR-LT-0129,User-154,Dell Latitude 5440,Windows 11 23H2,Sales,Remote,Encrypted,Noncompliant,2026-07-06T09:00
+LT-00130,NSR-LT-0130,User-161,HP EliteBook 840 G10,Windows 11 24H2,Marketing,Remote,Not Encrypted,Compliant,2026-07-06T10:00
+LT-00131,NSR-LT-0131,User-168,HP EliteBook 840 G10,Windows 11 23H2,HR,Remote,Not Encrypted,Compliant,2026-07-06T11:00
+LT-00132,NSR-LT-0132,User-175,Dell Latitude 5440,Windows 11 24H2,Sales,Raleigh,Not Encrypted,Compliant,2026-07-06T12:00
+LT-00133,NSR-LT-0133,User-182,HP EliteBook 840 G10,Windows 11 23H2,Marketing,Raleigh,Encrypted,Compliant,2026-07-06T13:00
+LT-00134,NSR-LT-0134,User-189,HP EliteBook 840 G10,Windows 11 24H2,Sales,Charlotte,Not Encrypted,Compliant,2026-07-06T14:00
+LT-00135,NSR-LT-0135,User-196,Lenovo T14 Gen 4,Windows 11 23H2,Marketing,Remote,Encrypted,Compliant,2026-07-06T15:00
+LT-00136,NSR-LT-0136,User-203,HP EliteBook 840 G10,Windows 11 23H2,Sales,Remote,Encrypted,Compliant,2026-07-06T16:00
+LT-00137,NSR-LT-0137,User-210,Lenovo T14 Gen 4,Windows 11 23H2,IT,Charlotte,Encrypted,Compliant,2026-07-06T17:00
+LT-00138,NSR-LT-0138,User-217,Dell Latitude 5440,Windows 11 23H2,Operations,Charlotte,Encrypted,Compliant,2026-07-06T18:00
+LT-00139,NSR-LT-0139,User-224,Dell Latitude 5440,Windows 11 23H2,Marketing,Charlotte,Encrypted,Compliant,2026-07-06T19:00
+LT-00140,NSR-LT-0140,User-231,HP EliteBook 840 G10,Windows 11 23H2,IT,Raleigh,Encrypted,Compliant,2026-07-06T20:00
+LT-00141,NSR-LT-0141,User-238,HP EliteBook 840 G10,Windows 11 23H2,Sales,Remote,Not Encrypted,Compliant,2026-07-06T21:00
+LT-00142,NSR-LT-0142,User-245,Lenovo T14 Gen 4,Windows 11 23H2,HR,Raleigh,Encrypted,Compliant,2026-07-06T22:00
+LT-00143,NSR-LT-0143,User-002,HP EliteBook 840 G10,Windows 11 23H2,IT,Charlotte,Encrypted,Noncompliant,2026-07-06T23:00
+LT-00144,NSR-LT-0144,User-009,Lenovo T14 Gen 4,Windows 11 23H2,Finance,Raleigh,Not Encrypted,Noncompliant,2026-07-07T00:00
+LT-00145,NSR-LT-0145,User-016,Lenovo T14 Gen 4,Windows 11 23H2,HR,Remote,Not Encrypted,Compliant,2026-07-07T01:00
+LT-00146,NSR-LT-0146,User-023,Dell Latitude 5440,Windows 11 24H2,IT,Charlotte,Encrypted,Compliant,2026-07-07T02:00
+LT-00147,NSR-LT-0147,User-030,HP EliteBook 840 G10,Windows 11 24H2,HR,Remote,Encrypted,Noncompliant,2026-07-07T03:00
+LT-00148,NSR-LT-0148,User-037,Lenovo T14 Gen 4,Windows 11 24H2,Finance,Remote,Encrypted,Compliant,2026-07-07T04:00
+LT-00149,NSR-LT-0149,User-044,HP EliteBook 840 G10,Windows 11 24H2,Sales,Raleigh,Encrypted,Noncompliant,2026-07-07T05:00
+LT-00150,NSR-LT-0150,User-051,HP EliteBook 840 G10,Windows 11 24H2,Marketing,Charlotte,Encrypted,Noncompliant,2026-07-07T06:00
+LT-00151,NSR-LT-0151,User-058,HP EliteBook 840 G10,Windows 11 24H2,Operations,Charlotte,Not Encrypted,Compliant,2026-07-07T07:00
+LT-00152,NSR-LT-0152,User-065,Dell Latitude 5440,Windows 11 23H2,Finance,Raleigh,Encrypted,Compliant,2026-07-07T08:00
+LT-00153,NSR-LT-0153,User-072,Dell Latitude 5440,Windows 11 23H2,IT,Remote,Encrypted,Compliant,2026-07-07T09:00
+LT-00154,NSR-LT-0154,User-079,HP EliteBook 840 G10,Windows 11 24H2,Marketing,Raleigh,Encrypted,Compliant,2026-07-07T10:00
+LT-00155,NSR-LT-0155,User-086,Lenovo T14 Gen 4,Windows 11 24H2,Operations,Charlotte,Encrypted,Compliant,2026-07-07T11:00
+LT-00156,NSR-LT-0156,User-093,Lenovo T14 Gen 4,Windows 11 24H2,Sales,Charlotte,Encrypted,Compliant,2026-07-07T12:00
+LT-00157,NSR-LT-0157,User-100,Dell Latitude 5440,Windows 11 24H2,IT,Charlotte,Not Encrypted,Compliant,2026-07-07T13:00
+LT-00158,NSR-LT-0158,User-107,Lenovo T14 Gen 4,Windows 11 24H2,Finance,Charlotte,Encrypted,Compliant,2026-07-07T14:00
+LT-00159,NSR-LT-0159,User-114,HP EliteBook 840 G10,Windows 11 24H2,Finance,Charlotte,Encrypted,Noncompliant,2026-07-07T15:00
+LT-00160,NSR-LT-0160,User-121,Dell Latitude 5440,Windows 11 23H2,Marketing,Remote,Encrypted,Compliant,2026-07-07T16:00
+LT-00161,NSR-LT-0161,User-128,Lenovo T14 Gen 4,Windows 11 23H2,HR,Raleigh,Not Encrypted,Compliant,2026-07-07T17:00
+LT-00162,NSR-LT-0162,User-135,Dell Latitude 5440,Windows 11 24H2,Operations,Remote,Encrypted,Compliant,2026-07-07T18:00
+LT-00163,NSR-LT-0163,User-142,Dell Latitude 5440,Windows 11 23H2,Sales,Remote,Encrypted,Compliant,2026-07-07T19:00
+LT-00164,NSR-LT-0164,User-149,HP EliteBook 840 G10,Windows 11 24H2,Marketing,Raleigh,Not Encrypted,Noncompliant,2026-07-07T20:00
+LT-00165,NSR-LT-0165,User-156,HP EliteBook 840 G10,Windows 11 24H2,Sales,Remote,Encrypted,Compliant,2026-07-07T21:00
+LT-00166,NSR-LT-0166,User-163,HP EliteBook 840 G10,Windows 11 23H2,Operations,Remote,Not Encrypted,Compliant,2026-07-07T22:00
+LT-00167,NSR-LT-0167,User-170,Dell Latitude 5440,Windows 11 23H2,HR,Remote,Encrypted,Compliant,2026-07-07T23:00
+LT-00168,NSR-LT-0168,User-177,Dell Latitude 5440,Windows 11 24H2,Sales,Charlotte,Encrypted,Compliant,2026-07-08T00:00
+LT-00169,NSR-LT-0169,User-184,HP EliteBook 840 G10,Windows 11 23H2,Finance,Raleigh,Not Encrypted,Compliant,2026-07-08T01:00
+LT-00170,NSR-LT-0170,User-191,Dell Latitude 5440,Windows 11 24H2,IT,Remote,Encrypted,Compliant,2026-07-08T02:00
+LT-00171,NSR-LT-0171,User-198,Dell Latitude 5440,Windows 11 24H2,Marketing,Charlotte,Not Encrypted,Compliant,2026-07-08T03:00
+LT-00172,NSR-LT-0172,User-205,HP EliteBook 840 G10,Windows 11 23H2,Operations,Remote,Not Encrypted,Noncompliant,2026-07-08T04:00
+LT-00173,NSR-LT-0173,User-212,Lenovo T14 Gen 4,Windows 11 24H2,Operations,Charlotte,Not Encrypted,Compliant,2026-07-08T05:00
+LT-00174,NSR-LT-0174,User-219,HP EliteBook 840 G10,Windows 11 23H2,IT,Raleigh,Encrypted,Compliant,2026-07-08T06:00
+LT-00175,NSR-LT-0175,User-226,HP EliteBook 840 G10,Windows 11 23H2,Sales,Raleigh,Not Encrypted,Compliant,2026-07-08T07:00
+LT-00176,NSR-LT-0176,User-233,HP EliteBook 840 G10,Windows 11 24H2,Marketing,Raleigh,Encrypted,Compliant,2026-07-08T08:00
+LT-00177,NSR-LT-0177,User-240,Dell Latitude 5440,Windows 11 23H2,IT,Remote,Encrypted,Compliant,2026-07-08T09:00
+LT-00178,NSR-LT-0178,User-247,HP EliteBook 840 G10,Windows 11 24H2,Marketing,Remote,Encrypted,Compliant,2026-07-08T10:00
+LT-00179,NSR-LT-0179,User-004,Dell Latitude 5440,Windows 11 23H2,Operations,Charlotte,Encrypted,Compliant,2026-07-08T11:00
+LT-00180,NSR-LT-0180,User-011,Lenovo T14 Gen 4,Windows 11 23H2,Sales,Remote,Not Encrypted,Noncompliant,2026-07-08T12:00
+LT-00181,NSR-LT-0181,User-018,Lenovo T14 Gen 4,Windows 11 24H2,Marketing,Remote,Encrypted,Compliant,2026-07-08T13:00
+LT-00182,NSR-LT-0182,User-025,Dell Latitude 5440,Windows 11 24H2,Finance,Raleigh,Not Encrypted,Compliant,2026-07-08T14:00
+LT-00183,NSR-LT-0183,User-032,HP EliteBook 840 G10,Windows 11 23H2,Operations,Remote,Encrypted,Compliant,2026-07-08T15:00
+LT-00184,NSR-LT-0184,User-039,HP EliteBook 840 G10,Windows 11 24H2,Finance,Charlotte,Encrypted,Compliant,2026-07-08T16:00
+LT-00185,NSR-LT-0185,User-046,Dell Latitude 5440,Windows 11 23H2,IT,Remote,Not Encrypted,Noncompliant,2026-07-08T17:00
+LT-00186,NSR-LT-0186,User-053,Lenovo T14 Gen 4,Windows 11 23H2,HR,Remote,Encrypted,Compliant,2026-07-08T18:00
+LT-00187,NSR-LT-0187,User-060,Lenovo T14 Gen 4,Windows 11 24H2,IT,Charlotte,Encrypted,Noncompliant,2026-07-08T19:00
+LT-00188,NSR-LT-0188,User-067,Dell Latitude 5440,Windows 11 24H2,Marketing,Charlotte,Encrypted,Compliant,2026-07-08T20:00
+LT-00189,NSR-LT-0189,User-074,Dell Latitude 5440,Windows 11 24H2,HR,Remote,Encrypted,Compliant,2026-07-08T21:00
+LT-00190,NSR-LT-0190,User-081,HP EliteBook 840 G10,Windows 11 24H2,HR,Raleigh,Encrypted,Compliant,2026-07-08T22:00
+LT-00191,NSR-LT-0191,User-088,Lenovo T14 Gen 4,Windows 11 24H2,Finance,Raleigh,Encrypted,Noncompliant,2026-07-08T23:00
+LT-00192,NSR-LT-0192,User-095,HP EliteBook 840 G10,Windows 11 24H2,Marketing,Remote,Encrypted,Compliant,2026-07-09T00:00
+LT-00193,NSR-LT-0193,User-102,Dell Latitude 5440,Windows 11 23H2,Operations,Raleigh,Not Encrypted,Compliant,2026-07-09T01:00
+LT-00194,NSR-LT-0194,User-109,Lenovo T14 Gen 4,Windows 11 23H2,Operations,Remote,Not Encrypted,Compliant,2026-07-09T02:00
+LT-00195,NSR-LT-0195,User-116,Dell Latitude 5440,Windows 11 23H2,Marketing,Remote,Not Encrypted,Compliant,2026-07-09T03:00
+LT-00196,NSR-LT-0196,User-123,Dell Latitude 5440,Windows 11 24H2,Operations,Charlotte,Encrypted,Compliant,2026-07-09T04:00
+LT-00197,NSR-LT-0197,User-130,HP EliteBook 840 G10,Windows 11 23H2,Sales,Charlotte,Encrypted,Compliant,2026-07-09T05:00
+LT-00198,NSR-LT-0198,User-137,HP EliteBook 840 G10,Windows 11 23H2,IT,Remote,Encrypted,Compliant,2026-07-09T06:00
+LT-00199,NSR-LT-0199,User-144,Lenovo T14 Gen 4,Windows 11 23H2,IT,Raleigh,Encrypted,Compliant,2026-07-09T07:00
+LT-00200,NSR-LT-0200,User-151,Dell Latitude 5440,Windows 11 23H2,Marketing,Raleigh,Encrypted,Noncompliant,2026-07-09T08:00
+LT-00201,NSR-LT-0201,User-158,HP EliteBook 840 G10,Windows 11 23H2,HR,Remote,Encrypted,Noncompliant,2026-07-09T09:00
+LT-00202,NSR-LT-0202,User-165,Dell Latitude 5440,Windows 11 23H2,Operations,Raleigh,Encrypted,Compliant,2026-07-09T10:00
+LT-00203,NSR-LT-0203,User-172,Lenovo T14 Gen 4,Windows 11 24H2,HR,Raleigh,Not Encrypted,Noncompliant,2026-07-09T11:00
+LT-00204,NSR-LT-0204,User-179,Dell Latitude 5440,Windows 11 23H2,IT,Charlotte,Encrypted,Compliant,2026-07-09T12:00
+LT-00205,NSR-LT-0205,User-186,Lenovo T14 Gen 4,Windows 11 24H2,Operations,Remote,Encrypted,Compliant,2026-07-09T13:00
+LT-00206,NSR-LT-0206,User-193,HP EliteBook 840 G10,Windows 11 23H2,Sales,Raleigh,Not Encrypted,Compliant,2026-07-09T14:00
+LT-00207,NSR-LT-0207,User-200,HP EliteBook 840 G10,Windows 11 23H2,Sales,Raleigh,Encrypted,Compliant,2026-07-09T15:00
+LT-00208,NSR-LT-0208,User-207,HP EliteBook 840 G10,Windows 11 23H2,HR,Remote,Encrypted,Compliant,2026-07-09T16:00
+LT-00209,NSR-LT-0209,User-214,HP EliteBook 840 G10,Windows 11 23H2,Operations,Charlotte,Encrypted,Compliant,2026-07-09T17:00
+LT-00210,NSR-LT-0210,User-221,Dell Latitude 5440,Windows 11 24H2,Sales,Charlotte,Encrypted,Compliant,2026-07-09T18:00
+LT-00211,NSR-LT-0211,User-228,HP EliteBook 840 G10,Windows 11 23H2,Marketing,Raleigh,Not Encrypted,Compliant,2026-07-09T19:00
+LT-00212,NSR-LT-0212,User-235,Dell Latitude 5440,Windows 11 23H2,Operations,Charlotte,Encrypted,Noncompliant,2026-07-09T20:00
+LT-00213,NSR-LT-0213,User-242,Dell Latitude 5440,Windows 11 24H2,Sales,Raleigh,Encrypted,Compliant,2026-07-09T21:00
+LT-00214,NSR-LT-0214,User-249,Dell Latitude 5440,Windows 11 24H2,Marketing,Remote,Not Encrypted,Compliant,2026-07-09T22:00
+LT-00215,NSR-LT-0215,User-006,Dell Latitude 5440,Windows 11 24H2,IT,Remote,Encrypted,Compliant,2026-07-09T23:00
+LT-00216,NSR-LT-0216,User-013,Lenovo T14 Gen 4,Windows 11 23H2,Operations,Raleigh,Encrypted,Compliant,2026-07-10T00:00
+LT-00217,NSR-LT-0217,User-020,Dell Latitude 5440,Windows 11 24H2,Sales,Remote,Encrypted,Compliant,2026-07-10T01:00
+LT-00218,NSR-LT-0218,User-027,Dell Latitude 5440,Windows 11 23H2,HR,Raleigh,Encrypted,Noncompliant,2026-07-10T02:00
+LT-00219,NSR-LT-0219,User-034,HP EliteBook 840 G10,Windows 11 24H2,Marketing,Charlotte,Encrypted,Compliant,2026-07-10T03:00
+LT-00220,NSR-LT-0220,User-041,HP EliteBook 840 G10,Windows 11 23H2,Marketing,Remote,Encrypted,Compliant,2026-07-10T04:00
+LT-00221,NSR-LT-0221,User-048,Dell Latitude 5440,Windows 11 23H2,Operations,Remote,Encrypted,Compliant,2026-07-10T05:00
+LT-00222,NSR-LT-0222,User-055,Lenovo T14 Gen 4,Windows 11 24H2,Marketing,Raleigh,Encrypted,Compliant,2026-07-10T06:00
+LT-00223,NSR-LT-0223,User-062,Dell Latitude 5440,Windows 11 24H2,Finance,Raleigh,Encrypted,Compliant,2026-07-10T07:00
+LT-00224,NSR-LT-0224,User-069,Dell Latitude 5440,Windows 11 23H2,Operations,Raleigh,Not Encrypted,Noncompliant,2026-07-10T08:00
+LT-00225,NSR-LT-0225,User-076,HP EliteBook 840 G10,Windows 11 23H2,Marketing,Charlotte,Encrypted,Compliant,2026-07-10T09:00
+LT-00226,NSR-LT-0226,User-083,Dell Latitude 5440,Windows 11 24H2,Operations,Charlotte,Encrypted,Noncompliant,2026-07-10T10:00
+LT-00227,NSR-LT-0227,User-090,HP EliteBook 840 G10,Windows 11 24H2,HR,Raleigh,Encrypted,Noncompliant,2026-07-10T11:00
+LT-00228,NSR-LT-0228,User-097,Lenovo T14 Gen 4,Windows 11 24H2,Operations,Remote,Encrypted,Compliant,2026-07-10T12:00
+LT-00229,NSR-LT-0229,User-104,Lenovo T14 Gen 4,Windows 11 24H2,Finance,Raleigh,Encrypted,Compliant,2026-07-10T13:00
+LT-00230,NSR-LT-0230,User-111,HP EliteBook 840 G10,Windows 11 23H2,Finance,Raleigh,Encrypted,Compliant,2026-07-10T14:00
+LT-00231,NSR-LT-0231,User-118,HP EliteBook 840 G10,Windows 11 24H2,Sales,Remote,Not Encrypted,Compliant,2026-07-10T15:00
+LT-00232,NSR-LT-0232,User-125,HP EliteBook 840 G10,Windows 11 23H2,Marketing,Raleigh,Not Encrypted,Compliant,2026-07-10T16:00
+LT-00233,NSR-LT-0233,User-132,Lenovo T14 Gen 4,Windows 11 23H2,Finance,Remote,Not Encrypted,Compliant,2026-07-10T17:00
+LT-00234,NSR-LT-0234,User-139,Lenovo T14 Gen 4,Windows 11 23H2,Finance,Charlotte,Not Encrypted,Compliant,2026-07-10T18:00
+LT-00235,NSR-LT-0235,User-146,Dell Latitude 5440,Windows 11 23H2,Sales,Remote,Encrypted,Compliant,2026-07-10T19:00
+LT-00236,NSR-LT-0236,User-153,HP EliteBook 840 G10,Windows 11 23H2,IT,Charlotte,Not Encrypted,Compliant,2026-07-10T20:00
+LT-00237,NSR-LT-0237,User-160,HP EliteBook 840 G10,Windows 11 24H2,Finance,Remote,Encrypted,Compliant,2026-07-10T21:00
+LT-00238,NSR-LT-0238,User-167,HP EliteBook 840 G10,Windows 11 24H2,Marketing,Raleigh,Encrypted,Compliant,2026-07-10T22:00
+LT-00239,NSR-LT-0239,User-174,Dell Latitude 5440,Windows 11 23H2,HR,Remote,Not Encrypted,Compliant,2026-07-10T23:00
+LT-00240,NSR-LT-0240,User-181,HP EliteBook 840 G10,Windows 11 24H2,Marketing,Raleigh,Encrypted,Compliant,2026-07-11T00:00
+LT-00241,NSR-LT-0241,User-188,Lenovo T14 Gen 4,Windows 11 24H2,Sales,Charlotte,Encrypted,Compliant,2026-07-11T01:00
+LT-00242,NSR-LT-0242,User-195,HP EliteBook 840 G10,Windows 11 23H2,Marketing,Raleigh,Encrypted,Compliant,2026-07-11T02:00
+LT-00243,NSR-LT-0243,User-202,Lenovo T14 Gen 4,Windows 11 24H2,Marketing,Charlotte,Encrypted,Compliant,2026-07-11T03:00
+LT-00244,NSR-LT-0244,User-209,Dell Latitude 5440,Windows 11 23H2,Operations,Remote,Encrypted,Compliant,2026-07-11T04:00
+LT-00245,NSR-LT-0245,User-216,Dell Latitude 5440,Windows 11 23H2,Sales,Raleigh,Encrypted,Compliant,2026-07-11T05:00
+LT-00246,NSR-LT-0246,User-223,Lenovo T14 Gen 4,Windows 11 24H2,HR,Remote,Encrypted,Compliant,2026-07-11T06:00
+LT-00247,NSR-LT-0247,User-230,Dell Latitude 5440,Windows 11 24H2,HR,Remote,Not Encrypted,Noncompliant,2026-07-11T07:00
+LT-00248,NSR-LT-0248,User-237,HP EliteBook 840 G10,Windows 11 23H2,Sales,Raleigh,Encrypted,Noncompliant,2026-07-11T08:00
+LT-00249,NSR-LT-0249,User-244,HP EliteBook 840 G10,Windows 11 24H2,Sales,Remote,Encrypted,Compliant,2026-07-11T09:00
+LT-00250,NSR-LT-0250,User-001,HP EliteBook 840 G10,Windows 11 23H2,Finance,Remote,Encrypted,Compliant,2026-07-11T10:00
+LT-00251,NSR-LT-0251,User-008,Dell Latitude 5440,Windows 11 23H2,Operations,Remote,Encrypted,Compliant,2026-07-11T11:00
+LT-00252,NSR-LT-0252,User-015,Lenovo T14 Gen 4,Windows 11 24H2,Finance,Raleigh,Encrypted,Compliant,2026-07-11T12:00
+LT-00253,NSR-LT-0253,User-022,Dell Latitude 5440,Windows 11 24H2,IT,Remote,Encrypted,Compliant,2026-07-11T13:00
+LT-00254,NSR-LT-0254,User-029,Lenovo T14 Gen 4,Windows 11 23H2,Sales,Remote,Encrypted,Compliant,2026-07-11T14:00
+LT-00255,NSR-LT-0255,User-036,Dell Latitude 5440,Windows 11 23H2,Finance,Remote,Encrypted,Compliant,2026-07-11T15:00
+LT-00256,NSR-LT-0256,User-043,Lenovo T14 Gen 4,Windows 11 24H2,IT,Remote,Encrypted,Noncompliant,2026-07-11T16:00
+LT-00257,NSR-LT-0257,User-050,Lenovo T14 Gen 4,Windows 11 24H2,Marketing,Raleigh,Not Encrypted,Compliant,2026-07-11T17:00
+LT-00258,NSR-LT-0258,User-057,Lenovo T14 Gen 4,Windows 11 24H2,Operations,Raleigh,Encrypted,Compliant,2026-07-11T18:00
+LT-00259,NSR-LT-0259,User-064,Dell Latitude 5440,Windows 11 24H2,HR,Raleigh,Not Encrypted,Compliant,2026-07-11T19:00
+LT-00260,NSR-LT-0260,User-071,HP EliteBook 840 G10,Windows 11 23H2,Operations,Remote,Encrypted,Compliant,2026-07-11T20:00
+LT-00261,NSR-LT-0261,User-078,HP EliteBook 840 G10,Windows 11 23H2,Operations,Remote,Encrypted,Compliant,2026-07-11T21:00
+LT-00262,NSR-LT-0262,User-085,Dell Latitude 5440,Windows 11 24H2,Finance,Raleigh,Not Encrypted,Compliant,2026-07-11T22:00
+LT-00263,NSR-LT-0263,User-092,Dell Latitude 5440,Windows 11 23H2,Finance,Raleigh,Not Encrypted,Noncompliant,2026-07-11T23:00
+LT-00264,NSR-LT-0264,User-099,Dell Latitude 5440,Windows 11 23H2,Operations,Remote,Encrypted,Compliant,2026-07-12T00:00
+LT-00265,NSR-LT-0265,User-106,Dell Latitude 5440,Windows 11 24H2,IT,Raleigh,Not Encrypted,Compliant,2026-07-12T01:00
+LT-00266,NSR-LT-0266,User-113,HP EliteBook 840 G10,Windows 11 23H2,Finance,Raleigh,Not Encrypted,Compliant,2026-07-12T02:00
+LT-00267,NSR-LT-0267,User-120,Dell Latitude 5440,Windows 11 24H2,Finance,Charlotte,Encrypted,Noncompliant,2026-07-12T03:00
+LT-00268,NSR-LT-0268,User-127,Lenovo T14 Gen 4,Windows 11 24H2,Operations,Remote,Encrypted,Compliant,2026-07-12T04:00
+LT-00269,NSR-LT-0269,User-134,HP EliteBook 840 G10,Windows 11 23H2,Operations,Remote,Encrypted,Noncompliant,2026-07-12T05:00
+LT-00270,NSR-LT-0270,User-141,HP EliteBook 840 G10,Windows 11 23H2,HR,Charlotte,Encrypted,Compliant,2026-07-12T06:00
+LT-00271,NSR-LT-0271,User-148,Lenovo T14 Gen 4,Windows 11 24H2,Finance,Raleigh,Not Encrypted,Compliant,2026-07-12T07:00
+LT-00272,NSR-LT-0272,User-155,Lenovo T14 Gen 4,Windows 11 23H2,Sales,Charlotte,Not Encrypted,Compliant,2026-07-12T08:00
+LT-00273,NSR-LT-0273,User-162,HP EliteBook 840 G10,Windows 11 24H2,Sales,Charlotte,Not Encrypted,Compliant,2026-07-12T09:00
+LT-00274,NSR-LT-0274,User-169,Dell Latitude 5440,Windows 11 23H2,Sales,Remote,Encrypted,Noncompliant,2026-07-12T10:00
+LT-00275,NSR-LT-0275,User-176,Lenovo T14 Gen 4,Windows 11 24H2,Sales,Remote,Encrypted,Compliant,2026-07-12T11:00
+LT-00276,NSR-LT-0276,User-183,Lenovo T14 Gen 4,Windows 11 24H2,Sales,Raleigh,Encrypted,Compliant,2026-07-12T12:00
+LT-00277,NSR-LT-0277,User-190,Lenovo T14 Gen 4,Windows 11 24H2,Marketing,Remote,Encrypted,Noncompliant,2026-07-12T13:00
+LT-00278,NSR-LT-0278,User-197,Dell Latitude 5440,Windows 11 24H2,Operations,Remote,Encrypted,Noncompliant,2026-07-12T14:00
+LT-00279,NSR-LT-0279,User-204,Lenovo T14 Gen 4,Windows 11 24H2,Marketing,Remote,Encrypted,Noncompliant,2026-07-12T15:00
+LT-00280,NSR-LT-0280,User-211,HP EliteBook 840 G10,Windows 11 23H2,Marketing,Charlotte,Not Encrypted,Compliant,2026-07-12T16:00
+LT-00281,NSR-LT-0281,User-218,Lenovo T14 Gen 4,Windows 11 24H2,Sales,Remote,Encrypted,Compliant,2026-07-12T17:00
+LT-00282,NSR-LT-0282,User-225,Lenovo T14 Gen 4,Windows 11 23H2,Sales,Charlotte,Not Encrypted,Compliant,2026-07-12T18:00
+LT-00283,NSR-LT-0283,User-232,HP EliteBook 840 G10,Windows 11 23H2,HR,Remote,Encrypted,Noncompliant,2026-07-12T19:00
+LT-00284,NSR-LT-0284,User-239,Lenovo T14 Gen 4,Windows 11 24H2,Marketing,Remote,Encrypted,Compliant,2026-07-12T20:00
+LT-00285,NSR-LT-0285,User-246,Lenovo T14 Gen 4,Windows 11 23H2,IT,Raleigh,Not Encrypted,Noncompliant,2026-07-12T21:00
+LT-00286,NSR-LT-0286,User-003,HP EliteBook 840 G10,Windows 11 23H2,HR,Remote,Encrypted,Compliant,2026-07-12T22:00
+LT-00287,NSR-LT-0287,User-010,Lenovo T14 Gen 4,Windows 11 24H2,IT,Raleigh,Encrypted,Compliant,2026-07-12T23:00
+LT-00288,NSR-LT-0288,User-017,HP EliteBook 840 G10,Windows 11 24H2,Sales,Raleigh,Encrypted,Compliant,2026-07-13T00:00
+LT-00289,NSR-LT-0289,User-024,Lenovo T14 Gen 4,Windows 11 24H2,Operations,Raleigh,Encrypted,Compliant,2026-07-13T01:00
+LT-00290,NSR-LT-0290,User-031,HP EliteBook 840 G10,Windows 11 23H2,IT,Remote,Not Encrypted,Noncompliant,2026-07-13T02:00
+LT-00291,NSR-LT-0291,User-038,HP EliteBook 840 G10,Windows 11 23H2,Operations,Charlotte,Encrypted,Compliant,2026-07-13T03:00
+LT-00292,NSR-LT-0292,User-045,HP EliteBook 840 G10,Windows 11 24H2,Marketing,Raleigh,Not Encrypted,Compliant,2026-07-13T04:00
+LT-00293,NSR-LT-0293,User-052,Dell Latitude 5440,Windows 11 24H2,IT,Remote,Encrypted,Compliant,2026-07-13T05:00
+LT-00294,NSR-LT-0294,User-059,Dell Latitude 5440,Windows 11 23H2,Sales,Charlotte,Encrypted,Compliant,2026-07-13T06:00
+LT-00295,NSR-LT-0295,User-066,Dell Latitude 5440,Windows 11 23H2,HR,Raleigh,Not Encrypted,Compliant,2026-07-13T07:00
+LT-00296,NSR-LT-0296,User-073,Lenovo T14 Gen 4,Windows 11 23H2,Finance,Remote,Encrypted,Noncompliant,2026-07-13T08:00
+LT-00297,NSR-LT-0297,User-080,Lenovo T14 Gen 4,Windows 11 24H2,HR,Remote,Encrypted,Compliant,2026-07-13T09:00
+LT-00298,NSR-LT-0298,User-087,HP EliteBook 840 G10,Windows 11 24H2,Marketing,Charlotte,Encrypted,Compliant,2026-07-13T10:00
+LT-00299,NSR-LT-0299,User-094,Lenovo T14 Gen 4,Windows 11 23H2,Sales,Raleigh,Encrypted,Compliant,2026-07-13T11:00
+LT-00300,NSR-LT-0300,User-101,HP EliteBook 840 G10,Windows 11 24H2,Sales,Remote,Encrypted,Compliant,2026-07-13T12:00
+LT-00301,NSR-LT-0301,User-108,Dell Latitude 5440,Windows 11 24H2,IT,Remote,Encrypted,Compliant,2026-07-13T13:00
+LT-00302,NSR-LT-0302,User-115,HP EliteBook 840 G10,Windows 11 24H2,Marketing,Remote,Not Encrypted,Compliant,2026-07-13T14:00
+LT-00303,NSR-LT-0303,User-122,Lenovo T14 Gen 4,Windows 11 24H2,Operations,Charlotte,Encrypted,Compliant,2026-07-13T15:00
+LT-00304,NSR-LT-0304,User-129,Dell Latitude 5440,Windows 11 24H2,Marketing,Raleigh,Encrypted,Compliant,2026-07-13T16:00
+LT-00305,NSR-LT-0305,User-136,Lenovo T14 Gen 4,Windows 11 24H2,Operations,Remote,Encrypted,Compliant,2026-07-13T17:00
+LT-00306,NSR-LT-0306,User-143,Lenovo T14 Gen 4,Windows 11 24H2,HR,Remote,Encrypted,Compliant,2026-07-13T18:00
+LT-00307,NSR-LT-0307,User-150,HP EliteBook 840 G10,Windows 11 23H2,Sales,Charlotte,Not Encrypted,Compliant,2026-07-13T19:00
+LT-00308,NSR-LT-0308,User-157,Dell Latitude 5440,Windows 11 23H2,Operations,Raleigh,Encrypted,Noncompliant,2026-07-13T20:00
+LT-00309,NSR-LT-0309,User-164,HP EliteBook 840 G10,Windows 11 24H2,Operations,Remote,Encrypted,Compliant,2026-07-13T21:00
+LT-00310,NSR-LT-0310,User-171,Lenovo T14 Gen 4,Windows 11 24H2,Marketing,Charlotte,Encrypted,Compliant,2026-07-13T22:00
+LT-00311,NSR-LT-0311,User-178,HP EliteBook 840 G10,Windows 11 24H2,Sales,Raleigh,Encrypted,Compliant,2026-07-13T23:00
+LT-00312,NSR-LT-0312,User-185,Lenovo T14 Gen 4,Windows 11 24H2,Operations,Remote,Encrypted,Compliant,2026-07-14T00:00
+LT-00313,NSR-LT-0313,User-192,Dell Latitude 5440,Windows 11 24H2,Sales,Raleigh,Encrypted,Noncompliant,2026-07-14T01:00
+LT-00314,NSR-LT-0314,User-199,Lenovo T14 Gen 4,Windows 11 24H2,IT,Remote,Encrypted,Compliant,2026-07-14T02:00
+LT-00315,NSR-LT-0315,User-206,Lenovo T14 Gen 4,Windows 11 23H2,IT,Raleigh,Encrypted,Compliant,2026-07-14T03:00
+LT-00316,NSR-LT-0316,User-213,Lenovo T14 Gen 4,Windows 11 23H2,Finance,Remote,Encrypted,Compliant,2026-07-14T04:00
+LT-00317,NSR-LT-0317,User-220,Dell Latitude 5440,Windows 11 24H2,IT,Raleigh,Encrypted,Compliant,2026-07-14T05:00
+LT-00318,NSR-LT-0318,User-227,Lenovo T14 Gen 4,Windows 11 24H2,Finance,Remote,Not Encrypted,Compliant,2026-07-14T06:00
+LT-00319,NSR-LT-0319,User-234,HP EliteBook 840 G10,Windows 11 23H2,IT,Raleigh,Not Encrypted,Compliant,2026-07-14T07:00
+LT-00320,NSR-LT-0320,User-241,Lenovo T14 Gen 4,Windows 11 24H2,Marketing,Raleigh,Encrypted,Noncompliant,2026-07-14T08:00
+LT-00321,NSR-LT-0321,User-248,HP EliteBook 840 G10,Windows 11 23H2,Marketing,Charlotte,Encrypted,Compliant,2026-07-14T09:00
+LT-00322,NSR-LT-0322,User-005,HP EliteBook 840 G10,Windows 11 24H2,Marketing,Charlotte,Encrypted,Compliant,2026-07-14T10:00
+LT-00323,NSR-LT-0323,User-012,HP EliteBook 840 G10,Windows 11 23H2,Operations,Raleigh,Encrypted,Compliant,2026-07-14T11:00
+LT-00324,NSR-LT-0324,User-019,Lenovo T14 Gen 4,Windows 11 24H2,Operations,Raleigh,Not Encrypted,Noncompliant,2026-07-14T12:00
+LT-00325,NSR-LT-0325,User-026,HP EliteBook 840 G10,Windows 11 23H2,Marketing,Remote,Encrypted,Compliant,2026-07-14T13:00
+LT-00326,NSR-LT-0326,User-033,Dell Latitude 5440,Windows 11 23H2,IT,Raleigh,Encrypted,Compliant,2026-07-14T14:00
+LT-00327,NSR-LT-0327,User-040,Dell Latitude 5440,Windows 11 23H2,Operations,Raleigh,Not Encrypted,Noncompliant,2026-07-14T15:00
+LT-00328,NSR-LT-0328,User-047,Dell Latitude 5440,Windows 11 23H2,HR,Raleigh,Encrypted,Compliant,2026-07-14T16:00
+LT-00329,NSR-LT-0329,User-054,Dell Latitude 5440,Windows 11 23H2,Finance,Remote,Not Encrypted,Compliant,2026-07-14T17:00
+LT-00330,NSR-LT-0330,User-061,Dell Latitude 5440,Windows 11 23H2,Finance,Charlotte,Encrypted,Noncompliant,2026-07-14T18:00
+LT-00331,NSR-LT-0331,User-068,Lenovo T14 Gen 4,Windows 11 23H2,Sales,Remote,Encrypted,Noncompliant,2026-07-14T19:00
+LT-00332,NSR-LT-0332,User-075,HP EliteBook 840 G10,Windows 11 23H2,IT,Charlotte,Encrypted,Compliant,2026-07-14T20:00
+LT-00333,NSR-LT-0333,User-082,Lenovo T14 Gen 4,Windows 11 24H2,Sales,Remote,Encrypted,Compliant,2026-07-14T21:00
+LT-00334,NSR-LT-0334,User-089,Dell Latitude 5440,Windows 11 24H2,Sales,Remote,Encrypted,Noncompliant,2026-07-14T22:00
+LT-00335,NSR-LT-0335,User-096,HP EliteBook 840 G10,Windows 11 24H2,Finance,Remote,Encrypted,Noncompliant,2026-07-14T23:00
+LT-00336,NSR-LT-0336,User-103,Lenovo T14 Gen 4,Windows 11 24H2,Finance,Raleigh,Not Encrypted,Compliant,2026-07-15T00:00
+LT-00337,NSR-LT-0337,User-110,Lenovo T14 Gen 4,Windows 11 24H2,HR,Charlotte,Encrypted,Noncompliant,2026-07-15T01:00
+LT-00338,NSR-LT-0338,User-117,Dell Latitude 5440,Windows 11 24H2,Sales,Charlotte,Encrypted,Compliant,2026-07-15T02:00
+LT-00339,NSR-LT-0339,User-124,HP EliteBook 840 G10,Windows 11 23H2,IT,Raleigh,Not Encrypted,Compliant,2026-07-15T03:00
+LT-00340,NSR-LT-0340,User-131,HP EliteBook 840 G10,Windows 11 23H2,Operations,Charlotte,Encrypted,Compliant,2026-07-15T04:00
+LT-00341,NSR-LT-0341,User-138,HP EliteBook 840 G10,Windows 11 24H2,Finance,Remote,Encrypted,Compliant,2026-07-15T05:00
+LT-00342,NSR-LT-0342,User-145,HP EliteBook 840 G10,Windows 11 24H2,Marketing,Remote,Encrypted,Compliant,2026-07-15T06:00
+LT-00343,NSR-LT-0343,User-152,Dell Latitude 5440,Windows 11 23H2,HR,Charlotte,Encrypted,Compliant,2026-07-15T07:00
+LT-00344,NSR-LT-0344,User-159,Dell Latitude 5440,Windows 11 23H2,Sales,Remote,Encrypted,Noncompliant,2026-07-15T08:00
+LT-00345,NSR-LT-0345,User-166,Dell Latitude 5440,Windows 11 23H2,HR,Charlotte,Encrypted,Compliant,2026-07-15T09:00
+LT-00346,NSR-LT-0346,User-173,HP EliteBook 840 G10,Windows 11 24H2,IT,Remote,Encrypted,Compliant,2026-07-15T10:00
+LT-00347,NSR-LT-0347,User-180,HP EliteBook 840 G10,Windows 11 24H2,IT,Raleigh,Not Encrypted,Compliant,2026-07-15T11:00
+LT-00348,NSR-LT-0348,User-187,Lenovo T14 Gen 4,Windows 11 24H2,Operations,Charlotte,Encrypted,Compliant,2026-07-15T12:00
+LT-00349,NSR-LT-0349,User-194,HP EliteBook 840 G10,Windows 11 23H2,IT,Charlotte,Encrypted,Compliant,2026-07-15T13:00
+LT-00350,NSR-LT-0350,User-201,HP EliteBook 840 G10,Windows 11 24H2,Operations,Charlotte,Encrypted,Compliant,2026-07-15T14:00
+LT-00351,NSR-LT-0351,User-208,Dell Latitude 5440,Windows 11 24H2,IT,Charlotte,Not Encrypted,Compliant,2026-07-15T15:00
+LT-00352,NSR-LT-0352,User-215,HP EliteBook 840 G10,Windows 11 24H2,Marketing,Remote,Not Encrypted,Noncompliant,2026-07-15T16:00
+LT-00353,NSR-LT-0353,User-222,Dell Latitude 5440,Windows 11 24H2,Sales,Charlotte,Not Encrypted,Compliant,2026-07-15T17:00
+LT-00354,NSR-LT-0354,User-229,Lenovo T14 Gen 4,Windows 11 23H2,IT,Charlotte,Encrypted,Compliant,2026-07-15T18:00
+LT-00355,NSR-LT-0355,User-236,Dell Latitude 5440,Windows 11 24H2,Sales,Remote,Encrypted,Compliant,2026-07-15T19:00
+LT-00356,NSR-LT-0356,User-243,Lenovo T14 Gen 4,Windows 11 23H2,Finance,Charlotte,Not Encrypted,Compliant,2026-07-15T20:00
+LT-00357,NSR-LT-0357,User-250,Dell Latitude 5440,Windows 11 24H2,Marketing,Raleigh,Encrypted,Compliant,2026-07-15T21:00
+LT-00358,NSR-LT-0358,User-007,Lenovo T14 Gen 4,Windows 11 24H2,Finance,Charlotte,Encrypted,Compliant,2026-07-15T22:00
+LT-00359,NSR-LT-0359,User-014,Dell Latitude 5440,Windows 11 24H2,Sales,Charlotte,Encrypted,Compliant,2026-07-15T23:00
+LT-00360,NSR-LT-0360,User-021,Dell Latitude 5440,Windows 11 23H2,IT,Remote,Encrypted,Compliant,2026-07-16T00:00
+LT-00361,NSR-LT-0361,User-028,HP EliteBook 840 G10,Windows 11 24H2,Finance,Raleigh,Not Encrypted,Noncompliant,2026-07-16T01:00
+LT-00362,NSR-LT-0362,User-035,Lenovo T14 Gen 4,Windows 11 23H2,Marketing,Charlotte,Encrypted,Compliant,2026-07-16T02:00
+LT-00363,NSR-LT-0363,User-042,Lenovo T14 Gen 4,Windows 11 23H2,Finance,Raleigh,Not Encrypted,Noncompliant,2026-07-16T03:00
+LT-00364,NSR-LT-0364,User-049,Lenovo T14 Gen 4,Windows 11 24H2,Finance,Remote,Encrypted,Compliant,2026-07-16T04:00
+LT-00365,NSR-LT-0365,User-056,Dell Latitude 5440,Windows 11 24H2,HR,Remote,Encrypted,Compliant,2026-07-16T05:00
+LT-00366,NSR-LT-0366,User-063,Lenovo T14 Gen 4,Windows 11 23H2,Sales,Charlotte,Not Encrypted,Compliant,2026-07-16T06:00
+LT-00367,NSR-LT-0367,User-070,Dell Latitude 5440,Windows 11 23H2,Marketing,Raleigh,Encrypted,Compliant,2026-07-16T07:00
+LT-00368,NSR-LT-0368,User-077,HP EliteBook 840 G10,Windows 11 23H2,Sales,Remote,Encrypted,Noncompliant,2026-07-16T08:00
+LT-00369,NSR-LT-0369,User-084,Dell Latitude 5440,Windows 11 24H2,Sales,Remote,Encrypted,Noncompliant,2026-07-16T09:00
+LT-00370,NSR-LT-0370,User-091,Lenovo T14 Gen 4,Windows 11 24H2,HR,Remote,Encrypted,Compliant,2026-07-16T10:00
+LT-00371,NSR-LT-0371,User-098,Lenovo T14 Gen 4,Windows 11 24H2,Finance,Charlotte,Not Encrypted,Compliant,2026-07-16T11:00
+LT-00372,NSR-LT-0372,User-105,Dell Latitude 5440,Windows 11 24H2,IT,Remote,Not Encrypted,Compliant,2026-07-16T12:00
+LT-00373,NSR-LT-0373,User-112,Dell Latitude 5440,Windows 11 24H2,HR,Raleigh,Encrypted,Compliant,2026-07-16T13:00
+LT-00374,NSR-LT-0374,User-119,Lenovo T14 Gen 4,Windows 11 24H2,HR,Charlotte,Not Encrypted,Compliant,2026-07-16T14:00
+LT-00375,NSR-LT-0375,User-126,Lenovo T14 Gen 4,Windows 11 24H2,Sales,Remote,Encrypted,Compliant,2026-07-16T15:00
+LT-00376,NSR-LT-0376,User-133,HP EliteBook 840 G10,Windows 11 23H2,HR,Remote,Encrypted,Noncompliant,2026-07-16T16:00
+LT-00377,NSR-LT-0377,User-140,HP EliteBook 840 G10,Windows 11 24H2,Finance,Charlotte,Encrypted,Compliant,2026-07-16T17:00
+LT-00378,NSR-LT-0378,User-147,HP EliteBook 840 G10,Windows 11 24H2,Operations,Charlotte,Encrypted,Compliant,2026-07-16T18:00
+LT-00379,NSR-LT-0379,User-154,Dell Latitude 5440,Windows 11 24H2,HR,Remote,Not Encrypted,Compliant,2026-07-16T19:00
+LT-00380,NSR-LT-0380,User-161,Dell Latitude 5440,Windows 11 23H2,Operations,Remote,Encrypted,Compliant,2026-07-16T20:00
+LT-00381,NSR-LT-0381,User-168,HP EliteBook 840 G10,Windows 11 23H2,Operations,Raleigh,Not Encrypted,Compliant,2026-07-16T21:00
+LT-00382,NSR-LT-0382,User-175,Lenovo T14 Gen 4,Windows 11 23H2,IT,Remote,Encrypted,Noncompliant,2026-07-16T22:00
+LT-00383,NSR-LT-0383,User-182,Dell Latitude 5440,Windows 11 23H2,Operations,Raleigh,Encrypted,Noncompliant,2026-07-16T23:00
+LT-00384,NSR-LT-0384,User-189,Dell Latitude 5440,Windows 11 23H2,Sales,Raleigh,Encrypted,Noncompliant,2026-07-17T00:00
+LT-00385,NSR-LT-0385,User-196,HP EliteBook 840 G10,Windows 11 24H2,Finance,Raleigh,Encrypted,Compliant,2026-07-17T01:00
+LT-00386,NSR-LT-0386,User-203,Lenovo T14 Gen 4,Windows 11 24H2,IT,Remote,Encrypted,Noncompliant,2026-07-17T02:00
+LT-00387,NSR-LT-0387,User-210,Dell Latitude 5440,Windows 11 23H2,Operations,Charlotte,Not Encrypted,Compliant,2026-07-17T03:00
+LT-00388,NSR-LT-0388,User-217,Lenovo T14 Gen 4,Windows 11 24H2,Operations,Raleigh,Encrypted,Noncompliant,2026-07-17T04:00
+LT-00389,NSR-LT-0389,User-224,Lenovo T14 Gen 4,Windows 11 23H2,Operations,Raleigh,Encrypted,Noncompliant,2026-07-17T05:00
+LT-00390,NSR-LT-0390,User-231,HP EliteBook 840 G10,Windows 11 23H2,HR,Raleigh,Encrypted,Noncompliant,2026-07-17T06:00
+LT-00391,NSR-LT-0391,User-238,Lenovo T14 Gen 4,Windows 11 23H2,Operations,Raleigh,Encrypted,Noncompliant,2026-07-17T07:00
+LT-00392,NSR-LT-0392,User-245,HP EliteBook 840 G10,Windows 11 23H2,IT,Charlotte,Encrypted,Compliant,2026-07-17T08:00
+LT-00393,NSR-LT-0393,User-002,Lenovo T14 Gen 4,Windows 11 24H2,Marketing,Charlotte,Not Encrypted,Compliant,2026-07-17T09:00
+LT-00394,NSR-LT-0394,User-009,Lenovo T14 Gen 4,Windows 11 23H2,HR,Remote,Not Encrypted,Compliant,2026-07-17T10:00
+LT-00395,NSR-LT-0395,User-016,Lenovo T14 Gen 4,Windows 11 24H2,Sales,Raleigh,Encrypted,Noncompliant,2026-07-17T11:00
+LT-00396,NSR-LT-0396,User-023,HP EliteBook 840 G10,Windows 11 23H2,HR,Remote,Not Encrypted,Noncompliant,2026-07-17T12:00
+LT-00397,NSR-LT-0397,User-030,Lenovo T14 Gen 4,Windows 11 24H2,IT,Charlotte,Encrypted,Compliant,2026-07-17T13:00
+LT-00398,NSR-LT-0398,User-037,Dell Latitude 5440,Windows 11 23H2,Marketing,Remote,Encrypted,Compliant,2026-07-17T14:00
+LT-00399,NSR-LT-0399,User-044,Lenovo T14 Gen 4,Windows 11 23H2,IT,Remote,Not Encrypted,Compliant,2026-07-17T15:00
+LT-00400,NSR-LT-0400,User-051,HP EliteBook 840 G10,Windows 11 23H2,Finance,Charlotte,Encrypted,Compliant,2026-07-01T00:00
+LT-00401,NSR-LT-0401,User-058,Lenovo T14 Gen 4,Windows 11 23H2,HR,Raleigh,Not Encrypted,Noncompliant,2026-07-01T01:00
+LT-00402,NSR-LT-0402,User-065,Lenovo T14 Gen 4,Windows 11 23H2,Operations,Charlotte,Not Encrypted,Compliant,2026-07-01T02:00
+LT-00403,NSR-LT-0403,User-072,HP EliteBook 840 G10,Windows 11 24H2,Finance,Charlotte,Encrypted,Compliant,2026-07-01T03:00
+LT-00404,NSR-LT-0404,User-079,HP EliteBook 840 G10,Windows 11 24H2,HR,Charlotte,Not Encrypted,Compliant,2026-07-01T04:00
+LT-00405,NSR-LT-0405,User-086,HP EliteBook 840 G10,Windows 11 23H2,HR,Remote,Not Encrypted,Compliant,2026-07-01T05:00
+LT-00406,NSR-LT-0406,User-093,Dell Latitude 5440,Windows 11 24H2,Finance,Remote,Encrypted,Compliant,2026-07-01T06:00
+LT-00407,NSR-LT-0407,User-100,HP EliteBook 840 G10,Windows 11 23H2,Marketing,Charlotte,Encrypted,Compliant,2026-07-01T07:00
+LT-00408,NSR-LT-0408,User-107,Lenovo T14 Gen 4,Windows 11 23H2,Operations,Remote,Not Encrypted,Noncompliant,2026-07-01T08:00
+LT-00409,NSR-LT-0409,User-114,Dell Latitude 5440,Windows 11 24H2,Marketing,Charlotte,Encrypted,Noncompliant,2026-07-01T09:00
+LT-00410,NSR-LT-0410,User-121,HP EliteBook 840 G10,Windows 11 23H2,Marketing,Remote,Encrypted,Noncompliant,2026-07-01T10:00
+LT-00411,NSR-LT-0411,User-128,Lenovo T14 Gen 4,Windows 11 24H2,HR,Charlotte,Encrypted,Compliant,2026-07-01T11:00
+LT-00412,NSR-LT-0412,User-135,HP EliteBook 840 G10,Windows 11 23H2,IT,Charlotte,Encrypted,Compliant,2026-07-01T12:00
+LT-00413,NSR-LT-0413,User-142,HP EliteBook 840 G10,Windows 11 23H2,HR,Charlotte,Encrypted,Noncompliant,2026-07-01T13:00
+LT-00414,NSR-LT-0414,User-149,Lenovo T14 Gen 4,Windows 11 24H2,IT,Raleigh,Not Encrypted,Compliant,2026-07-01T14:00
+LT-00415,NSR-LT-0415,User-156,HP EliteBook 840 G10,Windows 11 24H2,HR,Remote,Encrypted,Compliant,2026-07-01T15:00
+LT-00416,NSR-LT-0416,User-163,Lenovo T14 Gen 4,Windows 11 23H2,Marketing,Charlotte,Encrypted,Compliant,2026-07-01T16:00
+LT-00417,NSR-LT-0417,User-170,Dell Latitude 5440,Windows 11 24H2,Finance,Charlotte,Encrypted,Compliant,2026-07-01T17:00
+LT-00418,NSR-LT-0418,User-177,Lenovo T14 Gen 4,Windows 11 24H2,HR,Remote,Encrypted,Noncompliant,2026-07-01T18:00
+LT-00419,NSR-LT-0419,User-184,HP EliteBook 840 G10,Windows 11 23H2,HR,Remote,Encrypted,Compliant,2026-07-01T19:00
+LT-00420,NSR-LT-0420,User-191,HP EliteBook 840 G10,Windows 11 24H2,Sales,Charlotte,Encrypted,Noncompliant,2026-07-01T20:00
+LT-00421,NSR-LT-0421,User-198,Lenovo T14 Gen 4,Windows 11 23H2,Operations,Charlotte,Not Encrypted,Compliant,2026-07-01T21:00
+LT-00422,NSR-LT-0422,User-205,Dell Latitude 5440,Windows 11 24H2,IT,Remote,Not Encrypted,Noncompliant,2026-07-01T22:00
+LT-00423,NSR-LT-0423,User-212,Lenovo T14 Gen 4,Windows 11 24H2,HR,Remote,Not Encrypted,Noncompliant,2026-07-01T23:00
+LT-00424,NSR-LT-0424,User-219,Dell Latitude 5440,Windows 11 23H2,IT,Charlotte,Encrypted,Compliant,2026-07-02T00:00
+LT-00425,NSR-LT-0425,User-226,Dell Latitude 5440,Windows 11 24H2,Sales,Remote,Encrypted,Compliant,2026-07-02T01:00
+LT-00426,NSR-LT-0426,User-233,HP EliteBook 840 G10,Windows 11 24H2,IT,Remote,Encrypted,Compliant,2026-07-02T02:00
+LT-00427,NSR-LT-0427,User-240,HP EliteBook 840 G10,Windows 11 24H2,IT,Charlotte,Not Encrypted,Compliant,2026-07-02T03:00
+LT-00428,NSR-LT-0428,User-247,HP EliteBook 840 G10,Windows 11 23H2,Marketing,Remote,Encrypted,Compliant,2026-07-02T04:00
+LT-00429,NSR-LT-0429,User-004,Dell Latitude 5440,Windows 11 24H2,Operations,Raleigh,Encrypted,Noncompliant,2026-07-02T05:00
+LT-00430,NSR-LT-0430,User-011,Dell Latitude 5440,Windows 11 23H2,Sales,Remote,Encrypted,Noncompliant,2026-07-02T06:00
+LT-00431,NSR-LT-0431,User-018,Dell Latitude 5440,Windows 11 23H2,Sales,Charlotte,Encrypted,Compliant,2026-07-02T07:00
+LT-00432,NSR-LT-0432,User-025,Lenovo T14 Gen 4,Windows 11 24H2,IT,Remote,Encrypted,Compliant,2026-07-02T08:00
+LT-00433,NSR-LT-0433,User-032,Lenovo T14 Gen 4,Windows 11 24H2,Operations,Remote,Encrypted,Compliant,2026-07-02T09:00
+LT-00434,NSR-LT-0434,User-039,Dell Latitude 5440,Windows 11 24H2,Finance,Raleigh,Encrypted,Compliant,2026-07-02T10:00
+LT-00435,NSR-LT-0435,User-046,Dell Latitude 5440,Windows 11 23H2,Marketing,Raleigh,Encrypted,Noncompliant,2026-07-02T11:00
+LT-00436,NSR-LT-0436,User-053,HP EliteBook 840 G10,Windows 11 23H2,IT,Remote,Encrypted,Noncompliant,2026-07-02T12:00
+LT-00437,NSR-LT-0437,User-060,HP EliteBook 840 G10,Windows 11 24H2,Finance,Remote,Encrypted,Noncompliant,2026-07-02T13:00
+LT-00438,NSR-LT-0438,User-067,Lenovo T14 Gen 4,Windows 11 24H2,Marketing,Raleigh,Not Encrypted,Noncompliant,2026-07-02T14:00
+LT-00439,NSR-LT-0439,User-074,HP EliteBook 840 G10,Windows 11 23H2,Marketing,Charlotte,Not Encrypted,Compliant,2026-07-02T15:00
+LT-00440,NSR-LT-0440,User-081,Dell Latitude 5440,Windows 11 24H2,Sales,Raleigh,Encrypted,Noncompliant,2026-07-02T16:00
+LT-00441,NSR-LT-0441,User-088,HP EliteBook 840 G10,Windows 11 24H2,Operations,Raleigh,Encrypted,Noncompliant,2026-07-02T17:00
+LT-00442,NSR-LT-0442,User-095,HP EliteBook 840 G10,Windows 11 23H2,Finance,Charlotte,Not Encrypted,Compliant,2026-07-02T18:00
+LT-00443,NSR-LT-0443,User-102,Dell Latitude 5440,Windows 11 23H2,HR,Raleigh,Encrypted,Noncompliant,2026-07-02T19:00
+LT-00444,NSR-LT-0444,User-109,Dell Latitude 5440,Windows 11 23H2,Marketing,Raleigh,Encrypted,Compliant,2026-07-02T20:00
+LT-00445,NSR-LT-0445,User-116,Dell Latitude 5440,Windows 11 24H2,Operations,Charlotte,Encrypted,Compliant,2026-07-02T21:00
+LT-00446,NSR-LT-0446,User-123,Dell Latitude 5440,Windows 11 24H2,Marketing,Raleigh,Encrypted,Noncompliant,2026-07-02T22:00
+LT-00447,NSR-LT-0447,User-130,Lenovo T14 Gen 4,Windows 11 23H2,Marketing,Charlotte,Encrypted,Compliant,2026-07-02T23:00
+LT-00448,NSR-LT-0448,User-137,HP EliteBook 840 G10,Windows 11 23H2,Sales,Remote,Encrypted,Noncompliant,2026-07-03T00:00
+LT-00449,NSR-LT-0449,User-144,Dell Latitude 5440,Windows 11 23H2,Marketing,Raleigh,Encrypted,Noncompliant,2026-07-03T01:00
+LT-00450,NSR-LT-0450,User-151,Lenovo T14 Gen 4,Windows 11 23H2,HR,Charlotte,Encrypted,Noncompliant,2026-07-03T02:00
+LT-00451,NSR-LT-0451,User-158,Dell Latitude 5440,Windows 11 23H2,Finance,Raleigh,Encrypted,Compliant,2026-07-03T03:00
+LT-00452,NSR-LT-0452,User-165,Dell Latitude 5440,Windows 11 24H2,Sales,Remote,Encrypted,Compliant,2026-07-03T04:00
+LT-00453,NSR-LT-0453,User-172,Lenovo T14 Gen 4,Windows 11 23H2,IT,Remote,Encrypted,Noncompliant,2026-07-03T05:00
+LT-00454,NSR-LT-0454,User-179,HP EliteBook 840 G10,Windows 11 23H2,Marketing,Remote,Encrypted,Noncompliant,2026-07-03T06:00
+LT-00455,NSR-LT-0455,User-186,Lenovo T14 Gen 4,Windows 11 24H2,Sales,Charlotte,Encrypted,Compliant,2026-07-03T07:00
+LT-00456,NSR-LT-0456,User-193,Dell Latitude 5440,Windows 11 24H2,Operations,Raleigh,Encrypted,Compliant,2026-07-03T08:00
+LT-00457,NSR-LT-0457,User-200,Dell Latitude 5440,Windows 11 24H2,Marketing,Charlotte,Encrypted,Compliant,2026-07-03T09:00
+LT-00458,NSR-LT-0458,User-207,Lenovo T14 Gen 4,Windows 11 23H2,Marketing,Raleigh,Encrypted,Compliant,2026-07-03T10:00
+LT-00459,NSR-LT-0459,User-214,Lenovo T14 Gen 4,Windows 11 24H2,Operations,Remote,Encrypted,Compliant,2026-07-03T11:00
+LT-00460,NSR-LT-0460,User-221,HP EliteBook 840 G10,Windows 11 24H2,Finance,Charlotte,Not Encrypted,Compliant,2026-07-03T12:00
+LT-00461,NSR-LT-0461,User-228,Lenovo T14 Gen 4,Windows 11 23H2,Operations,Raleigh,Encrypted,Noncompliant,2026-07-03T13:00
+LT-00462,NSR-LT-0462,User-235,Lenovo T14 Gen 4,Windows 11 24H2,Operations,Remote,Encrypted,Noncompliant,2026-07-03T14:00
+LT-00463,NSR-LT-0463,User-242,Dell Latitude 5440,Windows 11 23H2,IT,Charlotte,Encrypted,Compliant,2026-07-03T15:00
+LT-00464,NSR-LT-0464,User-249,Dell Latitude 5440,Windows 11 23H2,Finance,Raleigh,Encrypted,Noncompliant,2026-07-03T16:00
+LT-00465,NSR-LT-0465,User-006,HP EliteBook 840 G10,Windows 11 24H2,Finance,Remote,Encrypted,Compliant,2026-07-03T17:00
+LT-00466,NSR-LT-0466,User-013,Dell Latitude 5440,Windows 11 24H2,Finance,Remote,Encrypted,Compliant,2026-07-03T18:00
+LT-00467,NSR-LT-0467,User-020,Lenovo T14 Gen 4,Windows 11 24H2,HR,Remote,Encrypted,Compliant,2026-07-03T19:00
+LT-00468,NSR-LT-0468,User-027,Lenovo T14 Gen 4,Windows 11 24H2,Marketing,Charlotte,Encrypted,Compliant,2026-07-03T20:00
+LT-00469,NSR-LT-0469,User-034,Dell Latitude 5440,Windows 11 24H2,Finance,Raleigh,Encrypted,Compliant,2026-07-03T21:00
+LT-00470,NSR-LT-0470,User-041,Lenovo T14 Gen 4,Windows 11 23H2,Finance,Charlotte,Encrypted,Compliant,2026-07-03T22:00
+LT-00471,NSR-LT-0471,User-048,Dell Latitude 5440,Windows 11 24H2,Operations,Remote,Encrypted,Compliant,2026-07-03T23:00
+LT-00472,NSR-LT-0472,User-055,HP EliteBook 840 G10,Windows 11 23H2,Marketing,Raleigh,Encrypted,Compliant,2026-07-04T00:00
+LT-00473,NSR-LT-0473,User-062,HP EliteBook 840 G10,Windows 11 24H2,Operations,Remote,Encrypted,Compliant,2026-07-04T01:00
+LT-00474,NSR-LT-0474,User-069,Lenovo T14 Gen 4,Windows 11 23H2,HR,Raleigh,Encrypted,Compliant,2026-07-04T02:00
+LT-00475,NSR-LT-0475,User-076,HP EliteBook 840 G10,Windows 11 23H2,Operations,Charlotte,Encrypted,Compliant,2026-07-04T03:00
+LT-00476,NSR-LT-0476,User-083,Lenovo T14 Gen 4,Windows 11 23H2,Sales,Remote,Encrypted,Compliant,2026-07-04T04:00
+LT-00477,NSR-LT-0477,User-090,Dell Latitude 5440,Windows 11 23H2,Finance,Raleigh,Encrypted,Noncompliant,2026-07-04T05:00
+LT-00478,NSR-LT-0478,User-097,Dell Latitude 5440,Windows 11 23H2,Finance,Remote,Not Encrypted,Compliant,2026-07-04T06:00
+LT-00479,NSR-LT-0479,User-104,HP EliteBook 840 G10,Windows 11 23H2,HR,Remote,Encrypted,Compliant,2026-07-04T07:00
+LT-00480,NSR-LT-0480,User-111,Dell Latitude 5440,Windows 11 24H2,Finance,Remote,Encrypted,Compliant,2026-07-04T08:00
+LT-00481,NSR-LT-0481,User-118,Dell Latitude 5440,Windows 11 23H2,HR,Charlotte,Not Encrypted,Compliant,2026-07-04T09:00
+LT-00482,NSR-LT-0482,User-125,HP EliteBook 840 G10,Windows 11 24H2,Finance,Remote,Not Encrypted,Compliant,2026-07-04T10:00
+LT-00483,NSR-LT-0483,User-132,HP EliteBook 840 G10,Windows 11 23H2,Operations,Remote,Encrypted,Compliant,2026-07-04T11:00
+LT-00484,NSR-LT-0484,User-139,HP EliteBook 840 G10,Windows 11 24H2,IT,Raleigh,Encrypted,Compliant,2026-07-04T12:00
+LT-00485,NSR-LT-0485,User-146,Dell Latitude 5440,Windows 11 23H2,HR,Charlotte,Encrypted,Compliant,2026-07-04T13:00
+LT-00486,NSR-LT-0486,User-153,Lenovo T14 Gen 4,Windows 11 23H2,Operations,Charlotte,Not Encrypted,Compliant,2026-07-04T14:00
+LT-00487,NSR-LT-0487,User-160,Dell Latitude 5440,Windows 11 23H2,IT,Charlotte,Not Encrypted,Noncompliant,2026-07-04T15:00
+LT-00488,NSR-LT-0488,User-167,Dell Latitude 5440,Windows 11 23H2,Marketing,Raleigh,Encrypted,Compliant,2026-07-04T16:00
+LT-00489,NSR-LT-0489,User-174,Dell Latitude 5440,Windows 11 24H2,Marketing,Raleigh,Not Encrypted,Compliant,2026-07-04T17:00
+LT-00490,NSR-LT-0490,User-181,Lenovo T14 Gen 4,Windows 11 23H2,IT,Charlotte,Not Encrypted,Compliant,2026-07-04T18:00
+LT-00491,NSR-LT-0491,User-188,Lenovo T14 Gen 4,Windows 11 23H2,HR,Remote,Encrypted,Compliant,2026-07-04T19:00
+LT-00492,NSR-LT-0492,User-195,HP EliteBook 840 G10,Windows 11 24H2,Operations,Raleigh,Encrypted,Compliant,2026-07-04T20:00
+LT-00493,NSR-LT-0493,User-202,HP EliteBook 840 G10,Windows 11 24H2,Sales,Charlotte,Encrypted,Compliant,2026-07-04T21:00
+LT-00494,NSR-LT-0494,User-209,Lenovo T14 Gen 4,Windows 11 23H2,Sales,Charlotte,Encrypted,Noncompliant,2026-07-04T22:00
+LT-00495,NSR-LT-0495,User-216,HP EliteBook 840 G10,Windows 11 24H2,HR,Charlotte,Encrypted,Compliant,2026-07-04T23:00
+LT-00496,NSR-LT-0496,User-223,HP EliteBook 840 G10,Windows 11 24H2,HR,Raleigh,Encrypted,Compliant,2026-07-05T00:00
+LT-00497,NSR-LT-0497,User-230,Dell Latitude 5440,Windows 11 24H2,Marketing,Remote,Encrypted,Compliant,2026-07-05T01:00
+LT-00498,NSR-LT-0498,User-237,HP EliteBook 840 G10,Windows 11 23H2,Finance,Remote,Encrypted,Compliant,2026-07-05T02:00
+LT-00499,NSR-LT-0499,User-244,HP EliteBook 840 G10,Windows 11 23H2,Marketing,Raleigh,Encrypted,Compliant,2026-07-05T03:00
+LT-00500,NSR-LT-0500,User-001,Dell Latitude 5440,Windows 11 24H2,HR,Remote,Encrypted,Compliant,2026-07-05T04:00

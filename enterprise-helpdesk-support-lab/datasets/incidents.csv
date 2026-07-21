@@ -1,0 +1,41 @@
+incident_id,service,priority,start,restore,duration_minutes,users_affected,root_cause,status
+MI-001,File Services,P1,2026-01-05T01:00,2026-01-05T03:59,179,206,Vendor outage,Closed
+MI-002,File Services,P2,2026-01-09T02:00,2026-01-09T02:42,42,225,Vendor outage,Closed
+MI-003,Identity,P1,2026-01-13T03:00,2026-01-13T04:39,99,480,Configuration drift,Closed
+MI-004,Printing,P1,2026-01-17T04:00,2026-01-17T05:59,119,190,Certificate expiration,Closed
+MI-005,File Services,P2,2026-01-21T05:00,2026-01-21T09:05,245,175,Configuration drift,Closed
+MI-006,Printing,P2,2026-01-25T06:00,2026-01-25T06:58,58,504,Configuration drift,Closed
+MI-007,Microsoft 365,P1,2026-01-29T07:00,2026-01-29T09:04,124,225,Certificate expiration,Closed
+MI-008,Identity,P2,2026-02-02T08:00,2026-02-02T10:15,135,177,Capacity exhaustion,Closed
+MI-009,DNS,P1,2026-02-06T09:00,2026-02-06T11:52,172,529,Network failure,Closed
+MI-010,Microsoft 365,P1,2026-02-10T00:00,2026-02-10T01:35,95,161,Network failure,Closed
+MI-011,File Services,P1,2026-02-14T01:00,2026-02-14T01:41,41,553,Certificate expiration,Closed
+MI-012,Printing,P2,2026-02-18T02:00,2026-02-18T06:18,258,486,Network failure,Closed
+MI-013,VPN,P1,2026-02-22T03:00,2026-02-22T05:52,172,309,Network failure,Closed
+MI-014,Identity,P2,2026-02-26T04:00,2026-02-26T05:53,113,415,Capacity exhaustion,Closed
+MI-015,Microsoft 365,P2,2026-03-02T05:00,2026-03-02T08:55,235,270,Vendor outage,Closed
+MI-016,Printing,P2,2026-03-06T06:00,2026-03-06T10:15,255,483,Network failure,Closed
+MI-017,Identity,P1,2026-03-10T07:00,2026-03-10T11:18,258,597,Configuration drift,Closed
+MI-018,Identity,P1,2026-03-14T08:00,2026-03-14T10:05,125,260,Vendor outage,Closed
+MI-019,Identity,P2,2026-03-18T09:00,2026-03-18T10:35,95,697,Configuration drift,Closed
+MI-020,Identity,P1,2026-03-22T00:00,2026-03-22T03:23,203,520,Network failure,Closed
+MI-021,Printing,P1,2026-03-26T01:00,2026-03-26T04:40,220,392,Configuration drift,Closed
+MI-022,VPN,P2,2026-03-30T02:00,2026-03-30T05:38,218,434,Network failure,Closed
+MI-023,DNS,P1,2026-04-03T03:00,2026-04-03T04:07,67,533,Configuration drift,Closed
+MI-024,VPN,P1,2026-04-07T04:00,2026-04-07T06:23,143,669,Network failure,Closed
+MI-025,DNS,P2,2026-04-11T05:00,2026-04-11T07:02,122,214,Network failure,Closed
+MI-026,VPN,P2,2026-04-15T06:00,2026-04-15T06:34,34,132,Vendor outage,Closed
+MI-027,Identity,P2,2026-04-19T07:00,2026-04-19T08:48,108,511,Network failure,Closed
+MI-028,VPN,P1,2026-04-23T08:00,2026-04-23T08:42,42,463,Vendor outage,Closed
+MI-029,DNS,P1,2026-04-27T09:00,2026-04-27T11:25,145,189,Configuration drift,Closed
+MI-030,VPN,P1,2026-05-01T00:00,2026-05-01T03:00,180,316,Configuration drift,Closed
+MI-031,Identity,P2,2026-05-05T01:00,2026-05-05T03:41,161,187,Configuration drift,Closed
+MI-032,VPN,P2,2026-05-09T02:00,2026-05-09T05:16,196,172,Network failure,Closed
+MI-033,Microsoft 365,P1,2026-05-13T03:00,2026-05-13T04:56,116,50,Capacity exhaustion,Closed
+MI-034,File Services,P1,2026-05-17T04:00,2026-05-17T05:20,80,665,Capacity exhaustion,Closed
+MI-035,Identity,P1,2026-05-21T05:00,2026-05-21T08:09,189,414,Certificate expiration,Closed
+MI-036,VPN,P1,2026-05-25T06:00,2026-05-25T08:18,138,64,Network failure,Closed
+MI-037,Microsoft 365,P1,2026-05-29T07:00,2026-05-29T10:41,221,398,Vendor outage,Closed
+MI-038,VPN,P1,2026-06-02T08:00,2026-06-02T09:16,76,446,Configuration drift,Closed
+MI-039,DNS,P1,2026-06-06T09:00,2026-06-06T09:28,28,700,Configuration drift,Closed
+MI-040,VPN,P1,2026-06-10T00:00,2026-06-10T01:21,81,186,Configuration drift,Closed

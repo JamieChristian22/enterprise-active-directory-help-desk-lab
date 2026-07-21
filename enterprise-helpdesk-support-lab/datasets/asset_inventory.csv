@@ -1,0 +1,701 @@
+asset_tag,type,vendor,model,serial,location,assigned_to,status,warranty_end
+AST-00001,Mobile,Zebra,Pro,SN000000001,Raleigh,User-004,Repair,2027-05-17
+AST-00002,Printer,HP,Pro,SN000000002,Remote,User-007,In Use,2027-05-18
+AST-00003,Dock,Apple,Pro,SN000000003,Charlotte,User-010,In Use,2027-05-19
+AST-00004,Laptop,HP,Standard,SN000000004,Charlotte,User-013,In Use,2027-05-20
+AST-00005,Laptop,Lenovo,Enterprise,SN000000005,Raleigh,User-016,In Use,2027-05-21
+AST-00006,Mobile,Zebra,Enterprise,SN000000006,Charlotte,User-019,Repair,2027-05-22
+AST-00007,Mobile,Zebra,Enterprise,SN000000007,Remote,User-022,In Use,2027-05-23
+AST-00008,Mobile,Dell,Enterprise,SN000000008,Charlotte,User-025,In Use,2027-05-24
+AST-00009,Mobile,Zebra,Enterprise,SN000000009,Raleigh,User-028,In Use,2027-05-25
+AST-00010,Printer,Zebra,Standard,SN000000010,Remote,User-031,Repair,2027-05-26
+AST-00011,Monitor,Zebra,Standard,SN000000011,Charlotte,User-034,In Use,2027-05-27
+AST-00012,Dock,HP,Enterprise,SN000000012,Raleigh,User-037,In Use,2027-05-28
+AST-00013,Mobile,Apple,Pro,SN000000013,Charlotte,User-040,In Stock,2027-05-29
+AST-00014,Laptop,Lenovo,Enterprise,SN000000014,Charlotte,User-043,In Use,2027-05-30
+AST-00015,Dock,Lenovo,Pro,SN000000015,Raleigh,User-046,In Stock,2027-05-31
+AST-00016,Monitor,Dell,Enterprise,SN000000016,Remote,User-049,Repair,2027-06-01
+AST-00017,Monitor,Lenovo,Enterprise,SN000000017,Remote,User-052,In Use,2027-06-02
+AST-00018,Mobile,Zebra,Pro,SN000000018,Charlotte,User-055,In Stock,2027-06-03
+AST-00019,Laptop,Zebra,Pro,SN000000019,Raleigh,User-058,In Stock,2027-06-04
+AST-00020,Dock,Dell,Standard,SN000000020,Raleigh,User-061,In Use,2027-06-05
+AST-00021,Mobile,Lenovo,Standard,SN000000021,Charlotte,User-064,Repair,2027-06-06
+AST-00022,Mobile,HP,Standard,SN000000022,Remote,User-067,In Use,2027-06-07
+AST-00023,Mobile,Dell,Pro,SN000000023,Charlotte,User-070,In Use,2027-06-08
+AST-00024,Dock,HP,Pro,SN000000024,Raleigh,User-073,In Stock,2027-06-09
+AST-00025,Dock,Lenovo,Pro,SN000000025,Charlotte,User-076,In Stock,2027-06-10
+AST-00026,Laptop,Apple,Enterprise,SN000000026,Raleigh,User-079,In Use,2027-06-11
+AST-00027,Monitor,Lenovo,Enterprise,SN000000027,Raleigh,User-082,In Use,2027-06-12
+AST-00028,Dock,HP,Standard,SN000000028,Charlotte,User-085,In Stock,2027-06-13
+AST-00029,Laptop,HP,Pro,SN000000029,Raleigh,User-088,In Stock,2027-06-14
+AST-00030,Laptop,HP,Enterprise,SN000000030,Charlotte,User-091,Repair,2027-06-15
+AST-00031,Dock,Dell,Pro,SN000000031,Raleigh,User-094,Repair,2027-06-16
+AST-00032,Monitor,Lenovo,Pro,SN000000032,Remote,User-097,Repair,2027-06-17
+AST-00033,Monitor,Dell,Standard,SN000000033,Charlotte,User-100,In Use,2027-06-18
+AST-00034,Monitor,Lenovo,Enterprise,SN000000034,Charlotte,User-103,In Use,2027-06-19
+AST-00035,Laptop,Lenovo,Pro,SN000000035,Remote,User-106,In Use,2027-06-20
+AST-00036,Mobile,Apple,Pro,SN000000036,Raleigh,User-109,Repair,2027-06-21
+AST-00037,Laptop,Apple,Standard,SN000000037,Remote,User-112,In Use,2027-06-22
+AST-00038,Printer,HP,Standard,SN000000038,Raleigh,User-115,In Use,2027-06-23
+AST-00039,Dock,HP,Enterprise,SN000000039,Raleigh,User-118,In Use,2027-06-24
+AST-00040,Mobile,Dell,Enterprise,SN000000040,Remote,User-121,In Use,2027-06-25
+AST-00041,Monitor,Zebra,Enterprise,SN000000041,Remote,User-124,In Use,2027-06-26
+AST-00042,Monitor,Dell,Standard,SN000000042,Raleigh,User-127,In Use,2027-06-27
+AST-00043,Dock,HP,Standard,SN000000043,Raleigh,User-130,In Use,2027-06-28
+AST-00044,Printer,HP,Standard,SN000000044,Charlotte,User-133,Repair,2027-06-29
+AST-00045,Mobile,Zebra,Pro,SN000000045,Remote,User-136,In Use,2027-06-30
+AST-00046,Monitor,Lenovo,Pro,SN000000046,Raleigh,User-139,In Use,2027-07-01
+AST-00047,Printer,Apple,Enterprise,SN000000047,Charlotte,User-142,In Stock,2027-07-02
+AST-00048,Laptop,Lenovo,Pro,SN000000048,Raleigh,User-145,In Stock,2027-07-03
+AST-00049,Mobile,HP,Pro,SN000000049,Charlotte,User-148,In Use,2027-07-04
+AST-00050,Laptop,Dell,Standard,SN000000050,Remote,User-151,In Stock,2027-07-05
+AST-00051,Monitor,Lenovo,Pro,SN000000051,Raleigh,User-154,In Use,2027-07-06
+AST-00052,Mobile,HP,Pro,SN000000052,Raleigh,User-157,In Stock,2027-07-07
+AST-00053,Dock,Lenovo,Standard,SN000000053,Charlotte,User-160,In Use,2027-07-08
+AST-00054,Printer,HP,Pro,SN000000054,Raleigh,User-163,In Stock,2027-07-09
+AST-00055,Printer,Zebra,Enterprise,SN000000055,Raleigh,User-166,In Use,2027-07-10
+AST-00056,Dock,HP,Enterprise,SN000000056,Raleigh,User-169,In Use,2027-07-11
+AST-00057,Laptop,HP,Enterprise,SN000000057,Remote,User-172,In Use,2027-07-12
+AST-00058,Laptop,Zebra,Enterprise,SN000000058,Charlotte,User-175,In Use,2027-07-13
+AST-00059,Mobile,Dell,Standard,SN000000059,Remote,User-178,In Stock,2027-07-14
+AST-00060,Dock,Apple,Standard,SN000000060,Remote,User-181,In Use,2027-07-15
+AST-00061,Laptop,HP,Standard,SN000000061,Raleigh,User-184,In Stock,2027-07-16
+AST-00062,Printer,Lenovo,Pro,SN000000062,Raleigh,User-187,In Use,2027-07-17
+AST-00063,Mobile,Dell,Pro,SN000000063,Raleigh,User-190,In Use,2027-07-18
+AST-00064,Monitor,Zebra,Pro,SN000000064,Remote,User-193,In Use,2027-07-19
+AST-00065,Dock,Dell,Enterprise,SN000000065,Charlotte,User-196,In Use,2027-07-20
+AST-00066,Mobile,Apple,Enterprise,SN000000066,Remote,User-199,In Use,2027-07-21
+AST-00067,Monitor,Apple,Enterprise,SN000000067,Raleigh,User-202,Repair,2027-07-22
+AST-00068,Mobile,Zebra,Pro,SN000000068,Charlotte,User-205,In Use,2027-07-23
+AST-00069,Laptop,HP,Enterprise,SN000000069,Charlotte,User-208,In Use,2027-07-24
+AST-00070,Printer,Apple,Enterprise,SN000000070,Remote,User-211,In Stock,2027-07-25
+AST-00071,Dock,HP,Pro,SN000000071,Remote,User-214,In Stock,2027-07-26
+AST-00072,Printer,Dell,Standard,SN000000072,Charlotte,User-217,In Use,2027-07-27
+AST-00073,Printer,HP,Pro,SN000000073,Charlotte,User-220,In Use,2027-07-28
+AST-00074,Dock,HP,Pro,SN000000074,Charlotte,User-223,In Use,2027-07-29
+AST-00075,Monitor,Zebra,Standard,SN000000075,Charlotte,User-226,In Stock,2027-07-30
+AST-00076,Printer,Lenovo,Pro,SN000000076,Charlotte,User-229,In Stock,2027-07-31
+AST-00077,Monitor,Apple,Enterprise,SN000000077,Raleigh,User-232,In Stock,2027-08-01
+AST-00078,Laptop,Dell,Pro,SN000000078,Charlotte,User-235,In Stock,2027-08-02
+AST-00079,Monitor,Lenovo,Standard,SN000000079,Remote,User-238,In Use,2027-08-03
+AST-00080,Mobile,Lenovo,Enterprise,SN000000080,Remote,User-241,In Use,2027-08-04
+AST-00081,Mobile,HP,Pro,SN000000081,Raleigh,User-244,In Use,2027-08-05
+AST-00082,Printer,Apple,Standard,SN000000082,Raleigh,User-247,In Use,2027-08-06
+AST-00083,Mobile,Lenovo,Standard,SN000000083,Raleigh,User-250,In Use,2027-08-07
+AST-00084,Mobile,HP,Pro,SN000000084,Charlotte,User-003,In Use,2027-08-08
+AST-00085,Monitor,Zebra,Pro,SN000000085,Remote,User-006,In Use,2027-08-09
+AST-00086,Dock,Dell,Pro,SN000000086,Charlotte,User-009,In Use,2027-08-10
+AST-00087,Mobile,Zebra,Standard,SN000000087,Charlotte,User-012,In Use,2027-08-11
+AST-00088,Laptop,Apple,Standard,SN000000088,Raleigh,User-015,Repair,2027-08-12
+AST-00089,Laptop,Zebra,Standard,SN000000089,Remote,User-018,In Use,2027-08-13
+AST-00090,Printer,Dell,Pro,SN000000090,Raleigh,User-021,In Use,2027-08-14
+AST-00091,Laptop,Dell,Enterprise,SN000000091,Charlotte,User-024,In Use,2027-08-15
+AST-00092,Monitor,Dell,Pro,SN000000092,Charlotte,User-027,In Use,2027-08-16
+AST-00093,Laptop,Dell,Enterprise,SN000000093,Remote,User-030,In Stock,2027-08-17
+AST-00094,Laptop,HP,Standard,SN000000094,Raleigh,User-033,Repair,2027-08-18
+AST-00095,Monitor,Lenovo,Pro,SN000000095,Raleigh,User-036,In Use,2027-08-19
+AST-00096,Monitor,Dell,Enterprise,SN000000096,Remote,User-039,In Stock,2027-08-20
+AST-00097,Printer,Dell,Standard,SN000000097,Charlotte,User-042,In Use,2027-08-21
+AST-00098,Printer,Lenovo,Standard,SN000000098,Remote,User-045,Repair,2027-08-22
+AST-00099,Monitor,Dell,Standard,SN000000099,Charlotte,User-048,In Use,2027-08-23
+AST-00100,Mobile,Apple,Standard,SN000000100,Raleigh,User-051,In Stock,2027-08-24
+AST-00101,Monitor,Apple,Enterprise,SN000000101,Remote,User-054,In Use,2027-08-25
+AST-00102,Mobile,HP,Standard,SN000000102,Charlotte,User-057,In Use,2027-08-26
+AST-00103,Dock,Lenovo,Standard,SN000000103,Remote,User-060,In Stock,2027-08-27
+AST-00104,Laptop,Lenovo,Standard,SN000000104,Charlotte,User-063,In Use,2027-08-28
+AST-00105,Monitor,Apple,Enterprise,SN000000105,Raleigh,User-066,In Use,2027-08-29
+AST-00106,Mobile,HP,Enterprise,SN000000106,Remote,User-069,In Stock,2027-08-30
+AST-00107,Printer,Lenovo,Pro,SN000000107,Charlotte,User-072,In Stock,2027-08-31
+AST-00108,Mobile,Lenovo,Pro,SN000000108,Remote,User-075,In Use,2027-09-01
+AST-00109,Laptop,HP,Enterprise,SN000000109,Charlotte,User-078,In Stock,2027-09-02
+AST-00110,Monitor,Apple,Pro,SN000000110,Remote,User-081,Repair,2027-09-03
+AST-00111,Laptop,Dell,Enterprise,SN000000111,Raleigh,User-084,In Stock,2027-09-04
+AST-00112,Monitor,Dell,Pro,SN000000112,Charlotte,User-087,In Use,2027-09-05
+AST-00113,Mobile,Lenovo,Pro,SN000000113,Raleigh,User-090,Repair,2027-09-06
+AST-00114,Mobile,Apple,Enterprise,SN000000114,Remote,User-093,In Stock,2027-09-07
+AST-00115,Monitor,HP,Pro,SN000000115,Raleigh,User-096,Repair,2027-09-08
+AST-00116,Printer,Zebra,Pro,SN000000116,Remote,User-099,In Use,2027-09-09
+AST-00117,Mobile,Dell,Enterprise,SN000000117,Remote,User-102,Repair,2027-09-10
+AST-00118,Printer,Zebra,Enterprise,SN000000118,Remote,User-105,In Use,2027-09-11
+AST-00119,Laptop,HP,Pro,SN000000119,Charlotte,User-108,In Use,2027-09-12
+AST-00120,Laptop,Lenovo,Enterprise,SN000000120,Raleigh,User-111,In Use,2027-09-13
+AST-00121,Laptop,Dell,Pro,SN000000121,Raleigh,User-114,In Use,2027-09-14
+AST-00122,Dock,Apple,Standard,SN000000122,Remote,User-117,Repair,2027-09-15
+AST-00123,Monitor,HP,Standard,SN000000123,Charlotte,User-120,In Use,2027-09-16
+AST-00124,Laptop,HP,Pro,SN000000124,Remote,User-123,In Use,2027-09-17
+AST-00125,Mobile,Lenovo,Standard,SN000000125,Remote,User-126,In Use,2027-09-18
+AST-00126,Printer,Dell,Pro,SN000000126,Remote,User-129,In Use,2027-09-19
+AST-00127,Laptop,HP,Pro,SN000000127,Charlotte,User-132,In Use,2027-09-20
+AST-00128,Monitor,Dell,Standard,SN000000128,Remote,User-135,Repair,2027-09-21
+AST-00129,Monitor,HP,Pro,SN000000129,Remote,User-138,In Use,2027-09-22
+AST-00130,Printer,Lenovo,Pro,SN000000130,Raleigh,User-141,In Stock,2027-09-23
+AST-00131,Mobile,Dell,Pro,SN000000131,Charlotte,User-144,In Use,2027-09-24
+AST-00132,Laptop,Dell,Enterprise,SN000000132,Charlotte,User-147,In Use,2027-09-25
+AST-00133,Laptop,Apple,Pro,SN000000133,Remote,User-150,Repair,2027-09-26
+AST-00134,Printer,Lenovo,Enterprise,SN000000134,Remote,User-153,In Stock,2027-09-27
+AST-00135,Monitor,Apple,Standard,SN000000135,Raleigh,User-156,In Use,2027-09-28
+AST-00136,Printer,Apple,Standard,SN000000136,Remote,User-159,In Use,2027-09-29
+AST-00137,Mobile,Zebra,Standard,SN000000137,Charlotte,User-162,Repair,2027-09-30
+AST-00138,Monitor,Zebra,Enterprise,SN000000138,Charlotte,User-165,Repair,2027-10-01
+AST-00139,Mobile,Lenovo,Enterprise,SN000000139,Remote,User-168,Repair,2027-10-02
+AST-00140,Mobile,HP,Standard,SN000000140,Raleigh,User-171,Repair,2027-10-03
+AST-00141,Monitor,Lenovo,Standard,SN000000141,Charlotte,User-174,In Use,2027-10-04
+AST-00142,Dock,Zebra,Pro,SN000000142,Charlotte,User-177,In Use,2027-10-05
+AST-00143,Dock,HP,Enterprise,SN000000143,Charlotte,User-180,In Use,2027-10-06
+AST-00144,Monitor,Zebra,Standard,SN000000144,Raleigh,User-183,In Use,2027-10-07
+AST-00145,Printer,HP,Enterprise,SN000000145,Charlotte,User-186,In Use,2027-10-08
+AST-00146,Dock,Dell,Enterprise,SN000000146,Remote,User-189,In Use,2027-10-09
+AST-00147,Printer,Apple,Standard,SN000000147,Charlotte,User-192,In Stock,2027-10-10
+AST-00148,Laptop,Lenovo,Standard,SN000000148,Raleigh,User-195,In Stock,2027-10-11
+AST-00149,Mobile,Zebra,Standard,SN000000149,Raleigh,User-198,Repair,2027-10-12
+AST-00150,Dock,HP,Enterprise,SN000000150,Remote,User-201,In Use,2027-10-13
+AST-00151,Dock,Apple,Enterprise,SN000000151,Remote,User-204,In Use,2027-10-14
+AST-00152,Printer,HP,Standard,SN000000152,Remote,User-207,Repair,2027-10-15
+AST-00153,Mobile,Zebra,Standard,SN000000153,Raleigh,User-210,In Use,2027-10-16
+AST-00154,Monitor,Apple,Standard,SN000000154,Remote,User-213,In Use,2027-10-17
+AST-00155,Monitor,HP,Enterprise,SN000000155,Remote,User-216,In Use,2027-10-18
+AST-00156,Monitor,Zebra,Enterprise,SN000000156,Remote,User-219,In Stock,2027-10-19
+AST-00157,Mobile,HP,Pro,SN000000157,Raleigh,User-222,In Stock,2027-10-20
+AST-00158,Printer,Apple,Standard,SN000000158,Remote,User-225,Repair,2027-10-21
+AST-00159,Monitor,HP,Enterprise,SN000000159,Remote,User-228,In Use,2027-10-22
+AST-00160,Monitor,Zebra,Enterprise,SN000000160,Raleigh,User-231,In Use,2027-10-23
+AST-00161,Laptop,HP,Pro,SN000000161,Remote,User-234,In Use,2027-10-24
+AST-00162,Mobile,Dell,Pro,SN000000162,Raleigh,User-237,In Use,2027-10-25
+AST-00163,Dock,HP,Standard,SN000000163,Raleigh,User-240,In Stock,2027-10-26
+AST-00164,Dock,Dell,Standard,SN000000164,Charlotte,User-243,Repair,2027-10-27
+AST-00165,Dock,Apple,Pro,SN000000165,Raleigh,User-246,In Use,2027-10-28
+AST-00166,Laptop,Zebra,Pro,SN000000166,Charlotte,User-249,In Stock,2027-10-29
+AST-00167,Dock,Apple,Pro,SN000000167,Remote,User-002,In Use,2027-10-30
+AST-00168,Mobile,Lenovo,Enterprise,SN000000168,Remote,User-005,In Stock,2027-10-31
+AST-00169,Dock,Dell,Enterprise,SN000000169,Raleigh,User-008,Repair,2027-11-01
+AST-00170,Dock,Dell,Enterprise,SN000000170,Remote,User-011,In Use,2027-11-02
+AST-00171,Monitor,Zebra,Standard,SN000000171,Charlotte,User-014,In Use,2027-11-03
+AST-00172,Dock,Apple,Standard,SN000000172,Remote,User-017,Repair,2027-11-04
+AST-00173,Laptop,HP,Pro,SN000000173,Raleigh,User-020,In Use,2027-11-05
+AST-00174,Dock,Apple,Pro,SN000000174,Remote,User-023,Repair,2027-11-06
+AST-00175,Laptop,Dell,Standard,SN000000175,Remote,User-026,In Use,2027-11-07
+AST-00176,Mobile,Apple,Standard,SN000000176,Raleigh,User-029,In Stock,2027-11-08
+AST-00177,Laptop,Lenovo,Pro,SN000000177,Remote,User-032,Repair,2027-11-09
+AST-00178,Monitor,Apple,Standard,SN000000178,Raleigh,User-035,Repair,2027-11-10
+AST-00179,Laptop,Zebra,Standard,SN000000179,Raleigh,User-038,In Use,2027-11-11
+AST-00180,Monitor,Lenovo,Enterprise,SN000000180,Charlotte,User-041,Repair,2027-11-12
+AST-00181,Laptop,Lenovo,Pro,SN000000181,Raleigh,User-044,In Use,2027-11-13
+AST-00182,Laptop,HP,Standard,SN000000182,Remote,User-047,Repair,2027-11-14
+AST-00183,Dock,Lenovo,Enterprise,SN000000183,Charlotte,User-050,In Use,2027-11-15
+AST-00184,Monitor,Dell,Pro,SN000000184,Raleigh,User-053,In Use,2027-11-16
+AST-00185,Dock,Apple,Pro,SN000000185,Remote,User-056,In Use,2027-11-17
+AST-00186,Dock,HP,Standard,SN000000186,Charlotte,User-059,Repair,2027-11-18
+AST-00187,Dock,Lenovo,Standard,SN000000187,Charlotte,User-062,In Stock,2027-11-19
+AST-00188,Mobile,Apple,Pro,SN000000188,Remote,User-065,In Use,2027-11-20
+AST-00189,Mobile,Lenovo,Enterprise,SN000000189,Remote,User-068,Repair,2027-11-21
+AST-00190,Laptop,Zebra,Enterprise,SN000000190,Charlotte,User-071,In Use,2027-11-22
+AST-00191,Printer,Zebra,Standard,SN000000191,Raleigh,User-074,In Stock,2027-11-23
+AST-00192,Laptop,HP,Pro,SN000000192,Charlotte,User-077,Repair,2027-11-24
+AST-00193,Dock,Dell,Enterprise,SN000000193,Raleigh,User-080,In Stock,2027-11-25
+AST-00194,Printer,Dell,Pro,SN000000194,Charlotte,User-083,Repair,2027-11-26
+AST-00195,Printer,Dell,Standard,SN000000195,Charlotte,User-086,In Use,2027-11-27
+AST-00196,Mobile,Zebra,Standard,SN000000196,Remote,User-089,Repair,2027-11-28
+AST-00197,Monitor,Lenovo,Standard,SN000000197,Charlotte,User-092,In Use,2027-11-29
+AST-00198,Dock,Lenovo,Standard,SN000000198,Raleigh,User-095,In Stock,2027-11-30
+AST-00199,Printer,Dell,Enterprise,SN000000199,Raleigh,User-098,Repair,2027-12-01
+AST-00200,Mobile,Apple,Pro,SN000000200,Raleigh,User-101,Repair,2027-12-02
+AST-00201,Printer,Lenovo,Standard,SN000000201,Charlotte,User-104,Repair,2027-12-03
+AST-00202,Mobile,Lenovo,Standard,SN000000202,Remote,User-107,In Use,2027-12-04
+AST-00203,Printer,Apple,Pro,SN000000203,Raleigh,User-110,Repair,2027-12-05
+AST-00204,Dock,Zebra,Standard,SN000000204,Charlotte,User-113,In Use,2027-12-06
+AST-00205,Laptop,Dell,Enterprise,SN000000205,Raleigh,User-116,In Use,2027-12-07
+AST-00206,Mobile,Zebra,Enterprise,SN000000206,Charlotte,User-119,Repair,2027-12-08
+AST-00207,Printer,Zebra,Standard,SN000000207,Remote,User-122,In Stock,2027-12-09
+AST-00208,Mobile,HP,Standard,SN000000208,Raleigh,User-125,Repair,2027-12-10
+AST-00209,Laptop,HP,Pro,SN000000209,Charlotte,User-128,In Stock,2027-12-11
+AST-00210,Mobile,Apple,Enterprise,SN000000210,Remote,User-131,Repair,2027-12-12
+AST-00211,Laptop,Lenovo,Standard,SN000000211,Remote,User-134,In Stock,2027-12-13
+AST-00212,Dock,Lenovo,Pro,SN000000212,Raleigh,User-137,In Use,2027-12-14
+AST-00213,Laptop,Apple,Standard,SN000000213,Charlotte,User-140,In Use,2027-12-15
+AST-00214,Monitor,Lenovo,Enterprise,SN000000214,Remote,User-143,In Stock,2027-12-16
+AST-00215,Dock,HP,Enterprise,SN000000215,Raleigh,User-146,In Use,2027-12-17
+AST-00216,Printer,Apple,Standard,SN000000216,Remote,User-149,Repair,2027-12-18
+AST-00217,Laptop,Zebra,Pro,SN000000217,Charlotte,User-152,Repair,2027-12-19
+AST-00218,Monitor,Apple,Pro,SN000000218,Remote,User-155,In Use,2027-12-20
+AST-00219,Mobile,HP,Standard,SN000000219,Remote,User-158,In Use,2027-12-21
+AST-00220,Printer,Dell,Enterprise,SN000000220,Remote,User-161,Repair,2027-12-22
+AST-00221,Dock,Zebra,Standard,SN000000221,Raleigh,User-164,In Use,2027-12-23
+AST-00222,Laptop,Dell,Standard,SN000000222,Raleigh,User-167,In Use,2027-12-24
+AST-00223,Printer,HP,Standard,SN000000223,Remote,User-170,In Use,2027-12-25
+AST-00224,Printer,Apple,Standard,SN000000224,Remote,User-173,In Use,2027-12-26
+AST-00225,Mobile,Lenovo,Standard,SN000000225,Charlotte,User-176,In Use,2027-12-27
+AST-00226,Dock,HP,Enterprise,SN000000226,Charlotte,User-179,Repair,2027-12-28
+AST-00227,Dock,Dell,Pro,SN000000227,Charlotte,User-182,In Use,2027-12-29
+AST-00228,Laptop,Zebra,Standard,SN000000228,Charlotte,User-185,Repair,2027-12-30
+AST-00229,Printer,Dell,Standard,SN000000229,Charlotte,User-188,In Stock,2027-12-31
+AST-00230,Dock,HP,Standard,SN000000230,Charlotte,User-191,Repair,2028-01-01
+AST-00231,Dock,HP,Pro,SN000000231,Charlotte,User-194,Repair,2028-01-02
+AST-00232,Laptop,Apple,Standard,SN000000232,Raleigh,User-197,In Use,2028-01-03
+AST-00233,Monitor,Apple,Pro,SN000000233,Raleigh,User-200,Repair,2028-01-04
+AST-00234,Monitor,HP,Pro,SN000000234,Charlotte,User-203,In Use,2028-01-05
+AST-00235,Printer,Zebra,Standard,SN000000235,Charlotte,User-206,In Stock,2028-01-06
+AST-00236,Dock,Apple,Enterprise,SN000000236,Remote,User-209,In Use,2028-01-07
+AST-00237,Monitor,Zebra,Enterprise,SN000000237,Raleigh,User-212,In Use,2028-01-08
+AST-00238,Monitor,Zebra,Standard,SN000000238,Remote,User-215,In Use,2028-01-09
+AST-00239,Printer,Zebra,Standard,SN000000239,Charlotte,User-218,In Stock,2028-01-10
+AST-00240,Laptop,HP,Standard,SN000000240,Raleigh,User-221,In Use,2028-01-11
+AST-00241,Monitor,Dell,Enterprise,SN000000241,Remote,User-224,In Use,2028-01-12
+AST-00242,Dock,Lenovo,Pro,SN000000242,Charlotte,User-227,In Use,2028-01-13
+AST-00243,Dock,Zebra,Enterprise,SN000000243,Raleigh,User-230,Repair,2028-01-14
+AST-00244,Mobile,Apple,Enterprise,SN000000244,Raleigh,User-233,In Use,2028-01-15
+AST-00245,Dock,HP,Standard,SN000000245,Remote,User-236,In Stock,2028-01-16
+AST-00246,Mobile,Dell,Enterprise,SN000000246,Remote,User-239,In Stock,2028-01-17
+AST-00247,Monitor,HP,Enterprise,SN000000247,Raleigh,User-242,Repair,2028-01-18
+AST-00248,Mobile,Apple,Enterprise,SN000000248,Remote,User-245,In Stock,2028-01-19
+AST-00249,Dock,Zebra,Standard,SN000000249,Remote,User-248,Repair,2028-01-20
+AST-00250,Mobile,HP,Enterprise,SN000000250,Raleigh,User-001,In Stock,2028-01-21
+AST-00251,Laptop,Apple,Standard,SN000000251,Charlotte,User-004,In Stock,2028-01-22
+AST-00252,Printer,Apple,Pro,SN000000252,Remote,User-007,In Stock,2028-01-23
+AST-00253,Mobile,Dell,Standard,SN000000253,Charlotte,User-010,In Stock,2028-01-24
+AST-00254,Mobile,HP,Pro,SN000000254,Charlotte,User-013,In Use,2028-01-25
+AST-00255,Monitor,Lenovo,Pro,SN000000255,Charlotte,User-016,In Stock,2028-01-26
+AST-00256,Laptop,Dell,Pro,SN000000256,Remote,User-019,In Use,2028-01-27
+AST-00257,Dock,HP,Pro,SN000000257,Remote,User-022,In Stock,2028-01-28
+AST-00258,Monitor,Zebra,Standard,SN000000258,Raleigh,User-025,In Stock,2028-01-29
+AST-00259,Printer,HP,Enterprise,SN000000259,Charlotte,User-028,In Use,2028-01-30
+AST-00260,Printer,Lenovo,Enterprise,SN000000260,Remote,User-031,In Use,2028-01-31
+AST-00261,Printer,Apple,Enterprise,SN000000261,Raleigh,User-034,In Stock,2028-02-01
+AST-00262,Dock,HP,Standard,SN000000262,Charlotte,User-037,Repair,2028-02-02
+AST-00263,Mobile,Dell,Pro,SN000000263,Raleigh,User-040,In Use,2028-02-03
+AST-00264,Laptop,Apple,Standard,SN000000264,Remote,User-043,In Stock,2028-02-04
+AST-00265,Printer,Apple,Standard,SN000000265,Remote,User-046,In Use,2028-02-05
+AST-00266,Dock,Dell,Enterprise,SN000000266,Remote,User-049,In Use,2028-02-06
+AST-00267,Mobile,Lenovo,Standard,SN000000267,Raleigh,User-052,In Use,2028-02-07
+AST-00268,Printer,Zebra,Standard,SN000000268,Raleigh,User-055,In Use,2028-02-08
+AST-00269,Laptop,Apple,Standard,SN000000269,Raleigh,User-058,In Stock,2028-02-09
+AST-00270,Dock,Lenovo,Pro,SN000000270,Raleigh,User-061,In Use,2028-02-10
+AST-00271,Printer,Lenovo,Pro,SN000000271,Remote,User-064,In Use,2028-02-11
+AST-00272,Mobile,Lenovo,Enterprise,SN000000272,Raleigh,User-067,Repair,2028-02-12
+AST-00273,Laptop,Lenovo,Enterprise,SN000000273,Charlotte,User-070,In Use,2028-02-13
+AST-00274,Monitor,Dell,Standard,SN000000274,Charlotte,User-073,In Use,2028-02-14
+AST-00275,Dock,Apple,Standard,SN000000275,Charlotte,User-076,In Use,2028-02-15
+AST-00276,Monitor,Lenovo,Enterprise,SN000000276,Charlotte,User-079,In Use,2028-02-16
+AST-00277,Dock,Dell,Standard,SN000000277,Charlotte,User-082,In Stock,2028-02-17
+AST-00278,Laptop,Lenovo,Pro,SN000000278,Remote,User-085,Repair,2028-02-18
+AST-00279,Dock,HP,Standard,SN000000279,Remote,User-088,Repair,2028-02-19
+AST-00280,Laptop,HP,Pro,SN000000280,Charlotte,User-091,Repair,2028-02-20
+AST-00281,Mobile,Dell,Enterprise,SN000000281,Remote,User-094,In Use,2028-02-21
+AST-00282,Printer,Apple,Enterprise,SN000000282,Raleigh,User-097,In Stock,2028-02-22
+AST-00283,Dock,Apple,Standard,SN000000283,Charlotte,User-100,In Stock,2028-02-23
+AST-00284,Dock,Dell,Pro,SN000000284,Remote,User-103,In Use,2028-02-24
+AST-00285,Monitor,Dell,Standard,SN000000285,Raleigh,User-106,In Use,2028-02-25
+AST-00286,Monitor,Dell,Enterprise,SN000000286,Charlotte,User-109,Repair,2028-02-26
+AST-00287,Mobile,HP,Pro,SN000000287,Charlotte,User-112,In Stock,2028-02-27
+AST-00288,Monitor,Zebra,Enterprise,SN000000288,Remote,User-115,In Stock,2028-02-28
+AST-00289,Dock,Apple,Enterprise,SN000000289,Charlotte,User-118,In Use,2028-02-29
+AST-00290,Monitor,HP,Pro,SN000000290,Raleigh,User-121,Repair,2028-03-01
+AST-00291,Printer,Zebra,Standard,SN000000291,Raleigh,User-124,In Use,2028-03-02
+AST-00292,Laptop,Lenovo,Pro,SN000000292,Charlotte,User-127,In Stock,2028-03-03
+AST-00293,Printer,Dell,Standard,SN000000293,Raleigh,User-130,In Use,2028-03-04
+AST-00294,Laptop,HP,Standard,SN000000294,Raleigh,User-133,In Use,2028-03-05
+AST-00295,Dock,Dell,Pro,SN000000295,Remote,User-136,Repair,2028-03-06
+AST-00296,Dock,Lenovo,Standard,SN000000296,Remote,User-139,In Use,2028-03-07
+AST-00297,Dock,Apple,Standard,SN000000297,Charlotte,User-142,Repair,2028-03-08
+AST-00298,Printer,Apple,Enterprise,SN000000298,Raleigh,User-145,In Use,2028-03-09
+AST-00299,Mobile,Lenovo,Pro,SN000000299,Charlotte,User-148,In Use,2028-03-10
+AST-00300,Mobile,Apple,Standard,SN000000300,Raleigh,User-151,In Use,2028-03-11
+AST-00301,Mobile,HP,Enterprise,SN000000301,Raleigh,User-154,Repair,2028-03-12
+AST-00302,Printer,Apple,Standard,SN000000302,Remote,User-157,In Use,2028-03-13
+AST-00303,Monitor,Dell,Standard,SN000000303,Charlotte,User-160,In Use,2028-03-14
+AST-00304,Laptop,Zebra,Pro,SN000000304,Charlotte,User-163,In Use,2028-03-15
+AST-00305,Printer,Dell,Pro,SN000000305,Charlotte,User-166,Repair,2028-03-16
+AST-00306,Mobile,Apple,Standard,SN000000306,Charlotte,User-169,In Stock,2028-03-17
+AST-00307,Mobile,HP,Standard,SN000000307,Charlotte,User-172,In Stock,2028-03-18
+AST-00308,Dock,Zebra,Pro,SN000000308,Remote,User-175,In Use,2028-03-19
+AST-00309,Laptop,HP,Enterprise,SN000000309,Remote,User-178,Repair,2028-03-20
+AST-00310,Dock,HP,Standard,SN000000310,Raleigh,User-181,In Use,2028-03-21
+AST-00311,Monitor,HP,Pro,SN000000311,Raleigh,User-184,In Use,2028-03-22
+AST-00312,Laptop,Apple,Pro,SN000000312,Raleigh,User-187,In Use,2028-03-23
+AST-00313,Monitor,Lenovo,Standard,SN000000313,Charlotte,User-190,In Use,2028-03-24
+AST-00314,Printer,Lenovo,Pro,SN000000314,Remote,User-193,In Use,2028-03-25
+AST-00315,Mobile,HP,Pro,SN000000315,Charlotte,User-196,In Use,2028-03-26
+AST-00316,Laptop,Zebra,Enterprise,SN000000316,Raleigh,User-199,In Use,2028-03-27
+AST-00317,Printer,Zebra,Standard,SN000000317,Charlotte,User-202,In Use,2028-03-28
+AST-00318,Laptop,Lenovo,Enterprise,SN000000318,Raleigh,User-205,Repair,2028-03-29
+AST-00319,Mobile,Lenovo,Enterprise,SN000000319,Raleigh,User-208,Repair,2028-03-30
+AST-00320,Dock,Lenovo,Pro,SN000000320,Charlotte,User-211,In Stock,2028-03-31
+AST-00321,Dock,Lenovo,Enterprise,SN000000321,Remote,User-214,Repair,2028-04-01
+AST-00322,Laptop,Lenovo,Enterprise,SN000000322,Remote,User-217,In Use,2028-04-02
+AST-00323,Monitor,Apple,Standard,SN000000323,Remote,User-220,In Use,2028-04-03
+AST-00324,Dock,Apple,Standard,SN000000324,Charlotte,User-223,Repair,2028-04-04
+AST-00325,Dock,HP,Enterprise,SN000000325,Charlotte,User-226,In Use,2028-04-05
+AST-00326,Mobile,Dell,Pro,SN000000326,Remote,User-229,Repair,2028-04-06
+AST-00327,Printer,HP,Pro,SN000000327,Remote,User-232,In Stock,2028-04-07
+AST-00328,Dock,Apple,Enterprise,SN000000328,Raleigh,User-235,In Stock,2028-04-08
+AST-00329,Dock,HP,Standard,SN000000329,Remote,User-238,In Stock,2028-04-09
+AST-00330,Printer,Dell,Pro,SN000000330,Raleigh,User-241,In Stock,2028-04-10
+AST-00331,Dock,Dell,Standard,SN000000331,Raleigh,User-244,In Use,2028-04-11
+AST-00332,Mobile,HP,Enterprise,SN000000332,Raleigh,User-247,In Use,2028-04-12
+AST-00333,Dock,Apple,Pro,SN000000333,Charlotte,User-250,In Stock,2028-04-13
+AST-00334,Laptop,Apple,Standard,SN000000334,Charlotte,User-003,In Stock,2028-04-14
+AST-00335,Printer,Dell,Standard,SN000000335,Raleigh,User-006,In Stock,2028-04-15
+AST-00336,Laptop,Apple,Pro,SN000000336,Remote,User-009,In Use,2028-04-16
+AST-00337,Laptop,Lenovo,Standard,SN000000337,Raleigh,User-012,In Stock,2028-04-17
+AST-00338,Printer,Zebra,Standard,SN000000338,Charlotte,User-015,In Stock,2028-04-18
+AST-00339,Monitor,HP,Pro,SN000000339,Remote,User-018,In Use,2028-04-19
+AST-00340,Dock,HP,Standard,SN000000340,Raleigh,User-021,In Stock,2028-04-20
+AST-00341,Monitor,Apple,Pro,SN000000341,Raleigh,User-024,In Use,2028-04-21
+AST-00342,Dock,Lenovo,Enterprise,SN000000342,Raleigh,User-027,In Use,2028-04-22
+AST-00343,Printer,Apple,Enterprise,SN000000343,Raleigh,User-030,In Use,2028-04-23
+AST-00344,Monitor,Lenovo,Standard,SN000000344,Raleigh,User-033,In Use,2028-04-24
+AST-00345,Dock,Lenovo,Standard,SN000000345,Raleigh,User-036,Repair,2028-04-25
+AST-00346,Printer,HP,Pro,SN000000346,Raleigh,User-039,In Use,2028-04-26
+AST-00347,Monitor,Zebra,Pro,SN000000347,Remote,User-042,In Stock,2028-04-27
+AST-00348,Printer,Lenovo,Pro,SN000000348,Raleigh,User-045,Repair,2028-04-28
+AST-00349,Mobile,Apple,Pro,SN000000349,Raleigh,User-048,In Use,2028-04-29
+AST-00350,Printer,Dell,Pro,SN000000350,Charlotte,User-051,In Use,2028-04-30
+AST-00351,Printer,Lenovo,Standard,SN000000351,Remote,User-054,In Stock,2028-05-01
+AST-00352,Monitor,Zebra,Enterprise,SN000000352,Remote,User-057,In Stock,2028-05-02
+AST-00353,Laptop,Apple,Standard,SN000000353,Raleigh,User-060,In Use,2028-05-03
+AST-00354,Mobile,Zebra,Pro,SN000000354,Charlotte,User-063,In Use,2028-05-04
+AST-00355,Laptop,Lenovo,Enterprise,SN000000355,Charlotte,User-066,In Stock,2028-05-05
+AST-00356,Printer,Dell,Pro,SN000000356,Remote,User-069,Repair,2028-05-06
+AST-00357,Dock,Dell,Standard,SN000000357,Remote,User-072,In Use,2028-05-07
+AST-00358,Monitor,Zebra,Standard,SN000000358,Remote,User-075,Repair,2028-05-08
+AST-00359,Monitor,HP,Enterprise,SN000000359,Remote,User-078,In Use,2028-05-09
+AST-00360,Dock,Lenovo,Enterprise,SN000000360,Charlotte,User-081,Repair,2028-05-10
+AST-00361,Printer,HP,Standard,SN000000361,Charlotte,User-084,In Use,2028-05-11
+AST-00362,Monitor,Zebra,Standard,SN000000362,Remote,User-087,In Use,2028-05-12
+AST-00363,Monitor,HP,Standard,SN000000363,Raleigh,User-090,In Use,2028-05-13
+AST-00364,Printer,Apple,Pro,SN000000364,Charlotte,User-093,In Use,2028-05-14
+AST-00365,Dock,Apple,Pro,SN000000365,Charlotte,User-096,In Use,2028-05-15
+AST-00366,Printer,Lenovo,Enterprise,SN000000366,Remote,User-099,Repair,2028-05-16
+AST-00367,Printer,Dell,Pro,SN000000367,Charlotte,User-102,In Use,2028-05-17
+AST-00368,Monitor,HP,Enterprise,SN000000368,Remote,User-105,In Use,2028-05-18
+AST-00369,Monitor,Zebra,Enterprise,SN000000369,Remote,User-108,In Use,2028-05-19
+AST-00370,Mobile,Apple,Pro,SN000000370,Raleigh,User-111,In Use,2028-05-20
+AST-00371,Printer,Apple,Pro,SN000000371,Remote,User-114,In Stock,2028-05-21
+AST-00372,Mobile,Apple,Enterprise,SN000000372,Charlotte,User-117,Repair,2028-05-22
+AST-00373,Mobile,Apple,Standard,SN000000373,Charlotte,User-120,In Stock,2028-05-23
+AST-00374,Mobile,Dell,Enterprise,SN000000374,Raleigh,User-123,In Use,2028-05-24
+AST-00375,Printer,Lenovo,Standard,SN000000375,Remote,User-126,Repair,2028-05-25
+AST-00376,Laptop,Lenovo,Standard,SN000000376,Raleigh,User-129,Repair,2028-05-26
+AST-00377,Dock,Dell,Standard,SN000000377,Raleigh,User-132,In Use,2028-05-27
+AST-00378,Dock,Zebra,Pro,SN000000378,Remote,User-135,In Use,2028-05-28
+AST-00379,Monitor,HP,Pro,SN000000379,Remote,User-138,In Stock,2028-05-29
+AST-00380,Mobile,HP,Pro,SN000000380,Remote,User-141,In Stock,2028-05-30
+AST-00381,Mobile,Dell,Enterprise,SN000000381,Raleigh,User-144,Repair,2028-05-31
+AST-00382,Mobile,Zebra,Enterprise,SN000000382,Charlotte,User-147,In Stock,2028-06-01
+AST-00383,Monitor,Lenovo,Enterprise,SN000000383,Remote,User-150,In Stock,2028-06-02
+AST-00384,Printer,Zebra,Pro,SN000000384,Charlotte,User-153,In Use,2028-06-03
+AST-00385,Laptop,HP,Standard,SN000000385,Charlotte,User-156,In Use,2028-06-04
+AST-00386,Mobile,Apple,Pro,SN000000386,Charlotte,User-159,In Use,2028-06-05
+AST-00387,Laptop,HP,Enterprise,SN000000387,Raleigh,User-162,Repair,2028-06-06
+AST-00388,Laptop,Dell,Enterprise,SN000000388,Raleigh,User-165,In Use,2028-06-07
+AST-00389,Laptop,Dell,Pro,SN000000389,Raleigh,User-168,In Use,2028-06-08
+AST-00390,Monitor,Lenovo,Standard,SN000000390,Remote,User-171,Repair,2028-06-09
+AST-00391,Mobile,HP,Enterprise,SN000000391,Remote,User-174,In Use,2028-06-10
+AST-00392,Monitor,Lenovo,Pro,SN000000392,Raleigh,User-177,In Stock,2028-06-11
+AST-00393,Monitor,HP,Enterprise,SN000000393,Charlotte,User-180,Repair,2028-06-12
+AST-00394,Printer,HP,Standard,SN000000394,Remote,User-183,In Use,2028-06-13
+AST-00395,Laptop,HP,Standard,SN000000395,Charlotte,User-186,In Use,2028-06-14
+AST-00396,Dock,Apple,Enterprise,SN000000396,Remote,User-189,In Use,2028-06-15
+AST-00397,Dock,HP,Enterprise,SN000000397,Remote,User-192,Repair,2028-06-16
+AST-00398,Monitor,HP,Enterprise,SN000000398,Raleigh,User-195,In Stock,2028-06-17
+AST-00399,Dock,Zebra,Enterprise,SN000000399,Charlotte,User-198,In Use,2028-06-18
+AST-00400,Mobile,Apple,Enterprise,SN000000400,Raleigh,User-201,In Use,2028-06-19
+AST-00401,Printer,Dell,Standard,SN000000401,Remote,User-204,In Stock,2028-06-20
+AST-00402,Laptop,Dell,Pro,SN000000402,Charlotte,User-207,In Use,2028-06-21
+AST-00403,Printer,Zebra,Pro,SN000000403,Charlotte,User-210,In Use,2028-06-22
+AST-00404,Dock,Lenovo,Pro,SN000000404,Remote,User-213,In Stock,2028-06-23
+AST-00405,Laptop,HP,Pro,SN000000405,Charlotte,User-216,In Use,2028-06-24
+AST-00406,Printer,Zebra,Enterprise,SN000000406,Raleigh,User-219,Repair,2028-06-25
+AST-00407,Printer,Dell,Enterprise,SN000000407,Remote,User-222,In Use,2028-06-26
+AST-00408,Printer,Apple,Pro,SN000000408,Remote,User-225,In Use,2028-06-27
+AST-00409,Laptop,Lenovo,Pro,SN000000409,Raleigh,User-228,In Use,2028-06-28
+AST-00410,Dock,Dell,Standard,SN000000410,Charlotte,User-231,In Stock,2028-06-29
+AST-00411,Laptop,HP,Pro,SN000000411,Charlotte,User-234,In Use,2028-06-30
+AST-00412,Dock,Dell,Pro,SN000000412,Remote,User-237,In Use,2028-07-01
+AST-00413,Printer,Apple,Standard,SN000000413,Raleigh,User-240,In Use,2028-07-02
+AST-00414,Laptop,Dell,Pro,SN000000414,Remote,User-243,In Use,2028-07-03
+AST-00415,Dock,Apple,Pro,SN000000415,Raleigh,User-246,In Use,2028-07-04
+AST-00416,Laptop,Dell,Standard,SN000000416,Charlotte,User-249,Repair,2028-07-05
+AST-00417,Laptop,Zebra,Pro,SN000000417,Charlotte,User-002,Repair,2028-07-06
+AST-00418,Mobile,HP,Pro,SN000000418,Remote,User-005,Repair,2028-07-07
+AST-00419,Printer,HP,Standard,SN000000419,Raleigh,User-008,In Use,2028-07-08
+AST-00420,Printer,Lenovo,Pro,SN000000420,Charlotte,User-011,In Stock,2028-07-09
+AST-00421,Mobile,Dell,Standard,SN000000421,Charlotte,User-014,In Use,2028-07-10
+AST-00422,Printer,Dell,Standard,SN000000422,Raleigh,User-017,In Use,2028-07-11
+AST-00423,Laptop,HP,Standard,SN000000423,Charlotte,User-020,In Use,2028-07-12
+AST-00424,Monitor,Apple,Standard,SN000000424,Raleigh,User-023,In Use,2028-07-13
+AST-00425,Dock,Lenovo,Enterprise,SN000000425,Remote,User-026,In Use,2028-07-14
+AST-00426,Dock,HP,Enterprise,SN000000426,Raleigh,User-029,Repair,2028-07-15
+AST-00427,Laptop,Dell,Standard,SN000000427,Raleigh,User-032,In Use,2028-07-16
+AST-00428,Mobile,Lenovo,Standard,SN000000428,Raleigh,User-035,In Stock,2028-07-17
+AST-00429,Dock,Zebra,Pro,SN000000429,Remote,User-038,In Use,2028-07-18
+AST-00430,Printer,Lenovo,Pro,SN000000430,Remote,User-041,In Use,2028-07-19
+AST-00431,Laptop,Lenovo,Pro,SN000000431,Remote,User-044,Repair,2028-07-20
+AST-00432,Dock,Dell,Standard,SN000000432,Charlotte,User-047,In Use,2028-07-21
+AST-00433,Dock,Zebra,Standard,SN000000433,Charlotte,User-050,In Stock,2028-07-22
+AST-00434,Monitor,Dell,Standard,SN000000434,Remote,User-053,Repair,2028-07-23
+AST-00435,Mobile,Dell,Standard,SN000000435,Raleigh,User-056,In Use,2028-07-24
+AST-00436,Dock,Lenovo,Enterprise,SN000000436,Raleigh,User-059,In Stock,2028-07-25
+AST-00437,Laptop,Dell,Pro,SN000000437,Remote,User-062,Repair,2028-07-26
+AST-00438,Mobile,Dell,Pro,SN000000438,Raleigh,User-065,Repair,2028-07-27
+AST-00439,Laptop,HP,Standard,SN000000439,Raleigh,User-068,In Use,2028-07-28
+AST-00440,Mobile,Zebra,Standard,SN000000440,Remote,User-071,In Stock,2028-07-29
+AST-00441,Laptop,Zebra,Pro,SN000000441,Charlotte,User-074,In Stock,2028-07-30
+AST-00442,Dock,Zebra,Standard,SN000000442,Charlotte,User-077,In Stock,2028-07-31
+AST-00443,Printer,Apple,Pro,SN000000443,Remote,User-080,In Use,2028-08-01
+AST-00444,Laptop,Zebra,Pro,SN000000444,Remote,User-083,In Stock,2028-08-02
+AST-00445,Printer,Apple,Pro,SN000000445,Remote,User-086,In Stock,2028-08-03
+AST-00446,Monitor,Apple,Pro,SN000000446,Remote,User-089,In Use,2028-08-04
+AST-00447,Monitor,Dell,Pro,SN000000447,Remote,User-092,In Stock,2028-08-05
+AST-00448,Laptop,HP,Enterprise,SN000000448,Raleigh,User-095,In Stock,2028-08-06
+AST-00449,Printer,Apple,Standard,SN000000449,Remote,User-098,In Stock,2028-08-07
+AST-00450,Dock,Lenovo,Enterprise,SN000000450,Raleigh,User-101,In Use,2028-08-08
+AST-00451,Laptop,Lenovo,Enterprise,SN000000451,Remote,User-104,In Stock,2028-08-09
+AST-00452,Dock,HP,Pro,SN000000452,Raleigh,User-107,In Use,2028-08-10
+AST-00453,Mobile,Dell,Pro,SN000000453,Charlotte,User-110,In Stock,2028-08-11
+AST-00454,Mobile,Zebra,Standard,SN000000454,Raleigh,User-113,In Use,2028-08-12
+AST-00455,Printer,Dell,Pro,SN000000455,Remote,User-116,In Stock,2028-08-13
+AST-00456,Laptop,Apple,Standard,SN000000456,Raleigh,User-119,In Stock,2028-08-14
+AST-00457,Dock,Apple,Standard,SN000000457,Charlotte,User-122,In Use,2028-08-15
+AST-00458,Monitor,Zebra,Enterprise,SN000000458,Charlotte,User-125,In Use,2028-08-16
+AST-00459,Laptop,Dell,Standard,SN000000459,Remote,User-128,Repair,2028-08-17
+AST-00460,Printer,Lenovo,Standard,SN000000460,Remote,User-131,In Use,2028-08-18
+AST-00461,Laptop,Lenovo,Pro,SN000000461,Charlotte,User-134,In Stock,2028-08-19
+AST-00462,Printer,Dell,Enterprise,SN000000462,Charlotte,User-137,In Stock,2028-08-20
+AST-00463,Laptop,Dell,Enterprise,SN000000463,Raleigh,User-140,In Use,2028-08-21
+AST-00464,Printer,Dell,Standard,SN000000464,Charlotte,User-143,In Stock,2028-08-22
+AST-00465,Printer,Lenovo,Enterprise,SN000000465,Raleigh,User-146,In Use,2028-08-23
+AST-00466,Mobile,Lenovo,Standard,SN000000466,Charlotte,User-149,In Stock,2028-08-24
+AST-00467,Printer,Lenovo,Pro,SN000000467,Raleigh,User-152,In Stock,2028-08-25
+AST-00468,Mobile,Lenovo,Enterprise,SN000000468,Charlotte,User-155,In Use,2028-08-26
+AST-00469,Dock,Dell,Pro,SN000000469,Charlotte,User-158,In Use,2028-08-27
+AST-00470,Laptop,Zebra,Standard,SN000000470,Raleigh,User-161,In Stock,2028-08-28
+AST-00471,Monitor,Apple,Enterprise,SN000000471,Charlotte,User-164,In Use,2028-08-29
+AST-00472,Mobile,Dell,Standard,SN000000472,Charlotte,User-167,Repair,2028-08-30
+AST-00473,Printer,Dell,Enterprise,SN000000473,Charlotte,User-170,Repair,2028-08-31
+AST-00474,Printer,Zebra,Pro,SN000000474,Raleigh,User-173,In Stock,2028-09-01
+AST-00475,Monitor,Zebra,Pro,SN000000475,Charlotte,User-176,In Stock,2028-09-02
+AST-00476,Monitor,Lenovo,Standard,SN000000476,Raleigh,User-179,In Stock,2028-09-03
+AST-00477,Laptop,HP,Pro,SN000000477,Remote,User-182,Repair,2028-09-04
+AST-00478,Dock,Dell,Pro,SN000000478,Remote,User-185,In Use,2028-09-05
+AST-00479,Dock,Apple,Enterprise,SN000000479,Charlotte,User-188,Repair,2028-09-06
+AST-00480,Mobile,HP,Enterprise,SN000000480,Charlotte,User-191,In Use,2028-09-07
+AST-00481,Mobile,Zebra,Enterprise,SN000000481,Charlotte,User-194,In Stock,2028-09-08
+AST-00482,Dock,Lenovo,Pro,SN000000482,Charlotte,User-197,In Use,2028-09-09
+AST-00483,Mobile,Apple,Enterprise,SN000000483,Charlotte,User-200,Repair,2028-09-10
+AST-00484,Monitor,HP,Pro,SN000000484,Charlotte,User-203,In Use,2028-09-11
+AST-00485,Laptop,Apple,Pro,SN000000485,Remote,User-206,Repair,2028-09-12
+AST-00486,Laptop,HP,Standard,SN000000486,Raleigh,User-209,In Use,2028-09-13
+AST-00487,Monitor,Dell,Standard,SN000000487,Remote,User-212,Repair,2028-09-14
+AST-00488,Mobile,Lenovo,Standard,SN000000488,Raleigh,User-215,In Use,2028-09-15
+AST-00489,Dock,Dell,Pro,SN000000489,Raleigh,User-218,In Use,2028-09-16
+AST-00490,Laptop,Dell,Enterprise,SN000000490,Raleigh,User-221,Repair,2028-09-17
+AST-00491,Mobile,Apple,Enterprise,SN000000491,Raleigh,User-224,In Stock,2028-09-18
+AST-00492,Mobile,HP,Enterprise,SN000000492,Charlotte,User-227,In Use,2028-09-19
+AST-00493,Monitor,Dell,Enterprise,SN000000493,Remote,User-230,In Stock,2028-09-20
+AST-00494,Mobile,Apple,Pro,SN000000494,Raleigh,User-233,In Use,2028-09-21
+AST-00495,Printer,Zebra,Pro,SN000000495,Charlotte,User-236,In Use,2028-09-22
+AST-00496,Dock,Apple,Pro,SN000000496,Charlotte,User-239,Repair,2028-09-23
+AST-00497,Dock,Lenovo,Pro,SN000000497,Raleigh,User-242,In Use,2028-09-24
+AST-00498,Monitor,Dell,Enterprise,SN000000498,Remote,User-245,In Use,2028-09-25
+AST-00499,Mobile,Zebra,Pro,SN000000499,Remote,User-248,In Stock,2028-09-26
+AST-00500,Laptop,Lenovo,Pro,SN000000500,Charlotte,User-001,In Use,2028-09-27
+AST-00501,Dock,Lenovo,Pro,SN000000501,Raleigh,User-004,In Use,2028-09-28
+AST-00502,Monitor,Lenovo,Pro,SN000000502,Remote,User-007,In Use,2028-09-29
+AST-00503,Monitor,Lenovo,Standard,SN000000503,Charlotte,User-010,In Use,2028-09-30
+AST-00504,Printer,Zebra,Standard,SN000000504,Charlotte,User-013,In Use,2028-10-01
+AST-00505,Printer,Zebra,Standard,SN000000505,Charlotte,User-016,Repair,2028-10-02
+AST-00506,Laptop,Lenovo,Standard,SN000000506,Raleigh,User-019,Repair,2028-10-03
+AST-00507,Mobile,Zebra,Standard,SN000000507,Raleigh,User-022,In Stock,2028-10-04
+AST-00508,Laptop,Dell,Pro,SN000000508,Raleigh,User-025,Repair,2028-10-05
+AST-00509,Dock,Dell,Standard,SN000000509,Raleigh,User-028,In Use,2028-10-06
+AST-00510,Dock,Dell,Enterprise,SN000000510,Charlotte,User-031,In Use,2028-10-07
+AST-00511,Dock,HP,Enterprise,SN000000511,Raleigh,User-034,In Stock,2028-10-08
+AST-00512,Mobile,Zebra,Enterprise,SN000000512,Charlotte,User-037,In Stock,2028-10-09
+AST-00513,Laptop,Apple,Standard,SN000000513,Remote,User-040,In Stock,2028-10-10
+AST-00514,Monitor,Zebra,Enterprise,SN000000514,Remote,User-043,In Use,2028-10-11
+AST-00515,Laptop,HP,Standard,SN000000515,Remote,User-046,Repair,2028-10-12
+AST-00516,Monitor,HP,Pro,SN000000516,Raleigh,User-049,In Use,2028-10-13
+AST-00517,Mobile,HP,Enterprise,SN000000517,Raleigh,User-052,In Stock,2028-10-14
+AST-00518,Monitor,HP,Enterprise,SN000000518,Charlotte,User-055,In Use,2028-10-15
+AST-00519,Laptop,Apple,Standard,SN000000519,Raleigh,User-058,In Use,2028-10-16
+AST-00520,Monitor,Dell,Pro,SN000000520,Remote,User-061,In Stock,2028-10-17
+AST-00521,Printer,Apple,Enterprise,SN000000521,Remote,User-064,In Use,2028-10-18
+AST-00522,Dock,Apple,Enterprise,SN000000522,Remote,User-067,In Use,2028-10-19
+AST-00523,Dock,HP,Pro,SN000000523,Remote,User-070,Repair,2028-10-20
+AST-00524,Mobile,Apple,Enterprise,SN000000524,Raleigh,User-073,Repair,2028-10-21
+AST-00525,Dock,Dell,Standard,SN000000525,Charlotte,User-076,In Stock,2028-10-22
+AST-00526,Mobile,Apple,Pro,SN000000526,Charlotte,User-079,Repair,2028-10-23
+AST-00527,Laptop,HP,Pro,SN000000527,Raleigh,User-082,In Use,2028-10-24
+AST-00528,Dock,Apple,Enterprise,SN000000528,Charlotte,User-085,Repair,2028-10-25
+AST-00529,Mobile,Zebra,Pro,SN000000529,Remote,User-088,In Use,2028-10-26
+AST-00530,Laptop,Lenovo,Pro,SN000000530,Remote,User-091,In Use,2028-10-27
+AST-00531,Mobile,Dell,Enterprise,SN000000531,Raleigh,User-094,In Stock,2028-10-28
+AST-00532,Dock,Apple,Pro,SN000000532,Raleigh,User-097,Repair,2028-10-29
+AST-00533,Mobile,Lenovo,Standard,SN000000533,Raleigh,User-100,Repair,2028-10-30
+AST-00534,Monitor,Lenovo,Enterprise,SN000000534,Charlotte,User-103,In Stock,2028-10-31
+AST-00535,Mobile,Apple,Standard,SN000000535,Remote,User-106,In Use,2028-11-01
+AST-00536,Printer,HP,Enterprise,SN000000536,Charlotte,User-109,In Stock,2028-11-02
+AST-00537,Monitor,Zebra,Enterprise,SN000000537,Charlotte,User-112,In Use,2028-11-03
+AST-00538,Mobile,Dell,Enterprise,SN000000538,Raleigh,User-115,In Stock,2028-11-04
+AST-00539,Printer,Dell,Enterprise,SN000000539,Charlotte,User-118,In Use,2028-11-05
+AST-00540,Dock,Zebra,Standard,SN000000540,Charlotte,User-121,Repair,2028-11-06
+AST-00541,Monitor,Lenovo,Standard,SN000000541,Raleigh,User-124,In Stock,2028-11-07
+AST-00542,Mobile,HP,Enterprise,SN000000542,Remote,User-127,In Use,2028-11-08
+AST-00543,Laptop,Dell,Standard,SN000000543,Remote,User-130,In Use,2028-11-09
+AST-00544,Printer,Apple,Pro,SN000000544,Charlotte,User-133,In Use,2028-11-10
+AST-00545,Dock,Lenovo,Standard,SN000000545,Charlotte,User-136,In Use,2028-11-11
+AST-00546,Laptop,Lenovo,Enterprise,SN000000546,Charlotte,User-139,Repair,2028-11-12
+AST-00547,Mobile,HP,Enterprise,SN000000547,Raleigh,User-142,In Use,2028-11-13
+AST-00548,Laptop,Dell,Enterprise,SN000000548,Remote,User-145,Repair,2028-11-14
+AST-00549,Laptop,Dell,Enterprise,SN000000549,Remote,User-148,In Use,2028-11-15
+AST-00550,Laptop,Zebra,Pro,SN000000550,Charlotte,User-151,In Stock,2028-11-16
+AST-00551,Dock,Apple,Enterprise,SN000000551,Remote,User-154,In Use,2028-11-17
+AST-00552,Dock,Lenovo,Pro,SN000000552,Charlotte,User-157,In Use,2028-11-18
+AST-00553,Dock,Zebra,Pro,SN000000553,Raleigh,User-160,In Stock,2028-11-19
+AST-00554,Mobile,Dell,Standard,SN000000554,Raleigh,User-163,In Stock,2028-11-20
+AST-00555,Mobile,Lenovo,Enterprise,SN000000555,Remote,User-166,In Use,2028-11-21
+AST-00556,Mobile,Dell,Pro,SN000000556,Remote,User-169,Repair,2028-11-22
+AST-00557,Dock,Zebra,Enterprise,SN000000557,Charlotte,User-172,Repair,2028-11-23
+AST-00558,Monitor,Zebra,Standard,SN000000558,Raleigh,User-175,In Use,2028-11-24
+AST-00559,Mobile,Lenovo,Pro,SN000000559,Remote,User-178,In Use,2028-11-25
+AST-00560,Dock,Lenovo,Standard,SN000000560,Remote,User-181,In Use,2028-11-26
+AST-00561,Laptop,Zebra,Standard,SN000000561,Charlotte,User-184,Repair,2028-11-27
+AST-00562,Printer,HP,Standard,SN000000562,Charlotte,User-187,Repair,2028-11-28
+AST-00563,Printer,Apple,Enterprise,SN000000563,Remote,User-190,In Use,2028-11-29
+AST-00564,Laptop,Apple,Pro,SN000000564,Raleigh,User-193,In Stock,2028-11-30
+AST-00565,Dock,HP,Standard,SN000000565,Raleigh,User-196,Repair,2028-12-01
+AST-00566,Laptop,Lenovo,Enterprise,SN000000566,Charlotte,User-199,Repair,2028-12-02
+AST-00567,Printer,Apple,Pro,SN000000567,Remote,User-202,In Use,2028-12-03
+AST-00568,Dock,Apple,Enterprise,SN000000568,Raleigh,User-205,In Use,2028-12-04
+AST-00569,Laptop,Apple,Enterprise,SN000000569,Charlotte,User-208,Repair,2028-12-05
+AST-00570,Monitor,Dell,Standard,SN000000570,Remote,User-211,In Use,2028-12-06
+AST-00571,Monitor,HP,Pro,SN000000571,Charlotte,User-214,In Use,2028-12-07
+AST-00572,Mobile,Apple,Standard,SN000000572,Remote,User-217,Repair,2028-12-08
+AST-00573,Monitor,Zebra,Pro,SN000000573,Raleigh,User-220,In Use,2028-12-09
+AST-00574,Dock,Dell,Pro,SN000000574,Raleigh,User-223,In Stock,2028-12-10
+AST-00575,Printer,Lenovo,Enterprise,SN000000575,Raleigh,User-226,In Use,2028-12-11
+AST-00576,Monitor,Lenovo,Enterprise,SN000000576,Remote,User-229,In Use,2028-12-12
+AST-00577,Printer,Lenovo,Enterprise,SN000000577,Remote,User-232,In Stock,2028-12-13
+AST-00578,Mobile,Apple,Standard,SN000000578,Raleigh,User-235,In Use,2028-12-14
+AST-00579,Monitor,Zebra,Enterprise,SN000000579,Raleigh,User-238,In Use,2028-12-15
+AST-00580,Dock,Apple,Standard,SN000000580,Charlotte,User-241,Repair,2028-12-16
+AST-00581,Laptop,Dell,Pro,SN000000581,Remote,User-244,In Use,2028-12-17
+AST-00582,Monitor,Dell,Enterprise,SN000000582,Raleigh,User-247,In Stock,2028-12-18
+AST-00583,Laptop,Dell,Enterprise,SN000000583,Raleigh,User-250,In Use,2028-12-19
+AST-00584,Laptop,Lenovo,Enterprise,SN000000584,Remote,User-003,In Use,2028-12-20
+AST-00585,Dock,Dell,Standard,SN000000585,Raleigh,User-006,In Stock,2028-12-21
+AST-00586,Mobile,Zebra,Enterprise,SN000000586,Raleigh,User-009,In Stock,2028-12-22
+AST-00587,Printer,Apple,Pro,SN000000587,Remote,User-012,In Use,2028-12-23
+AST-00588,Laptop,Zebra,Standard,SN000000588,Charlotte,User-015,In Use,2028-12-24
+AST-00589,Dock,HP,Pro,SN000000589,Remote,User-018,In Use,2028-12-25
+AST-00590,Monitor,Zebra,Enterprise,SN000000590,Remote,User-021,Repair,2028-12-26
+AST-00591,Dock,Zebra,Enterprise,SN000000591,Remote,User-024,In Stock,2028-12-27
+AST-00592,Printer,Apple,Standard,SN000000592,Charlotte,User-027,In Use,2028-12-28
+AST-00593,Monitor,HP,Standard,SN000000593,Remote,User-030,In Use,2028-12-29
+AST-00594,Monitor,HP,Pro,SN000000594,Charlotte,User-033,In Stock,2028-12-30
+AST-00595,Laptop,Dell,Standard,SN000000595,Remote,User-036,Repair,2028-12-31
+AST-00596,Mobile,Apple,Pro,SN000000596,Raleigh,User-039,In Use,2029-01-01
+AST-00597,Monitor,Zebra,Pro,SN000000597,Raleigh,User-042,Repair,2029-01-02
+AST-00598,Mobile,Lenovo,Pro,SN000000598,Remote,User-045,In Stock,2029-01-03
+AST-00599,Printer,Dell,Enterprise,SN000000599,Charlotte,User-048,In Use,2029-01-04
+AST-00600,Dock,HP,Pro,SN000000600,Remote,User-051,Repair,2029-01-05
+AST-00601,Mobile,Lenovo,Enterprise,SN000000601,Charlotte,User-054,Repair,2029-01-06
+AST-00602,Dock,HP,Standard,SN000000602,Raleigh,User-057,Repair,2029-01-07
+AST-00603,Dock,Apple,Standard,SN000000603,Remote,User-060,In Use,2029-01-08
+AST-00604,Mobile,Lenovo,Standard,SN000000604,Remote,User-063,In Use,2029-01-09
+AST-00605,Monitor,Apple,Pro,SN000000605,Remote,User-066,In Use,2029-01-10
+AST-00606,Laptop,Zebra,Pro,SN000000606,Raleigh,User-069,In Use,2029-01-11
+AST-00607,Dock,Lenovo,Enterprise,SN000000607,Charlotte,User-072,In Stock,2029-01-12
+AST-00608,Laptop,Lenovo,Enterprise,SN000000608,Raleigh,User-075,Repair,2029-01-13
+AST-00609,Laptop,Lenovo,Pro,SN000000609,Remote,User-078,In Use,2029-01-14
+AST-00610,Printer,Dell,Enterprise,SN000000610,Raleigh,User-081,Repair,2029-01-15
+AST-00611,Mobile,HP,Pro,SN000000611,Remote,User-084,In Use,2029-01-16
+AST-00612,Laptop,Lenovo,Standard,SN000000612,Remote,User-087,In Use,2029-01-17
+AST-00613,Monitor,HP,Standard,SN000000613,Raleigh,User-090,In Use,2029-01-18
+AST-00614,Laptop,Apple,Enterprise,SN000000614,Remote,User-093,In Use,2029-01-19
+AST-00615,Dock,Dell,Enterprise,SN000000615,Raleigh,User-096,In Use,2029-01-20
+AST-00616,Printer,Dell,Pro,SN000000616,Remote,User-099,In Stock,2029-01-21
+AST-00617,Monitor,Zebra,Enterprise,SN000000617,Raleigh,User-102,In Use,2029-01-22
+AST-00618,Mobile,Apple,Enterprise,SN000000618,Remote,User-105,In Use,2029-01-23
+AST-00619,Laptop,HP,Enterprise,SN000000619,Charlotte,User-108,In Stock,2029-01-24
+AST-00620,Laptop,HP,Pro,SN000000620,Charlotte,User-111,In Stock,2029-01-25
+AST-00621,Printer,HP,Enterprise,SN000000621,Remote,User-114,Repair,2029-01-26
+AST-00622,Monitor,Dell,Pro,SN000000622,Raleigh,User-117,In Stock,2029-01-27
+AST-00623,Laptop,Lenovo,Pro,SN000000623,Remote,User-120,In Use,2029-01-28
+AST-00624,Printer,Apple,Standard,SN000000624,Charlotte,User-123,In Use,2029-01-29
+AST-00625,Monitor,Dell,Standard,SN000000625,Raleigh,User-126,In Use,2029-01-30
+AST-00626,Monitor,Dell,Standard,SN000000626,Remote,User-129,In Stock,2029-01-31
+AST-00627,Mobile,Dell,Enterprise,SN000000627,Charlotte,User-132,In Stock,2029-02-01
+AST-00628,Monitor,HP,Pro,SN000000628,Charlotte,User-135,Repair,2029-02-02
+AST-00629,Dock,HP,Pro,SN000000629,Charlotte,User-138,In Stock,2029-02-03
+AST-00630,Mobile,HP,Standard,SN000000630,Raleigh,User-141,In Use,2029-02-04
+AST-00631,Monitor,Lenovo,Pro,SN000000631,Remote,User-144,Repair,2029-02-05
+AST-00632,Dock,Dell,Pro,SN000000632,Raleigh,User-147,In Stock,2029-02-06
+AST-00633,Dock,Zebra,Pro,SN000000633,Remote,User-150,In Use,2029-02-07
+AST-00634,Laptop,Zebra,Pro,SN000000634,Charlotte,User-153,In Use,2029-02-08
+AST-00635,Mobile,Lenovo,Enterprise,SN000000635,Remote,User-156,In Stock,2029-02-09
+AST-00636,Monitor,Lenovo,Enterprise,SN000000636,Remote,User-159,In Stock,2029-02-10
+AST-00637,Laptop,Zebra,Standard,SN000000637,Raleigh,User-162,In Use,2029-02-11
+AST-00638,Mobile,Lenovo,Standard,SN000000638,Charlotte,User-165,In Use,2029-02-12
+AST-00639,Mobile,HP,Pro,SN000000639,Remote,User-168,In Stock,2029-02-13
+AST-00640,Dock,Zebra,Pro,SN000000640,Remote,User-171,In Use,2029-02-14
+AST-00641,Dock,Dell,Enterprise,SN000000641,Raleigh,User-174,In Use,2029-02-15
+AST-00642,Monitor,Apple,Pro,SN000000642,Raleigh,User-177,In Stock,2029-02-16
+AST-00643,Laptop,HP,Pro,SN000000643,Raleigh,User-180,In Use,2029-02-17
+AST-00644,Mobile,Zebra,Standard,SN000000644,Charlotte,User-183,Repair,2029-02-18
+AST-00645,Printer,Apple,Enterprise,SN000000645,Remote,User-186,Repair,2029-02-19
+AST-00646,Mobile,Apple,Standard,SN000000646,Raleigh,User-189,In Stock,2029-02-20
+AST-00647,Printer,Lenovo,Pro,SN000000647,Remote,User-192,Repair,2029-02-21
+AST-00648,Dock,Dell,Standard,SN000000648,Remote,User-195,In Use,2029-02-22
+AST-00649,Mobile,Apple,Pro,SN000000649,Remote,User-198,Repair,2029-02-23
+AST-00650,Printer,Dell,Standard,SN000000650,Remote,User-201,In Use,2029-02-24
+AST-00651,Dock,Zebra,Enterprise,SN000000651,Remote,User-204,In Use,2029-02-25
+AST-00652,Printer,HP,Standard,SN000000652,Remote,User-207,In Stock,2029-02-26
+AST-00653,Laptop,Dell,Pro,SN000000653,Charlotte,User-210,In Stock,2029-02-27
+AST-00654,Mobile,Apple,Standard,SN000000654,Raleigh,User-213,In Use,2029-02-28
+AST-00655,Monitor,HP,Standard,SN000000655,Raleigh,User-216,In Stock,2029-03-01
+AST-00656,Laptop,HP,Standard,SN000000656,Charlotte,User-219,Repair,2029-03-02
+AST-00657,Laptop,HP,Standard,SN000000657,Remote,User-222,In Stock,2029-03-03
+AST-00658,Laptop,Apple,Standard,SN000000658,Raleigh,User-225,In Use,2029-03-04
+AST-00659,Mobile,Zebra,Enterprise,SN000000659,Raleigh,User-228,In Use,2029-03-05
+AST-00660,Mobile,Apple,Pro,SN000000660,Remote,User-231,In Use,2029-03-06
+AST-00661,Laptop,Apple,Standard,SN000000661,Raleigh,User-234,In Use,2029-03-07
+AST-00662,Mobile,Lenovo,Pro,SN000000662,Remote,User-237,Repair,2029-03-08
+AST-00663,Printer,Apple,Enterprise,SN000000663,Charlotte,User-240,In Stock,2029-03-09
+AST-00664,Mobile,Zebra,Standard,SN000000664,Charlotte,User-243,In Use,2029-03-10
+AST-00665,Monitor,Lenovo,Pro,SN000000665,Raleigh,User-246,In Use,2029-03-11
+AST-00666,Printer,Zebra,Pro,SN000000666,Charlotte,User-249,In Use,2029-03-12
+AST-00667,Monitor,Apple,Standard,SN000000667,Charlotte,User-002,In Use,2029-03-13
+AST-00668,Dock,Apple,Standard,SN000000668,Raleigh,User-005,Repair,2029-03-14
+AST-00669,Monitor,Apple,Standard,SN000000669,Raleigh,User-008,In Stock,2029-03-15
+AST-00670,Mobile,Apple,Standard,SN000000670,Raleigh,User-011,Repair,2029-03-16
+AST-00671,Monitor,HP,Pro,SN000000671,Remote,User-014,In Use,2029-03-17
+AST-00672,Mobile,Dell,Pro,SN000000672,Remote,User-017,In Use,2029-03-18
+AST-00673,Mobile,Dell,Standard,SN000000673,Raleigh,User-020,In Use,2029-03-19
+AST-00674,Printer,Zebra,Pro,SN000000674,Remote,User-023,Repair,2029-03-20
+AST-00675,Laptop,Apple,Enterprise,SN000000675,Remote,User-026,Repair,2029-03-21
+AST-00676,Mobile,Dell,Pro,SN000000676,Raleigh,User-029,In Stock,2029-03-22
+AST-00677,Laptop,Zebra,Pro,SN000000677,Remote,User-032,In Stock,2029-03-23
+AST-00678,Mobile,Lenovo,Enterprise,SN000000678,Raleigh,User-035,In Use,2029-03-24
+AST-00679,Monitor,Apple,Enterprise,SN000000679,Raleigh,User-038,In Use,2029-03-25
+AST-00680,Monitor,Dell,Pro,SN000000680,Remote,User-041,In Stock,2029-03-26
+AST-00681,Monitor,Zebra,Enterprise,SN000000681,Remote,User-044,Repair,2029-03-27
+AST-00682,Mobile,Dell,Pro,SN000000682,Raleigh,User-047,In Use,2029-03-28
+AST-00683,Laptop,Apple,Pro,SN000000683,Raleigh,User-050,In Use,2029-03-29
+AST-00684,Printer,Lenovo,Pro,SN000000684,Raleigh,User-053,In Stock,2029-03-30
+AST-00685,Dock,Dell,Enterprise,SN000000685,Raleigh,User-056,In Use,2029-03-31
+AST-00686,Dock,Lenovo,Pro,SN000000686,Charlotte,User-059,Repair,2029-04-01
+AST-00687,Dock,Lenovo,Enterprise,SN000000687,Charlotte,User-062,In Use,2029-04-02
+AST-00688,Dock,Dell,Enterprise,SN000000688,Remote,User-065,Repair,2029-04-03
+AST-00689,Monitor,HP,Standard,SN000000689,Remote,User-068,In Use,2029-04-04
+AST-00690,Monitor,HP,Enterprise,SN000000690,Raleigh,User-071,Repair,2029-04-05
+AST-00691,Dock,Lenovo,Pro,SN000000691,Remote,User-074,In Use,2029-04-06
+AST-00692,Printer,Zebra,Pro,SN000000692,Charlotte,User-077,In Use,2029-04-07
+AST-00693,Dock,Lenovo,Standard,SN000000693,Charlotte,User-080,In Use,2029-04-08
+AST-00694,Mobile,Zebra,Enterprise,SN000000694,Charlotte,User-083,In Stock,2029-04-09
+AST-00695,Dock,Apple,Pro,SN000000695,Charlotte,User-086,In Use,2029-04-10
+AST-00696,Dock,Dell,Pro,SN000000696,Charlotte,User-089,In Use,2029-04-11
+AST-00697,Printer,Lenovo,Pro,SN000000697,Remote,User-092,In Use,2029-04-12
+AST-00698,Laptop,Lenovo,Enterprise,SN000000698,Raleigh,User-095,In Use,2029-04-13
+AST-00699,Mobile,Lenovo,Enterprise,SN000000699,Remote,User-098,In Use,2029-04-14
+AST-00700,Dock,Zebra,Enterprise,SN000000700,Charlotte,User-101,Repair,2029-04-15
