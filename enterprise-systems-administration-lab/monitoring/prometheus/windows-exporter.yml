@@ -1,0 +1,9 @@
+scrape_configs:
+  - job_name: windows-servers
+    scrape_interval: 30s
+    static_configs:
+      - targets: ["dc01.lab.local:9182", "fs01.lab.local:9182", "app01.lab.local:9182"]
+    metric_relabel_configs:
+      - source_labels: [__name__]
+        regex: "windows_(cpu|memory|logical_disk|service|system).*"
+        action: keep

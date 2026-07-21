@@ -1,0 +1,26 @@
+{
+  "title": "Enterprise Systems Administration",
+  "panels": [
+    {
+      "title": "CPU Utilization",
+      "type": "timeseries"
+    },
+    {
+      "title": "Memory Available",
+      "type": "timeseries"
+    },
+    {
+      "title": "Disk Free Percent",
+      "type": "gauge"
+    },
+    {
+      "title": "Critical Services Down",
+      "type": "stat"
+    },
+    {
+      "title": "Authentication Failures",
+      "type": "timeseries"
+    }
+  ],
+  "schemaVersion": 39
+}
