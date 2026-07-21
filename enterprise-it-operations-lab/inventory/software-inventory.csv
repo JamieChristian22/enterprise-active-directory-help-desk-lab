@@ -1,0 +1,6 @@
+product,version,systems,owner,support_status
+Windows Server,2022,3,Infrastructure,Supported
+Ubuntu Server,24.04 LTS,2,Cloud Operations,Supported
+Amazon Linux,2023,1,Cloud Operations,Supported
+Microsoft 365 Apps,Current Channel,185,Endpoint Services,Supported
+Terraform,1.8,Admin workstations,Cloud Operations,Supported

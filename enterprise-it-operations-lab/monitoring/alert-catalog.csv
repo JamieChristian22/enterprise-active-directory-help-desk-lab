@@ -1,0 +1,8 @@
+alert_id,service,condition,threshold,severity,owner,runbook
+ALT-001,Active Directory,Replication failure,15 minutes,P1,Infrastructure,runbooks/domain-controller-health.md
+ALT-002,Windows Server,Disk free space,Below 15 percent,P2,Infrastructure,runbooks/windows-service-down.md
+ALT-003,Linux Server,Disk utilization,Above 85 percent,P2,Cloud Operations,runbooks/linux-disk-space.md
+ALT-004,AWS EC2,Instance status check,Failed 2 periods,P1,Cloud Operations,runbooks/aws-ec2-unreachable.md
+ALT-005,Backup,Backup job failed,1 failure,P2,Infrastructure,runbooks/failed-backup-response.md
+ALT-006,VPN,Concurrent failure rate,Above 20 percent,P2,Network,runbooks/priority-one-incident.md
+ALT-007,Identity,Risky administrator sign-in,Any high risk,P1,Security,runbooks/priority-one-incident.md

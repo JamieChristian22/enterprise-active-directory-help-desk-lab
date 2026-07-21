@@ -1,0 +1,11 @@
+flowchart TB
+WIN[Windows Servers] --> AG[Monitoring Agents]
+LIN[Linux Servers] --> AG
+AWS[AWS Resources] --> CW[CloudWatch]
+AZ[Azure Resources] --> AM[Azure Monitor]
+AG --> LOG[Central Log Workspace]
+CW --> ALERT[Alert Router]
+AM --> ALERT
+LOG --> ALERT
+ALERT --> ITSM[Incident Queue]
+ITSM --> ONCALL[On-call Engineer]

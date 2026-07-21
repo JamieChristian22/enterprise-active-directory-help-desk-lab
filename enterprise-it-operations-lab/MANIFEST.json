@@ -1,0 +1,877 @@
+{
+  "project": "enterprise-it-operations-lab",
+  "generated": "2026-07-21",
+  "file_count": 174,
+  "files": [
+    {
+      "path": ".github/workflows/validate.yml",
+      "bytes": 339,
+      "sha256": "094aa8ac0e2ff005b2ca8eef7c2f33daa3f37ed7d1599a406581f5143d0bc40b"
+    },
+    {
+      "path": ".gitignore",
+      "bytes": 88,
+      "sha256": "1f9d99bbb7bf08b4a6b7e47a38cd4a75d1af61b1f334dbeba83199d249aa0eab"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 574,
+      "sha256": "1a60448be2f2ff86e17e7260d95beede69fd95344aad7e1ae08dfd560cdc45a0"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3687,
+      "sha256": "9e1fa6c66b22486ff222d57e2bfc6a428dfd864c6f1dafed808d1bceedcbdcd4"
+    },
+    {
+      "path": "analytics/operations_analysis.sql",
+      "bytes": 1849,
+      "sha256": "2902eed55bf03cf3c8d3cd8bd000d67a7cca3869c169a0e45398501130bbac28"
+    },
+    {
+      "path": "architecture/hybrid-architecture.md",
+      "bytes": 747,
+      "sha256": "6f9ff34b29e673ccdd579f7ae36ae33b0c4979870de79a7a7d72c62d0521f390"
+    },
+    {
+      "path": "architecture/ip-address-plan.md",
+      "bytes": 713,
+      "sha256": "4261a32967a39881e4c8a3f7a35fef26d6e01a25730532347052351c8e77d6f6"
+    },
+    {
+      "path": "backups/backup-policy.md",
+      "bytes": 440,
+      "sha256": "2536dd50745e5ccfbe95cf04dca98808e32778282cacb7f382207f250bdfa7b2"
+    },
+    {
+      "path": "backups/restore-test-2026-06.md",
+      "bytes": 462,
+      "sha256": "57d8caddc076a6b344b674b6da925d2fafc57df4f74e7ea1be30952ce87e538b"
+    },
+    {
+      "path": "change-management/CHG-2001-server-patching.md",
+      "bytes": 575,
+      "sha256": "36b185f42f60a8130c4d3e4c6b59c68004f28ec45e4616c6b02e320e49496d4b"
+    },
+    {
+      "path": "change-management/CHG-2002-aws-volume-expansion.md",
+      "bytes": 321,
+      "sha256": "4c522ab091228c6ebda3e1e65a36a8d4d9f3c180d16d7087e38d21ba778499fe"
+    },
+    {
+      "path": "change-management/CHG-2003-conditional-access.md",
+      "bytes": 331,
+      "sha256": "b7e9ad5d5c029d96d68ddfaded5f1a02d4db2f24363a54ace9f2a06a2b866eec"
+    },
+    {
+      "path": "checklists/daily-operations-checklist.md",
+      "bytes": 339,
+      "sha256": "dd860e9f79a2c1d977283a4aa139a0e712b659f5aa7ce39fa94d26ee17af52c1"
+    },
+    {
+      "path": "checklists/server-maintenance-checklist.md",
+      "bytes": 389,
+      "sha256": "52533d028283303765c9d4f69bdaa6f11908705b1b151c33297947b6e0f59c27"
+    },
+    {
+      "path": "dashboards/dashboard-guide.md",
+      "bytes": 311,
+      "sha256": "ff139ccdb449aff5c42ca809543b9d15b4b4c8e34a80351f264e07706d5d76b6"
+    },
+    {
+      "path": "dashboards/monthly-kpis.csv",
+      "bytes": 372,
+      "sha256": "b6f879f01f75c76a364ca90579ba3a86c75a82e2642b0e37bb4f90414674960e"
+    },
+    {
+      "path": "datasets/README.md",
+      "bytes": 1972,
+      "sha256": "f2d1d4564a5c8902691576388e40db35049db2eaca115e70d7c4559a24f63403"
+    },
+    {
+      "path": "datasets/backup_jobs.csv",
+      "bytes": 75563,
+      "sha256": "7b7133a71ae4d9f7ea0f8f84b840540854ead7d7086c57dc01bdf2f9fa29dc31"
+    },
+    {
+      "path": "datasets/change_records.csv",
+      "bytes": 12832,
+      "sha256": "48dea3f9d60008907a5db673d8a8449662a2cd01fd35ae793fecbb5e456969cf"
+    },
+    {
+      "path": "datasets/cloud_resource_inventory.csv",
+      "bytes": 21407,
+      "sha256": "a2c5243ff50fb23fb3b3c2fd80317f1d16322e9e9590a6e50a0d0afddfb4b04a"
+    },
+    {
+      "path": "datasets/endpoint_assets.csv",
+      "bytes": 40232,
+      "sha256": "3659cb8e68a58cee4f16c97700e6b43bbaf7f4cebd81085312d16b12e11e7bc5"
+    },
+    {
+      "path": "datasets/infrastructure_metrics.csv",
+      "bytes": 256315,
+      "sha256": "2443230362d510551649d36a88a8a881bd31c25f0efd95fba03de8ff7fb14b37"
+    },
+    {
+      "path": "datasets/major_incidents.csv",
+      "bytes": 3833,
+      "sha256": "07d48424c60120dd64d40a20158ae12e249a9b168bbbdd21433b6ce5ed292800"
+    },
+    {
+      "path": "datasets/patch_compliance.csv",
+      "bytes": 27202,
+      "sha256": "cef12c662a87ccc91ecaf3d971de295001809104b5cadd2fda9e06d323420378"
+    },
+    {
+      "path": "datasets/server_cmdb.csv",
+      "bytes": 7215,
+      "sha256": "c30a597688255b3536084a4fa52dbe991097124dabdcc16fd616b14e6ff5c271"
+    },
+    {
+      "path": "datasets/service_tickets_2026.csv",
+      "bytes": 143048,
+      "sha256": "8d6a0d809d7545b9d70445b4716d0dab1a9ea97fd6e69413f044cc7d9de429a3"
+    },
+    {
+      "path": "datasets/users.csv",
+      "bytes": 35330,
+      "sha256": "64e6d2ad1bf7229201c7088cab9411f67f49e5869104d708d34313e003a01469"
+    },
+    {
+      "path": "datasets/vulnerability_findings.csv",
+      "bytes": 57947,
+      "sha256": "0663c79d5d15e72fb842b2d8c82089f08df219215859c3cc0ba353789d7c6161"
+    },
+    {
+      "path": "diagrams/backup-recovery.mmd",
+      "bytes": 269,
+      "sha256": "69a2cc2c6319a1f5cbefcf3b2a178453d76aefe15a3749b5714885b0cd7dca8e"
+    },
+    {
+      "path": "diagrams/change-workflow.mmd",
+      "bytes": 319,
+      "sha256": "d0b1a2c8ff0ca3cf5c10fb5dfbf7926f478de5f5ca5d2033c16e6ab732a30523"
+    },
+    {
+      "path": "diagrams/hybrid-network.mmd",
+      "bytes": 645,
+      "sha256": "e8ce783025266bff301b2d2949868c8672c828948d5f256f7415702c3240c02c"
+    },
+    {
+      "path": "diagrams/identity-flow.mmd",
+      "bytes": 227,
+      "sha256": "644fa20b7da8e58bcfbb9a8e75a861dcfcd05620c816967bf6e78a9890315f32"
+    },
+    {
+      "path": "diagrams/incident-flow.mmd",
+      "bytes": 479,
+      "sha256": "985609217fe7c023097966875939323991c223cd3d0c85cbc81583591b39a34f"
+    },
+    {
+      "path": "diagrams/monitoring-stack.mmd",
+      "bytes": 319,
+      "sha256": "4a6c4cabb79431d17c5ed9952da2d7d4a9c46f9f2c6be56e8757521d080fec6a"
+    },
+    {
+      "path": "docs/executive-overview.md",
+      "bytes": 1364,
+      "sha256": "b948e2ce6c21252e1628da0385b22797e94bf206981721f5f570e3b8504dd932"
+    },
+    {
+      "path": "docs/implementation-guide.md",
+      "bytes": 1686,
+      "sha256": "1400decb4f9819ea874c4ef474ddf6cb97ac6bbdaac855f1066c09240eb7e2c2"
+    },
+    {
+      "path": "docs/operations-handbook.md",
+      "bytes": 1135,
+      "sha256": "1e2cca9f48cf1a89036cd467c46eac8bc93ff8533eac9a719f8f20cb80c2e129"
+    },
+    {
+      "path": "docs/portfolio-evidence-guide.md",
+      "bytes": 687,
+      "sha256": "1fedc3fa724e7e6dac15814e1450ca30dd3e8625c9ab1703fde0df617d7f31a0"
+    },
+    {
+      "path": "docs/skills-matrix.md",
+      "bytes": 834,
+      "sha256": "f21e4242c64806734108565ce366af15665abad6d56370183bba3a9ca8007fd0"
+    },
+    {
+      "path": "docs/troubleshooting-guide.md",
+      "bytes": 945,
+      "sha256": "7cc86ed50c4ad17613368df315ffc73a5fece988ce10114bd8362163a0913e9f"
+    },
+    {
+      "path": "incidents/INC-1007-domain-authentication-outage.md",
+      "bytes": 960,
+      "sha256": "b2d81db0c8acc03fcf81fe16713fb375c8748996d51f90bd9315edf5cd8b4f4b"
+    },
+    {
+      "path": "incidents/INC-1018-wan-packet-loss-rca.md",
+      "bytes": 401,
+      "sha256": "d4cce4cab9f1f582c2de2e7205aaf7060b0fe8e8c8946f0f93d11d7be60ae352"
+    },
+    {
+      "path": "interview/star-stories.md",
+      "bytes": 1046,
+      "sha256": "d96115732153300b62bf4b6206c749fb0c6aa2ead34010e6c71195690e5522c3"
+    },
+    {
+      "path": "interview/technical-questions.md",
+      "bytes": 999,
+      "sha256": "651143ed1bb7860967c47ec095af4bf637077715ad0dd1c3138cc31ee3880d9a"
+    },
+    {
+      "path": "inventory/server-inventory.csv",
+      "bytes": 577,
+      "sha256": "1f506336ec16b337de5ae9b1638f5805a0700d32e50e9977ea256c0d75640be1"
+    },
+    {
+      "path": "inventory/software-inventory.csv",
+      "bytes": 325,
+      "sha256": "ea55715aa23cb6b5e6f5bc00bf5832cf7b55ae5215e2231b713c83a80b03aa05"
+    },
+    {
+      "path": "knowledge-base/kb-001-reset-microsoft-365-password.md",
+      "bytes": 314,
+      "sha256": "8a763df33247902690eb7aa4f3f3db9523a5611cac3c607fd59cab4f4aae9f96"
+    },
+    {
+      "path": "knowledge-base/kb-002-vpn-connection-failure.md",
+      "bytes": 284,
+      "sha256": "ffa629f38d3ebc303af5b4f4fb72634967dfd4328334d97eccd53b22e45bcc36"
+    },
+    {
+      "path": "knowledge-base/kb-003-outlook-profile-repair.md",
+      "bytes": 224,
+      "sha256": "479eb44e36ad570a1b05aeee0edc0596b7a8214631fa9835f00c3e64e69d61e6"
+    },
+    {
+      "path": "knowledge-base/kb-004-bitlocker-recovery.md",
+      "bytes": 231,
+      "sha256": "f137f27c1f16d89ce01dd749affebf2d412dd8d4659dd3455697c0e5df7bf1e3"
+    },
+    {
+      "path": "knowledge-base/kb-005-printer-offline.md",
+      "bytes": 241,
+      "sha256": "4fa03a174ce73376d5491316321f2a2209f43daabc0f8bfbe72ec6bdf94acffc"
+    },
+    {
+      "path": "knowledge-base/kb-006-one-drive-sync.md",
+      "bytes": 206,
+      "sha256": "ec078301d54a605df8dd844f99ad9f697dd1234efd3b3ade630bd573cf78ece8"
+    },
+    {
+      "path": "knowledge-base/kb-007-teams-audio.md",
+      "bytes": 201,
+      "sha256": "013c014c7d3e5394aba651800e3e70e133711bd7e4a56748521d8ab727651788"
+    },
+    {
+      "path": "knowledge-base/kb-008-clear-dns-cache.md",
+      "bytes": 195,
+      "sha256": "af6087a2c94b9e6a6e61573b93e8e57e8cdf7fdb1fe87b2035f6202fcebc8cc4"
+    },
+    {
+      "path": "knowledge-base/kb-009-reset-entra-password.md",
+      "bytes": 1364,
+      "sha256": "6f5a767a9c9c1ab7a2227c9ff87bb7f6af91d9bbb9caf13391dff3e06c83fbc6"
+    },
+    {
+      "path": "knowledge-base/kb-010-mfa-registration-loop.md",
+      "bytes": 1376,
+      "sha256": "1797c8206e75f87b33ef62767702a1a231fd47010ae086dfabe5abd20020143c"
+    },
+    {
+      "path": "knowledge-base/kb-011-conditional-access-block.md",
+      "bytes": 1390,
+      "sha256": "b5edb70cf40ff617528632c7518214d60e96d541a5e97a714ff527725e4a26c1"
+    },
+    {
+      "path": "knowledge-base/kb-012-vpn-error-809.md",
+      "bytes": 1353,
+      "sha256": "d0d9ec58a529d75b558b106aa87d9aa64a1df77e91d70c8c4852f0eda5a41aeb"
+    },
+    {
+      "path": "knowledge-base/kb-013-dns-name-resolution.md",
+      "bytes": 1385,
+      "sha256": "ee8c0b1068bad8b9630fdff550e0e481abcd9e49ccaecc6140a2e4a20db8c588"
+    },
+    {
+      "path": "knowledge-base/kb-014-dhcp-no-address.md",
+      "bytes": 1389,
+      "sha256": "076c6521ae2acb0fbf6fe40cff12b77065d5706b75023cdb4589eea5e23ba46d"
+    },
+    {
+      "path": "knowledge-base/kb-015-wifi-certificate.md",
+      "bytes": 1411,
+      "sha256": "c8029cbd0f298be60048d90f54ec483cc535e7a554c29f7e68fc0f35977f883f"
+    },
+    {
+      "path": "knowledge-base/kb-016-outlook-search.md",
+      "bytes": 1377,
+      "sha256": "204806459ab8002599f558c0390d8e5fac1cbdc3cfeb420051db58e52318d63f"
+    },
+    {
+      "path": "knowledge-base/kb-017-shared-mailbox.md",
+      "bytes": 1379,
+      "sha256": "9df9f68e7af2aaebd6c8a59dca3dce499e0b3d39b65425a0f45288cbaff6d5ef"
+    },
+    {
+      "path": "knowledge-base/kb-018-teams-cache.md",
+      "bytes": 1385,
+      "sha256": "18ac97e26945f3d63094158e1f2b8aa813de3419aacdcafbbdb38e27246b01c0"
+    },
+    {
+      "path": "knowledge-base/kb-019-onedrive-known-folder.md",
+      "bytes": 1383,
+      "sha256": "30801693d19b41371de6cf9c17cb6a8e419fa4570c793828b205cf2e4ed81aa3"
+    },
+    {
+      "path": "knowledge-base/kb-020-office-activation.md",
+      "bytes": 1391,
+      "sha256": "54bb75aaf3af2f0a8ebcd5a2be227cdf455f2686bdda70f94ba40a6fa3c0aa8b"
+    },
+    {
+      "path": "knowledge-base/kb-021-bitlocker-recovery.md",
+      "bytes": 1384,
+      "sha256": "440c3e7ec901492a021777a164447338af91ee5889f7e0951523cdb67fd8248e"
+    },
+    {
+      "path": "knowledge-base/kb-022-intune-enrollment.md",
+      "bytes": 1374,
+      "sha256": "518c2b13ba5768135f94690af363e808c61a36104d5de785c89fcf509a22835b"
+    },
+    {
+      "path": "knowledge-base/kb-023-windows-update.md",
+      "bytes": 1390,
+      "sha256": "bc7eff9ca0e17e4e7e64fe9910f1daa0606ba770cb3dd6b252480c63f6e423b2"
+    },
+    {
+      "path": "knowledge-base/kb-024-printer-spooler.md",
+      "bytes": 1370,
+      "sha256": "6f743ec3f0832bb9d2999152118fa62307cd170e016e8ba3a0afec212593cd1d"
+    },
+    {
+      "path": "knowledge-base/kb-025-bsod-driver.md",
+      "bytes": 1382,
+      "sha256": "db0599efe074e2b452992911354753ae69bf9ae00cf87385dbde6c8187fbb4eb"
+    },
+    {
+      "path": "knowledge-base/kb-026-profile-corruption.md",
+      "bytes": 1380,
+      "sha256": "e1e8b149ff22964faa9c6d09ce113cc317cc2f6622cb5f9320a121982c6f1629"
+    },
+    {
+      "path": "knowledge-base/kb-027-linux-disk-full.md",
+      "bytes": 1383,
+      "sha256": "5a4435dd29e15b243e8f2810fe36e259e5f06cb8f60802816e35abc646275148"
+    },
+    {
+      "path": "knowledge-base/kb-028-linux-service-failure.md",
+      "bytes": 1375,
+      "sha256": "a193473e21f4ca08415aadc3cb3494c5d3a835126ce72fbd8b47687487589f6f"
+    },
+    {
+      "path": "knowledge-base/kb-029-ssh-key-denied.md",
+      "bytes": 1399,
+      "sha256": "27bad195a90fc9add404feeb8581f920c070723e281fb5b0ab12cd8cb17d2f0a"
+    },
+    {
+      "path": "knowledge-base/kb-030-sudo-access.md",
+      "bytes": 1375,
+      "sha256": "f8c3b17a9dfedf52b7e3fafd06b40c5e79710548c319a7ffea5473c32d5b4aca"
+    },
+    {
+      "path": "knowledge-base/kb-031-ec2-status-check.md",
+      "bytes": 1397,
+      "sha256": "a3fd5725e322490aee7b5737fc90d96e5ae0d5a978e108799996e0899c1e5947"
+    },
+    {
+      "path": "knowledge-base/kb-032-ebs-volume-full.md",
+      "bytes": 1369,
+      "sha256": "e643a51e975bad3685ca735adc32b98d8258e88d177f0b9a56331822d0b925e1"
+    },
+    {
+      "path": "knowledge-base/kb-033-iam-access-denied.md",
+      "bytes": 1365,
+      "sha256": "217ebf70d769fa86d37db5f71ac1d513ba15587ca7a8bbee515c36e54f6ed675"
+    },
+    {
+      "path": "knowledge-base/kb-034-cloudwatch-agent.md",
+      "bytes": 1357,
+      "sha256": "4c788e9f1f861fdfcbb2d87b00784f1c592ed6a412d8637c9ab96dfd04df3399"
+    },
+    {
+      "path": "knowledge-base/kb-035-azure-vm-boot.md",
+      "bytes": 1373,
+      "sha256": "4350f7e7225c2115087f8be08e926a95e6434e76d5a89d297574f96520522961"
+    },
+    {
+      "path": "knowledge-base/kb-036-azure-rbac.md",
+      "bytes": 1391,
+      "sha256": "e40d0821a56dd3b741cb76faac7b3bcd0f99ccd2f3b83978af09c5dc6e55a57f"
+    },
+    {
+      "path": "knowledge-base/kb-037-backup-restore.md",
+      "bytes": 1384,
+      "sha256": "cdd070d0b24ce6d088b1ae66acc2b86e57c8f5eddea806cf41d1c85e92367d6e"
+    },
+    {
+      "path": "knowledge-base/kb-038-certificate-expiry.md",
+      "bytes": 1382,
+      "sha256": "7c3ca1bc26dc165f35ba33be4c8759fd15b8d19de9f251dafff0f52de0e96ca5"
+    },
+    {
+      "path": "monitoring/alert-catalog.csv",
+      "bytes": 796,
+      "sha256": "db59c1ed503e48749dd4ba20f0759e265088ed4f64ee53cba915015d69a0568b"
+    },
+    {
+      "path": "reports/monthly-service-report.md",
+      "bytes": 518,
+      "sha256": "ed78aeaad1e379edef1f2ab5a0d540628511f8473c7ffe0036266d859e16db1b"
+    },
+    {
+      "path": "reports/weekly-operations-report.md",
+      "bytes": 630,
+      "sha256": "41d3f8e70b08c8694a664e506b9d1bec08b0fc2744947ad56c82b60e6e46d32f"
+    },
+    {
+      "path": "resume/project-bullets.md",
+      "bytes": 885,
+      "sha256": "8485b0e7349ae78593d8bb5512ed09d5715c60ee6d082b883652ddb2d5bb63af"
+    },
+    {
+      "path": "runbooks/account-compromise.md",
+      "bytes": 1786,
+      "sha256": "11a78cc9d146636118655a28606ce6ec3915dbf08c709e1845a7801fb9cf9ca9"
+    },
+    {
+      "path": "runbooks/aws-access-key-exposure.md",
+      "bytes": 1796,
+      "sha256": "a7f5d34c20e7c25259c190019f06197e93edbafb06504c8017c205592e9521d0"
+    },
+    {
+      "path": "runbooks/aws-ec2-unreachable.md",
+      "bytes": 406,
+      "sha256": "1523699821dc5474a5c392b28051b0679437124dc8cbd96dbe08b0d0f4d03956"
+    },
+    {
+      "path": "runbooks/azure-vm-unavailable.md",
+      "bytes": 1770,
+      "sha256": "39b324310fbd5a886e2860eee03b51b0331ef82178891c431115110148069f13"
+    },
+    {
+      "path": "runbooks/backup-restore-request.md",
+      "bytes": 1782,
+      "sha256": "1e81838bd2620162731bb2bd932a88428522a2fe7e0b06d1d515491bc7660ac1"
+    },
+    {
+      "path": "runbooks/certificate-expiration.md",
+      "bytes": 1792,
+      "sha256": "0d880ba4ae8090896e808c72863ba528998726be881de26e412adba91753b845"
+    },
+    {
+      "path": "runbooks/dhcp-scope-exhaustion.md",
+      "bytes": 1772,
+      "sha256": "7abea816c2cab16ea5347cf07251dbf972875ad57e426ecaeec56662476758a7"
+    },
+    {
+      "path": "runbooks/dns-outage.md",
+      "bytes": 1766,
+      "sha256": "a188e8d2ebed172576558b3fe87db481b21e7d1e5f4b583d6984aaaa769e4007"
+    },
+    {
+      "path": "runbooks/domain-controller-health.md",
+      "bytes": 671,
+      "sha256": "d1b37483c25ed0b299a9bc8316f12713bf4b089a4073546d59eaedfed98821e7"
+    },
+    {
+      "path": "runbooks/ec2-high-cpu.md",
+      "bytes": 1782,
+      "sha256": "c5b01c2708b71b7201074a01f1e6fecc89504cc3fbd96035ccad95aed95e6da1"
+    },
+    {
+      "path": "runbooks/employee-offboarding.md",
+      "bytes": 397,
+      "sha256": "9a43f7f93be57129b7cc9660fd84b0e5d86ad187fb300eead1b590b2dd8f562c"
+    },
+    {
+      "path": "runbooks/entra-connect-sync-failure.md",
+      "bytes": 1804,
+      "sha256": "ded90a81bf4ea55643ca4fe06e4777ea55e987fac415d15a3acaef83114c5592"
+    },
+    {
+      "path": "runbooks/failed-backup-response.md",
+      "bytes": 477,
+      "sha256": "8bfd8e450a9dd8a632992b3c56bd788f2927216f3bf7ae309b16aab74ec486c8"
+    },
+    {
+      "path": "runbooks/intune-compliance.md",
+      "bytes": 1794,
+      "sha256": "66678c59a9fa562cb526f93783e5554fc618f8390407380eae329dd38cbec3a6"
+    },
+    {
+      "path": "runbooks/linux-disk-space.md",
+      "bytes": 408,
+      "sha256": "477b822558f6c015c28e265723aefa6f19fb3f32a36f1a1aa60733c7f0dc76cc"
+    },
+    {
+      "path": "runbooks/linux-filesystem-readonly.md",
+      "bytes": 1794,
+      "sha256": "879eda589e800af0fda4579a699343cfd47be8993299aec754e12af8285e56dd"
+    },
+    {
+      "path": "runbooks/linux-high-load.md",
+      "bytes": 1772,
+      "sha256": "90e576f9d5b0b231cfb177946d87a3d58c7eb3ce5810a901f2ec796a3fc10555"
+    },
+    {
+      "path": "runbooks/locked-user-account.md",
+      "bytes": 406,
+      "sha256": "f45a2d17693cd8c6ef46d385e5d831d8c101a783a1824cd9841beb9777f32d2e"
+    },
+    {
+      "path": "runbooks/m365-mail-flow.md",
+      "bytes": 1798,
+      "sha256": "fb82091d08b496df5bdb4c314c1266283a7e8abbcc366e5f06df4133c8a57931"
+    },
+    {
+      "path": "runbooks/monitoring-agent-offline.md",
+      "bytes": 1778,
+      "sha256": "a6454cd84a16961396f6bf3c2a63318e40fa2b13048b7f75d5cf15ad8856f97d"
+    },
+    {
+      "path": "runbooks/new-hire-provisioning.md",
+      "bytes": 1772,
+      "sha256": "68890fa2c378c5f59e0fdd8901f2d881d95520c8404da901665bfa8200499193"
+    },
+    {
+      "path": "runbooks/printer-service-outage.md",
+      "bytes": 1780,
+      "sha256": "44e9edbab0ccad7ebdec92a39ee6256cf4203deeb0ebd3c1fd0e2db5a3888344"
+    },
+    {
+      "path": "runbooks/priority-one-incident.md",
+      "bytes": 406,
+      "sha256": "0e0988f94aac9c96c59609530658bd0ae3efc0f32d4867d77dcc80657e23396a"
+    },
+    {
+      "path": "runbooks/ransomware-suspected.md",
+      "bytes": 1794,
+      "sha256": "a9cb18cca10160ccf6fde1fe6805a72cf0a0dd649e7e23ed9f0f1191dd0dac76"
+    },
+    {
+      "path": "runbooks/storage-capacity.md",
+      "bytes": 1796,
+      "sha256": "2858dbdb74a2b355a56578c5a0b5e7a729acf1bfe82ea3c8b289cc1e2d180e15"
+    },
+    {
+      "path": "runbooks/vpn-concentrator.md",
+      "bytes": 1786,
+      "sha256": "a9cef403f896401896663a3c8eb96fa529d5df94c56081002489b4a7498edb8f"
+    },
+    {
+      "path": "runbooks/windows-patch-failure.md",
+      "bytes": 1794,
+      "sha256": "cce3259a6789891e1df0ba272982676c782a13787e37f8facdeefc10b2c1d0eb"
+    },
+    {
+      "path": "runbooks/windows-service-down.md",
+      "bytes": 400,
+      "sha256": "57a7221594902378182dbdb9b0a71c9651beac34ba56ec96cd01c59b5262924a"
+    },
+    {
+      "path": "scripts/bash/check-disk-inodes.sh",
+      "bytes": 52,
+      "sha256": "eb64496e38914108a91886d336890f37169d8c5c694333102a19f6d87903b2a5"
+    },
+    {
+      "path": "scripts/bash/check-dns.sh",
+      "bytes": 158,
+      "sha256": "01f69d18d31b4aa0872a7180762435b8af6e052b4a1215edbaef2f9a92d7e8d2"
+    },
+    {
+      "path": "scripts/bash/check-expiring-certs.sh",
+      "bytes": 209,
+      "sha256": "5b3ad0bc2b215db4619813efaaf3ab5f7997e61de66db9e381cc8d216a569e6a"
+    },
+    {
+      "path": "scripts/bash/check-failed-units.sh",
+      "bytes": 68,
+      "sha256": "389057668c24632b3c436e3417c03e94b244d1fd11a211889f7b845a22e3eba9"
+    },
+    {
+      "path": "scripts/bash/check-listening-ports.sh",
+      "bytes": 48,
+      "sha256": "7052d6123ce424031b976a290946b0ce835a91c969c40cfadaa0abfac2f013ea"
+    },
+    {
+      "path": "scripts/bash/check-memory-pressure.sh",
+      "bytes": 58,
+      "sha256": "b65434c39eb73c68524fcd0ed9b762772b0c52e1b4351c08aead9baacb91e7c7"
+    },
+    {
+      "path": "scripts/bash/check-service-and-port.sh",
+      "bytes": 378,
+      "sha256": "dbf0ee390856615b241c4224ee4e2ad0b2a10ce2429c9370d4cd293ef6b95356"
+    },
+    {
+      "path": "scripts/bash/collect-linux-evidence.sh",
+      "bytes": 226,
+      "sha256": "44299b2a1df0bf7da7f4800a5d133f10933a08d1e71f90384473b5044aeaaeb6"
+    },
+    {
+      "path": "scripts/bash/find-large-files.sh",
+      "bytes": 135,
+      "sha256": "e0b36264ea26ec5be58357f6230418614a11ba909225055cc832389cf006a2ba"
+    },
+    {
+      "path": "scripts/bash/linux-health-check.sh",
+      "bytes": 551,
+      "sha256": "1ff969f9ec25eac5590debd71b0d49980970e0e324051e1021a03cef707a3c20"
+    },
+    {
+      "path": "scripts/bash/rotate-app-log.sh",
+      "bytes": 151,
+      "sha256": "98516df0ca297fe5b610678eb2be67e9361dd5dbc2bfffc42a40d71d8ac30157"
+    },
+    {
+      "path": "scripts/bash/secure-linux-baseline.sh",
+      "bytes": 511,
+      "sha256": "4f000f2380a2ffeb3b53a963954febf1159748187131f174aa7e3825ecd6a452"
+    },
+    {
+      "path": "scripts/bash/ssh-baseline-audit.sh",
+      "bytes": 153,
+      "sha256": "fb43285a5fac56adbe9bdf14330b9585a019909156f3e8c212e934ef5affb75f"
+    },
+    {
+      "path": "scripts/powershell/Export-InstalledSoftware.ps1",
+      "bytes": 294,
+      "sha256": "35e58bee0d98964eb2bcb8895dc9b32f16162cbb37881a6a02ee64a2c4bd4d7b"
+    },
+    {
+      "path": "scripts/powershell/Find-StaleADAccounts.ps1",
+      "bytes": 590,
+      "sha256": "633db031464146e624da1eb1772780d1dc6f2afc59bd3800b57df8531a08d791"
+    },
+    {
+      "path": "scripts/powershell/Get-ADLockoutEvidence.ps1",
+      "bytes": 297,
+      "sha256": "85033ea977249e20fb7b2b8e1a7cc29b95eb1c20e4c4699bcdb519aa410694b2"
+    },
+    {
+      "path": "scripts/powershell/Get-DiskCapacityReport.ps1",
+      "bytes": 252,
+      "sha256": "1a2f4f75a8e9144069122175aff1efbba22647b2b81cc2810c36915afa6fe60b"
+    },
+    {
+      "path": "scripts/powershell/Get-DnsHealth.ps1",
+      "bytes": 256,
+      "sha256": "f8001d0492a5e88ff8717a2b843c5c7755e08c26e01fce74932dc0b634bd67eb"
+    },
+    {
+      "path": "scripts/powershell/Get-EventLogErrors.ps1",
+      "bytes": 190,
+      "sha256": "88124b5db058831968254fcffd12c8aeb9d0381665394e1abb66dda6dd068efb"
+    },
+    {
+      "path": "scripts/powershell/Get-ExpiringCertificates.ps1",
+      "bytes": 309,
+      "sha256": "2f709d9100e35fe1e177bb32e0197df73fd46cd12833f49fe47d13ab1ed43cfa"
+    },
+    {
+      "path": "scripts/powershell/Get-LocalAdministrators.ps1",
+      "bytes": 92,
+      "sha256": "81a104d5024f3eee3e460f4b5bb64fa97e2636c48b59cb592e08e872ccc10302"
+    },
+    {
+      "path": "scripts/powershell/Get-PatchCompliance.ps1",
+      "bytes": 225,
+      "sha256": "f89f38ba8b07e1f7d9c786f14988a02e04ee3939b3476d9b1c9240cd03146014"
+    },
+    {
+      "path": "scripts/powershell/Get-ServerHealth.ps1",
+      "bytes": 1491,
+      "sha256": "3846dc812ed8cba6c34b7508e20b8ce51ed23e9aa99c20c817628d3e54579c6d"
+    },
+    {
+      "path": "scripts/powershell/Get-ServiceAccountInventory.ps1",
+      "bytes": 215,
+      "sha256": "719d1ab21e29e854843f9e4d78f451c4f66ec8fa8e5e356a3e665968641e9209"
+    },
+    {
+      "path": "scripts/powershell/Get-StaleComputers.ps1",
+      "bytes": 243,
+      "sha256": "24e42862cc7c67e7261f91f62aff929e90cecdab6cfc6806130d8b517131c99e"
+    },
+    {
+      "path": "scripts/powershell/Invoke-ServiceRecovery.ps1",
+      "bytes": 205,
+      "sha256": "06869513eda6a2d713691c40099f27348e1d3d04e2b026ab9dd0d37f9ec2d871"
+    },
+    {
+      "path": "scripts/powershell/New-OnboardingChecklist.ps1",
+      "bytes": 269,
+      "sha256": "b85f04321eec4d405dd1cd07fa40fdb304c2636ddf86a8437575eddf8b898e27"
+    },
+    {
+      "path": "scripts/powershell/Test-BackupFreshness.ps1",
+      "bytes": 624,
+      "sha256": "18c33b8a367017a41a00d122716a5358a669bd38b025818af17bded6004f1393"
+    },
+    {
+      "path": "scripts/powershell/Test-TcpEndpoints.ps1",
+      "bytes": 267,
+      "sha256": "422e0854f954fbe62c64bce0047b67773a303add40306679cf28215b68f4d528"
+    },
+    {
+      "path": "scripts/python/__pycache__/ticket_metrics.cpython-313.pyc",
+      "bytes": 2476,
+      "sha256": "0677f0c2b00331ab8694aeee99bb73cb50cf948cb516bbdd3dc96b6655428dd9"
+    },
+    {
+      "path": "scripts/python/ticket_metrics.py",
+      "bytes": 948,
+      "sha256": "31d8a88e099cb03775e530717176d556a8aa4976f706167324711a5098dcaff3"
+    },
+    {
+      "path": "security/access-review.md",
+      "bytes": 338,
+      "sha256": "8523d97885493d8f179340e43682c6b2528f9e0a2dfbbcc9dbfb0a583b505021"
+    },
+    {
+      "path": "security/hardening-baseline.md",
+      "bytes": 490,
+      "sha256": "8b3e60d794cd456fc840b158b4fb63dcbf9243431974b901e65f0fb81772ad14"
+    },
+    {
+      "path": "security/risk-register.md",
+      "bytes": 706,
+      "sha256": "5273dc85004490702099b2955121a2051e7271f1e0d1cd5ca52db49687dcd3ee"
+    },
+    {
+      "path": "sops/access-review-quarterly.md",
+      "bytes": 1133,
+      "sha256": "74ea0209b8e6688cb7fb829c0ce9088de6266ddf5e6b719e19df0874cabcba07"
+    },
+    {
+      "path": "sops/asset-lifecycle.md",
+      "bytes": 1139,
+      "sha256": "2016ab49b5d1c0a05301d18af74e99833a06da23c9757be2a458bf4dd4b4a326"
+    },
+    {
+      "path": "sops/backup-restore.md",
+      "bytes": 346,
+      "sha256": "07855fd9c837b9e5b17d8c73fc34093c817a13f6c81f3c8e6d4fe3a60005e626"
+    },
+    {
+      "path": "sops/certificate-management.md",
+      "bytes": 1151,
+      "sha256": "14620f40888d9aa41767cd03ec748df6498fd6c4aa5ecb20c427d1f56e4a10f4"
+    },
+    {
+      "path": "sops/change-management.md",
+      "bytes": 263,
+      "sha256": "d54a765afe7b82e9da1450d8df381ab5462814a1bf7f50bc4b6cc42104f27fc4"
+    },
+    {
+      "path": "sops/emergency-change.md",
+      "bytes": 1135,
+      "sha256": "94be0ea95813b75d9cafdbe070430b0f58aab28e5a0009522ff401605fe83f8b"
+    },
+    {
+      "path": "sops/incident-prioritization.md",
+      "bytes": 1171,
+      "sha256": "defe27018923b4ce8e04eab19c560f68d8a80111030f7e7cfe45ea84ede399de"
+    },
+    {
+      "path": "sops/joiner-mover-leaver.md",
+      "bytes": 565,
+      "sha256": "21ed42a2038447c29e1cf5000ad5b0c5507caefe2e10617eccdbe731462cbf09"
+    },
+    {
+      "path": "sops/knowledge-management.md",
+      "bytes": 1127,
+      "sha256": "598f7bcdcf5b7057f035c2e3e4f461c136d9044ed3423050c113a1ad00557da5"
+    },
+    {
+      "path": "sops/monitoring-onboarding.md",
+      "bytes": 1129,
+      "sha256": "af3c4a1ce577e375523d26b6d91cbf96a614d19ec7b02402d45f984c2552bf0b"
+    },
+    {
+      "path": "sops/monthly-patching.md",
+      "bytes": 436,
+      "sha256": "0f80f9b9a3d14a81c8410a627012719e134e579dcfb9dd1db2fed98daebd409a"
+    },
+    {
+      "path": "sops/privileged-access.md",
+      "bytes": 412,
+      "sha256": "f793c29c627386049b1bb1860e589b2a47da5be70b69877aa082161cb1ef6abe"
+    },
+    {
+      "path": "sops/server-build.md",
+      "bytes": 1125,
+      "sha256": "6eb86fcd24db012a5e441cc4f1116817799958caa06efed5501e5aed6ebf10a0"
+    },
+    {
+      "path": "sops/service-account.md",
+      "bytes": 1139,
+      "sha256": "cd80bcd876d35b8ab0b57c767124c6ac9171319e00b32427974d3e70925e33ff"
+    },
+    {
+      "path": "sops/vulnerability-remediation.md",
+      "bytes": 1137,
+      "sha256": "1ca3353151919a1fcc87ea8d0e6ca5c91794352410765b6e096610eb2f449e78"
+    },
+    {
+      "path": "templates/change-request-template.md",
+      "bytes": 176,
+      "sha256": "7ff5663896637b582fb2438219f78bf6b3591b429a0e0ad8c98276fa1868c738"
+    },
+    {
+      "path": "templates/incident-template.md",
+      "bytes": 181,
+      "sha256": "211b4aadaa15b5b5be77c513953589c3ad49e3d46282c9102dd489fc1943f845"
+    },
+    {
+      "path": "terraform/README.md",
+      "bytes": 337,
+      "sha256": "9c4e14ea8421a63e3bd60bebcd30c3ba4c38d06271f91d729adc7b5b9b70f120"
+    },
+    {
+      "path": "terraform/main.tf",
+      "bytes": 915,
+      "sha256": "df14d8ed9e81a19725341d46703cc98c711d536df312e6dece8150ee67e079eb"
+    },
+    {
+      "path": "terraform/outputs.tf",
+      "bytes": 162,
+      "sha256": "191b2d76b12bdcf5f0641912d730354a3dc6497a33f7fc914391558c6a03f1ec"
+    },
+    {
+      "path": "terraform/variables.tf",
+      "bytes": 200,
+      "sha256": "1d6d666030a59da7762c253dbe3018d60147f9c75cf0a4f8d4cfc929b94e35c3"
+    },
+    {
+      "path": "terraform/versions.tf",
+      "bytes": 122,
+      "sha256": "99bcd990dc4c1ab08d524fbd5cf07e6b17e7403d2d83021cf4563b4dc9086a32"
+    },
+    {
+      "path": "tickets/resolved-tickets.csv",
+      "bytes": 25109,
+      "sha256": "94e15e7866cceb3a6fc2854b123eb6f2f910e77fe7fb005803da65be44fecd95"
+    },
+    {
+      "path": "tickets/ticket-analysis.md",
+      "bytes": 778,
+      "sha256": "7e6d03aeb271541b2b8ab8540d49d302c1b52d9112a6592bb70acf0fe70d9e65"
+    }
+  ]
+}

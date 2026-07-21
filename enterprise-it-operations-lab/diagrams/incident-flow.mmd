@@ -1,0 +1,15 @@
+flowchart TD
+ A[Alert or User Report] --> B{Business impact?}
+ B -->|Critical| C[Declare P1 Incident]
+ B -->|High| D[Assign P2 Engineer]
+ B -->|Standard| E[Service Desk Queue]
+ C --> F[Incident Channel and Stakeholder Update]
+ D --> G[Technical Investigation]
+ E --> G
+ F --> G
+ G --> H{Service restored?}
+ H -->|No| I[Escalate to Specialist or Vendor]
+ I --> G
+ H -->|Yes| J[Validate with Users and Monitoring]
+ J --> K[Close Incident]
+ K --> L[Root-Cause Analysis and Actions]

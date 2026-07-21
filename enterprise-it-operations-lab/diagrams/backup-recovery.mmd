@@ -1,0 +1,8 @@
+flowchart LR
+PROD[Production Workloads] --> SNAP[Daily Snapshots]
+PROD --> FILE[Incremental File Backup]
+SNAP --> VAULT[Immutable Backup Vault]
+FILE --> VAULT
+VAULT --> OFFSITE[Cross-Region Copy]
+OFFSITE --> TEST[Monthly Restore Test]
+TEST --> EVIDENCE[Audit Evidence]

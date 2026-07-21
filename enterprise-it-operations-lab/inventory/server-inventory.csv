@@ -1,0 +1,7 @@
+hostname,os,role,ip_address,criticality,owner,patch_ring
+NS-DC01,Windows Server 2022,Domain Controller/DNS,10.20.20.10,Tier 1,Infrastructure,Monthly
+NS-DC02,Windows Server 2022,Domain Controller/DNS,10.20.20.11,Tier 1,Infrastructure,Monthly
+NS-FS01,Windows Server 2022,File Server,10.20.20.20,Tier 1,Infrastructure,Monthly
+NS-MON01,Ubuntu 24.04 LTS,Monitoring,10.20.20.30,Tier 2,Cloud Operations,Monthly
+NS-WEB01,Ubuntu 24.04 LTS,Internal Web,10.60.10.20,Tier 2,Cloud Operations,Monthly
+NS-APP01,Amazon Linux 2023,Application,10.60.10.30,Tier 1,Cloud Operations,Monthly

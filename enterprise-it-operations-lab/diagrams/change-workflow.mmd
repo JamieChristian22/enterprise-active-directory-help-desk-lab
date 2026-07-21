@@ -1,0 +1,9 @@
+flowchart LR
+REQ[Request] --> ASSESS[Risk and Impact]
+ASSESS --> APPROVE{Approved?}
+APPROVE -- No --> REWORK[Rework or Reject]
+APPROVE -- Yes --> IMPLEMENT[Implement]
+IMPLEMENT --> VALIDATE[Validate]
+VALIDATE --> SUCCESS{Successful?}
+SUCCESS -- No --> ROLLBACK[Rollback]
+SUCCESS -- Yes --> CLOSE[Close and Update CMDB]

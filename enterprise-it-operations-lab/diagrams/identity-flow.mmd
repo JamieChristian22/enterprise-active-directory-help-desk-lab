@@ -1,0 +1,8 @@
+flowchart LR
+U[User] --> CA[Conditional Access]
+CA --> MFA[MFA]
+MFA --> ENTRA[Microsoft Entra ID]
+ENTRA --> M365[Microsoft 365]
+ENTRA --> AWS[AWS IAM Identity Center]
+AD[Active Directory] --> SYNC[Entra Connect]
+SYNC --> ENTRA
