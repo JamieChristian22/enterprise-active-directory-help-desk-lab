@@ -1,0 +1,15 @@
+flowchart LR
+  U[Users and Endpoints] --> AD[AD DS / DNS / DHCP]
+  AD --> EC[Entra Connect]
+  EC --> ENTRA[Microsoft Entra ID / M365]
+  AD --> FS[File and Print Services]
+  AD --> HV[Hyper-V Cluster]
+  HV --> WS[Windows Workloads]
+  HV --> LS[Linux Workloads]
+  PKI[Offline Root + Issuing CA] --> AD
+  WSUS[Patch Management] --> WS
+  MON[WEF / Sysmon / Prometheus / Grafana] --> WS
+  MON --> LS
+  BAK[Immutable Backup Repository] --> HV
+  ADM[Privileged Admin Workstation] --> AD
+  ADM --> HV

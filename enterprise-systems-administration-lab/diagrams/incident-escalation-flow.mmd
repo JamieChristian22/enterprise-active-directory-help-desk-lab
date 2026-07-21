@@ -1,0 +1,9 @@
+flowchart TD
+  A[Alert or Ticket] --> B{Impact and Urgency}
+  B -->|Low| C[Standard Queue]
+  B -->|High| D[Major Incident]
+  C --> E[Diagnose]
+  D --> F[Incident Commander]
+  E --> G[Resolve and Validate]
+  F --> G
+  G --> H[Document / RCA / KB]

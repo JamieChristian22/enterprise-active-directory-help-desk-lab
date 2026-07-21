@@ -1,0 +1,20 @@
+---
+- name: Apply Windows server baseline
+  hosts: windows
+  gather_facts: true
+  tasks:
+    - name: Ensure Windows Event Collector is automatic
+      ansible.windows.win_service:
+        name: Wecsvc
+        start_mode: auto
+        state: started
+    - name: Ensure insecure SMBv1 feature is absent
+      ansible.windows.win_optional_feature:
+        name: SMB1Protocol
+        state: absent
+      register: smb1
+    - name: Install approved monitoring agent
+      ansible.windows.win_package:
+        path: C:\Packages\monitoring-agent.msi
+        state: present
+      when: not ansible_check_mode

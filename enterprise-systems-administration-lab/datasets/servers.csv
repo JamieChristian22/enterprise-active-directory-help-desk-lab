@@ -1,0 +1,81 @@
+server,os,role,environment,cpu,memory_gb,disk_gb,patch_status,backup_status,owner
+SRV-001,Windows Server 2022,Monitoring,Test,2,16,1024,Pending,Success,Infrastructure
+SRV-002,Windows Server 2022,Database,Test,8,64,128,Compliant,Warning,Infrastructure
+SRV-003,RHEL 9,Application,Development,16,8,128,Compliant,Warning,Infrastructure
+SRV-004,Ubuntu 22.04,File,Development,2,64,128,Pending,Warning,Infrastructure
+SRV-005,Windows Server 2022,Database,Production,8,8,128,Compliant,Success,Infrastructure
+SRV-006,Ubuntu 22.04,Application,Test,16,16,256,Pending,Success,Infrastructure
+SRV-007,Windows Server 2019,File,Production,2,64,256,Compliant,Warning,Infrastructure
+SRV-008,Windows Server 2019,File,Test,8,64,512,Pending,Success,Infrastructure
+SRV-009,RHEL 9,Application,Development,4,8,1024,Compliant,Warning,Infrastructure
+SRV-010,Ubuntu 22.04,Backup,Test,8,64,512,Compliant,Success,Infrastructure
+SRV-011,RHEL 9,AD/DNS,Production,16,32,512,Pending,Success,Infrastructure
+SRV-012,Windows Server 2022,Utility,Development,16,32,128,Pending,Warning,Infrastructure
+SRV-013,Windows Server 2022,Monitoring,Development,16,32,256,Pending,Success,Infrastructure
+SRV-014,Windows Server 2019,Backup,Production,8,16,128,Pending,Warning,Infrastructure
+SRV-015,Windows Server 2022,Application,Test,2,32,256,Compliant,Success,Infrastructure
+SRV-016,Ubuntu 22.04,Backup,Test,4,16,256,Pending,Success,Infrastructure
+SRV-017,Ubuntu 22.04,Utility,Production,8,64,512,Pending,Success,Infrastructure
+SRV-018,Windows Server 2022,Database,Production,4,16,1024,Pending,Success,Infrastructure
+SRV-019,Windows Server 2022,Utility,Test,2,32,128,Compliant,Success,Infrastructure
+SRV-020,Ubuntu 22.04,Monitoring,Test,8,8,256,Compliant,Success,Infrastructure
+SRV-021,Ubuntu 22.04,Monitoring,Production,2,64,512,Pending,Success,Infrastructure
+SRV-022,Windows Server 2022,File,Production,2,32,1024,Compliant,Success,Infrastructure
+SRV-023,Windows Server 2019,Monitoring,Production,16,64,512,Pending,Warning,Infrastructure
+SRV-024,RHEL 9,Monitoring,Development,4,64,128,Compliant,Warning,Infrastructure
+SRV-025,RHEL 9,Application,Production,8,16,1024,Compliant,Success,Infrastructure
+SRV-026,Ubuntu 22.04,AD/DNS,Development,8,32,128,Compliant,Success,Infrastructure
+SRV-027,Windows Server 2019,AD/DNS,Test,2,16,128,Compliant,Success,Infrastructure
+SRV-028,Windows Server 2019,File,Development,4,8,256,Pending,Success,Infrastructure
+SRV-029,Windows Server 2019,Application,Production,2,32,256,Compliant,Warning,Infrastructure
+SRV-030,Ubuntu 22.04,Utility,Production,2,8,256,Compliant,Success,Infrastructure
+SRV-031,Windows Server 2019,Monitoring,Test,2,16,512,Compliant,Success,Infrastructure
+SRV-032,RHEL 9,Monitoring,Production,2,64,1024,Compliant,Warning,Infrastructure
+SRV-033,Windows Server 2022,Database,Development,4,8,512,Compliant,Warning,Infrastructure
+SRV-034,Windows Server 2022,AD/DNS,Test,16,64,128,Compliant,Warning,Infrastructure
+SRV-035,RHEL 9,AD/DNS,Production,8,16,128,Compliant,Success,Infrastructure
+SRV-036,Ubuntu 22.04,Database,Development,8,64,1024,Compliant,Warning,Infrastructure
+SRV-037,Windows Server 2022,Utility,Development,4,64,1024,Compliant,Success,Infrastructure
+SRV-038,Ubuntu 22.04,Utility,Test,16,64,128,Compliant,Success,Infrastructure
+SRV-039,Ubuntu 22.04,Backup,Test,8,16,1024,Compliant,Success,Infrastructure
+SRV-040,Windows Server 2022,AD/DNS,Test,2,32,256,Pending,Success,Infrastructure
+SRV-041,Ubuntu 22.04,Backup,Production,16,32,1024,Pending,Success,Infrastructure
+SRV-042,Ubuntu 22.04,Monitoring,Test,8,8,256,Compliant,Warning,Infrastructure
+SRV-043,RHEL 9,File,Production,8,32,128,Compliant,Warning,Infrastructure
+SRV-044,Windows Server 2019,Utility,Test,2,32,128,Compliant,Success,Infrastructure
+SRV-045,Ubuntu 22.04,Application,Test,2,16,256,Pending,Warning,Infrastructure
+SRV-046,RHEL 9,AD/DNS,Production,2,8,256,Compliant,Success,Infrastructure
+SRV-047,RHEL 9,Application,Production,8,32,512,Pending,Warning,Infrastructure
+SRV-048,Windows Server 2022,AD/DNS,Production,4,8,128,Compliant,Success,Infrastructure
+SRV-049,RHEL 9,Database,Development,16,64,512,Compliant,Warning,Infrastructure
+SRV-050,Windows Server 2022,Application,Test,2,32,1024,Pending,Warning,Infrastructure
+SRV-051,Ubuntu 22.04,AD/DNS,Production,16,8,128,Compliant,Success,Infrastructure
+SRV-052,Windows Server 2019,Utility,Production,8,32,512,Compliant,Success,Infrastructure
+SRV-053,RHEL 9,Backup,Test,4,16,1024,Pending,Warning,Infrastructure
+SRV-054,Windows Server 2019,Monitoring,Development,8,8,1024,Pending,Success,Infrastructure
+SRV-055,RHEL 9,AD/DNS,Test,2,32,1024,Pending,Success,Infrastructure
+SRV-056,RHEL 9,Application,Production,16,8,512,Compliant,Warning,Infrastructure
+SRV-057,RHEL 9,Utility,Development,8,8,1024,Compliant,Success,Infrastructure
+SRV-058,RHEL 9,Monitoring,Test,2,64,512,Pending,Success,Infrastructure
+SRV-059,Windows Server 2019,Application,Production,2,8,256,Compliant,Success,Infrastructure
+SRV-060,Windows Server 2019,File,Production,4,32,256,Compliant,Warning,Infrastructure
+SRV-061,Windows Server 2019,Utility,Development,2,16,1024,Compliant,Warning,Infrastructure
+SRV-062,RHEL 9,Backup,Development,8,32,256,Compliant,Success,Infrastructure
+SRV-063,RHEL 9,Database,Development,8,32,128,Compliant,Warning,Infrastructure
+SRV-064,Windows Server 2022,Application,Test,16,8,128,Compliant,Success,Infrastructure
+SRV-065,Windows Server 2022,Backup,Production,16,64,128,Compliant,Warning,Infrastructure
+SRV-066,Windows Server 2019,Application,Development,16,16,128,Compliant,Success,Infrastructure
+SRV-067,Ubuntu 22.04,Backup,Production,4,8,256,Pending,Success,Infrastructure
+SRV-068,RHEL 9,Monitoring,Development,4,32,512,Compliant,Success,Infrastructure
+SRV-069,RHEL 9,Utility,Test,2,32,128,Compliant,Success,Infrastructure
+SRV-070,RHEL 9,Application,Test,4,32,128,Pending,Warning,Infrastructure
+SRV-071,Windows Server 2019,Application,Test,16,16,128,Compliant,Warning,Infrastructure
+SRV-072,RHEL 9,Backup,Test,4,8,1024,Pending,Success,Infrastructure
+SRV-073,Windows Server 2022,Application,Test,4,16,512,Compliant,Success,Infrastructure
+SRV-074,Windows Server 2019,File,Production,2,32,128,Pending,Warning,Infrastructure
+SRV-075,Windows Server 2022,Backup,Test,4,64,256,Compliant,Success,Infrastructure
+SRV-076,Windows Server 2019,Backup,Test,2,64,512,Pending,Warning,Infrastructure
+SRV-077,Windows Server 2019,Database,Development,8,64,256,Pending,Success,Infrastructure
+SRV-078,Ubuntu 22.04,Utility,Test,4,32,1024,Compliant,Success,Infrastructure
+SRV-079,RHEL 9,Monitoring,Development,16,16,256,Pending,Success,Infrastructure
+SRV-080,Ubuntu 22.04,AD/DNS,Development,16,32,128,Pending,Warning,Infrastructure

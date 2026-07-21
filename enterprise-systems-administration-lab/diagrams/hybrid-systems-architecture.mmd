@@ -1,0 +1,14 @@
+flowchart LR
+  U[Users] --> E[Entra ID / Microsoft 365]
+  U --> AD[Active Directory]
+  AD --> DC1[DC01]
+  AD --> DC2[DC02]
+  AD --> FS[File Server]
+  AD --> WSUS[WSUS]
+  AD --> HV[Virtualization Hosts]
+  HV --> WIN[Windows VMs]
+  HV --> LNX[Linux VMs]
+  WIN --> MON[Monitoring]
+  LNX --> MON
+  WIN --> BAK[Backup Repository]
+  LNX --> BAK

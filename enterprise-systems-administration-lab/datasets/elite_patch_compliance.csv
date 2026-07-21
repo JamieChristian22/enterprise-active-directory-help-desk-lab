@@ -1,0 +1,181 @@
+server,ring,os,critical_patches,installed,compliance_percent,last_scan,status
+srv-001,Ring 2,Windows Server 2019,14,14,100.0,2026-07-08,Compliant
+srv-002,Ring 0,Ubuntu 22.04,6,5,83.3,2026-07-14,Remediation
+srv-003,Ring 1,Windows Server 2019,4,4,100.0,2026-07-17,Compliant
+srv-004,Ring 1,Ubuntu 22.04,13,13,100.0,2026-07-21,Compliant
+srv-005,Ring 1,Windows Server 2022,15,15,100.0,2026-07-19,Compliant
+srv-006,Ring 0,Windows Server 2019,8,7,87.5,2026-07-14,Remediation
+srv-007,Ring 1,Windows Server 2022,9,9,100.0,2026-07-04,Compliant
+srv-008,Ring 2,Windows Server 2022,5,5,100.0,2026-07-20,Compliant
+srv-009,Ring 3,Ubuntu 22.04,8,7,87.5,2026-07-04,Remediation
+srv-010,Ring 2,Ubuntu 22.04,18,18,100.0,2026-07-20,Compliant
+srv-011,Ring 1,Ubuntu 22.04,18,17,94.4,2026-07-03,Remediation
+srv-012,Ring 2,Windows Server 2019,4,4,100.0,2026-07-08,Compliant
+srv-013,Ring 2,Windows Server 2022,17,17,100.0,2026-07-21,Compliant
+srv-014,Ring 2,Windows Server 2022,17,17,100.0,2026-07-07,Compliant
+srv-015,Ring 0,Ubuntu 22.04,14,14,100.0,2026-07-21,Compliant
+srv-016,Ring 1,Windows Server 2019,6,6,100.0,2026-07-15,Compliant
+srv-017,Ring 1,Ubuntu 22.04,10,10,100.0,2026-07-11,Compliant
+srv-018,Ring 0,Windows Server 2019,17,16,94.1,2026-07-02,Remediation
+srv-019,Ring 2,Windows Server 2019,16,16,100.0,2026-07-07,Compliant
+srv-020,Ring 2,Windows Server 2019,18,16,88.9,2026-07-21,Remediation
+srv-021,Ring 3,Windows Server 2019,11,11,100.0,2026-07-09,Compliant
+srv-022,Ring 2,Ubuntu 22.04,6,6,100.0,2026-07-19,Compliant
+srv-023,Ring 3,Windows Server 2022,10,9,90.0,2026-07-08,Remediation
+srv-024,Ring 0,Windows Server 2019,6,6,100.0,2026-07-04,Compliant
+srv-025,Ring 3,Ubuntu 22.04,6,6,100.0,2026-07-03,Compliant
+srv-026,Ring 3,Ubuntu 22.04,10,10,100.0,2026-07-09,Compliant
+srv-027,Ring 0,Ubuntu 22.04,12,11,91.7,2026-07-04,Remediation
+srv-028,Ring 2,Ubuntu 22.04,14,13,92.9,2026-07-11,Remediation
+srv-029,Ring 1,Windows Server 2022,5,5,100.0,2026-07-01,Compliant
+srv-030,Ring 2,Ubuntu 22.04,15,14,93.3,2026-07-06,Remediation
+srv-031,Ring 2,Ubuntu 22.04,12,10,83.3,2026-07-17,Remediation
+srv-032,Ring 2,Windows Server 2019,13,13,100.0,2026-07-18,Compliant
+srv-033,Ring 0,Ubuntu 22.04,16,14,87.5,2026-07-11,Remediation
+srv-034,Ring 2,Windows Server 2022,11,11,100.0,2026-07-08,Compliant
+srv-035,Ring 0,Windows Server 2019,4,4,100.0,2026-07-16,Compliant
+srv-036,Ring 1,Windows Server 2019,17,17,100.0,2026-07-16,Compliant
+srv-037,Ring 3,Windows Server 2019,12,12,100.0,2026-07-18,Compliant
+srv-038,Ring 1,Ubuntu 22.04,16,15,93.8,2026-07-10,Remediation
+srv-039,Ring 2,Windows Server 2022,10,7,70.0,2026-07-17,Remediation
+srv-040,Ring 1,Windows Server 2019,11,11,100.0,2026-07-11,Compliant
+srv-041,Ring 1,Ubuntu 22.04,4,4,100.0,2026-07-08,Compliant
+srv-042,Ring 0,Windows Server 2019,4,4,100.0,2026-07-03,Compliant
+srv-043,Ring 2,Windows Server 2019,18,18,100.0,2026-07-17,Compliant
+srv-044,Ring 3,Windows Server 2019,7,7,100.0,2026-07-18,Compliant
+srv-045,Ring 3,Windows Server 2019,6,5,83.3,2026-07-16,Remediation
+srv-046,Ring 0,Windows Server 2019,16,16,100.0,2026-07-14,Compliant
+srv-047,Ring 3,Ubuntu 22.04,9,9,100.0,2026-07-02,Compliant
+srv-048,Ring 0,Windows Server 2019,14,14,100.0,2026-07-13,Compliant
+srv-049,Ring 0,Windows Server 2019,15,15,100.0,2026-07-07,Compliant
+srv-050,Ring 1,Windows Server 2022,7,7,100.0,2026-07-06,Compliant
+srv-051,Ring 0,Windows Server 2022,8,8,100.0,2026-07-18,Compliant
+srv-052,Ring 0,Windows Server 2019,5,5,100.0,2026-07-08,Compliant
+srv-053,Ring 3,Windows Server 2019,6,6,100.0,2026-07-13,Compliant
+srv-054,Ring 3,Windows Server 2019,18,18,100.0,2026-07-13,Compliant
+srv-055,Ring 3,Windows Server 2022,8,6,75.0,2026-07-14,Remediation
+srv-056,Ring 3,Windows Server 2019,15,13,86.7,2026-07-07,Remediation
+srv-057,Ring 0,Ubuntu 22.04,8,8,100.0,2026-07-18,Compliant
+srv-058,Ring 0,Windows Server 2019,4,3,75.0,2026-07-19,Remediation
+srv-059,Ring 1,Windows Server 2019,11,11,100.0,2026-07-17,Compliant
+srv-060,Ring 0,Ubuntu 22.04,5,4,80.0,2026-07-03,Remediation
+srv-061,Ring 3,Windows Server 2019,14,13,92.9,2026-07-19,Remediation
+srv-062,Ring 0,Ubuntu 22.04,7,7,100.0,2026-07-03,Compliant
+srv-063,Ring 2,Windows Server 2022,10,10,100.0,2026-07-07,Compliant
+srv-064,Ring 1,Windows Server 2022,14,13,92.9,2026-07-13,Remediation
+srv-065,Ring 2,Windows Server 2022,6,6,100.0,2026-07-11,Compliant
+srv-066,Ring 0,Windows Server 2019,18,17,94.4,2026-07-15,Remediation
+srv-067,Ring 0,Windows Server 2019,13,10,76.9,2026-07-18,Remediation
+srv-068,Ring 1,Windows Server 2022,7,7,100.0,2026-07-03,Compliant
+srv-069,Ring 2,Windows Server 2019,18,18,100.0,2026-07-15,Compliant
+srv-070,Ring 2,Ubuntu 22.04,17,17,100.0,2026-07-21,Compliant
+srv-071,Ring 2,Ubuntu 22.04,12,12,100.0,2026-07-04,Compliant
+srv-072,Ring 0,Windows Server 2019,18,18,100.0,2026-07-18,Compliant
+srv-073,Ring 1,Ubuntu 22.04,6,6,100.0,2026-07-11,Compliant
+srv-074,Ring 2,Ubuntu 22.04,7,7,100.0,2026-07-16,Compliant
+srv-075,Ring 0,Windows Server 2019,8,6,75.0,2026-07-21,Remediation
+srv-076,Ring 0,Windows Server 2019,10,9,90.0,2026-07-11,Remediation
+srv-077,Ring 2,Windows Server 2019,16,16,100.0,2026-07-15,Compliant
+srv-078,Ring 0,Windows Server 2019,12,11,91.7,2026-07-03,Remediation
+srv-079,Ring 1,Ubuntu 22.04,18,18,100.0,2026-07-02,Compliant
+srv-080,Ring 1,Windows Server 2022,17,17,100.0,2026-07-05,Compliant
+srv-081,Ring 0,Windows Server 2022,4,4,100.0,2026-07-07,Compliant
+srv-082,Ring 0,Windows Server 2022,14,14,100.0,2026-07-18,Compliant
+srv-083,Ring 1,Windows Server 2019,18,17,94.4,2026-07-06,Remediation
+srv-084,Ring 3,Windows Server 2019,16,15,93.8,2026-07-06,Remediation
+srv-085,Ring 3,Ubuntu 22.04,15,13,86.7,2026-07-08,Remediation
+srv-086,Ring 0,Windows Server 2022,8,8,100.0,2026-07-02,Compliant
+srv-087,Ring 1,Windows Server 2022,17,17,100.0,2026-07-12,Compliant
+srv-088,Ring 1,Windows Server 2019,8,7,87.5,2026-07-01,Remediation
+srv-089,Ring 2,Windows Server 2022,14,14,100.0,2026-07-03,Compliant
+srv-090,Ring 3,Ubuntu 22.04,16,16,100.0,2026-07-18,Compliant
+srv-091,Ring 0,Windows Server 2022,9,7,77.8,2026-07-06,Remediation
+srv-092,Ring 2,Windows Server 2019,13,11,84.6,2026-07-04,Remediation
+srv-093,Ring 2,Windows Server 2022,13,13,100.0,2026-07-20,Compliant
+srv-094,Ring 1,Windows Server 2022,12,12,100.0,2026-07-02,Compliant
+srv-095,Ring 1,Windows Server 2022,15,15,100.0,2026-07-14,Compliant
+srv-096,Ring 2,Ubuntu 22.04,5,3,60.0,2026-07-11,Remediation
+srv-097,Ring 2,Ubuntu 22.04,14,13,92.9,2026-07-10,Remediation
+srv-098,Ring 3,Ubuntu 22.04,14,14,100.0,2026-07-10,Compliant
+srv-099,Ring 3,Ubuntu 22.04,12,12,100.0,2026-07-13,Compliant
+srv-100,Ring 1,Ubuntu 22.04,14,13,92.9,2026-07-19,Remediation
+srv-101,Ring 0,Windows Server 2022,8,8,100.0,2026-07-10,Compliant
+srv-102,Ring 2,Windows Server 2022,7,7,100.0,2026-07-15,Compliant
+srv-103,Ring 3,Ubuntu 22.04,11,11,100.0,2026-07-06,Compliant
+srv-104,Ring 2,Windows Server 2019,14,14,100.0,2026-07-08,Compliant
+srv-105,Ring 1,Windows Server 2019,14,14,100.0,2026-07-01,Compliant
+srv-106,Ring 3,Ubuntu 22.04,4,4,100.0,2026-07-03,Compliant
+srv-107,Ring 1,Ubuntu 22.04,11,11,100.0,2026-07-13,Compliant
+srv-108,Ring 1,Ubuntu 22.04,11,11,100.0,2026-07-01,Compliant
+srv-109,Ring 0,Windows Server 2022,18,17,94.4,2026-07-08,Remediation
+srv-110,Ring 3,Windows Server 2019,6,5,83.3,2026-07-18,Remediation
+srv-111,Ring 0,Windows Server 2022,7,5,71.4,2026-07-05,Remediation
+srv-112,Ring 2,Windows Server 2022,16,16,100.0,2026-07-20,Compliant
+srv-113,Ring 3,Ubuntu 22.04,17,16,94.1,2026-07-15,Remediation
+srv-114,Ring 3,Windows Server 2022,18,18,100.0,2026-07-09,Compliant
+srv-115,Ring 2,Ubuntu 22.04,16,16,100.0,2026-07-16,Compliant
+srv-116,Ring 3,Windows Server 2019,14,14,100.0,2026-07-10,Compliant
+srv-117,Ring 2,Ubuntu 22.04,7,7,100.0,2026-07-03,Compliant
+srv-118,Ring 3,Ubuntu 22.04,6,6,100.0,2026-07-05,Compliant
+srv-119,Ring 3,Windows Server 2022,15,15,100.0,2026-07-11,Compliant
+srv-120,Ring 0,Windows Server 2019,12,12,100.0,2026-07-14,Compliant
+srv-121,Ring 0,Ubuntu 22.04,10,8,80.0,2026-07-13,Remediation
+srv-122,Ring 2,Windows Server 2022,11,11,100.0,2026-07-13,Compliant
+srv-123,Ring 3,Ubuntu 22.04,17,16,94.1,2026-07-18,Remediation
+srv-124,Ring 1,Windows Server 2022,16,16,100.0,2026-07-08,Compliant
+srv-125,Ring 0,Windows Server 2022,8,8,100.0,2026-07-11,Compliant
+srv-126,Ring 3,Ubuntu 22.04,14,14,100.0,2026-07-06,Compliant
+srv-127,Ring 1,Ubuntu 22.04,17,17,100.0,2026-07-18,Compliant
+srv-128,Ring 0,Windows Server 2019,4,2,50.0,2026-07-21,Remediation
+srv-129,Ring 3,Windows Server 2019,10,10,100.0,2026-07-02,Compliant
+srv-130,Ring 1,Windows Server 2022,8,8,100.0,2026-07-11,Compliant
+srv-131,Ring 3,Windows Server 2022,9,8,88.9,2026-07-14,Remediation
+srv-132,Ring 3,Windows Server 2019,8,7,87.5,2026-07-18,Remediation
+srv-133,Ring 2,Windows Server 2019,4,1,25.0,2026-07-21,Remediation
+srv-134,Ring 0,Windows Server 2019,5,4,80.0,2026-07-08,Remediation
+srv-135,Ring 1,Windows Server 2019,7,6,85.7,2026-07-05,Remediation
+srv-136,Ring 1,Windows Server 2022,11,11,100.0,2026-07-09,Compliant
+srv-137,Ring 0,Windows Server 2019,16,16,100.0,2026-07-10,Compliant
+srv-138,Ring 2,Ubuntu 22.04,5,5,100.0,2026-07-13,Compliant
+srv-139,Ring 1,Windows Server 2019,10,8,80.0,2026-07-19,Remediation
+srv-140,Ring 1,Windows Server 2019,15,14,93.3,2026-07-10,Remediation
+srv-141,Ring 0,Ubuntu 22.04,17,17,100.0,2026-07-02,Compliant
+srv-142,Ring 2,Windows Server 2019,9,9,100.0,2026-07-17,Compliant
+srv-143,Ring 3,Windows Server 2022,14,14,100.0,2026-07-04,Compliant
+srv-144,Ring 3,Ubuntu 22.04,10,8,80.0,2026-07-05,Remediation
+srv-145,Ring 2,Ubuntu 22.04,10,10,100.0,2026-07-18,Compliant
+srv-146,Ring 3,Ubuntu 22.04,16,16,100.0,2026-07-19,Compliant
+srv-147,Ring 1,Windows Server 2019,8,8,100.0,2026-07-09,Compliant
+srv-148,Ring 3,Ubuntu 22.04,18,18,100.0,2026-07-20,Compliant
+srv-149,Ring 0,Windows Server 2022,14,14,100.0,2026-07-11,Compliant
+srv-150,Ring 2,Windows Server 2022,6,6,100.0,2026-07-11,Compliant
+srv-151,Ring 2,Ubuntu 22.04,8,7,87.5,2026-07-01,Remediation
+srv-152,Ring 0,Windows Server 2019,12,10,83.3,2026-07-14,Remediation
+srv-153,Ring 1,Ubuntu 22.04,11,11,100.0,2026-07-16,Compliant
+srv-154,Ring 3,Windows Server 2019,14,13,92.9,2026-07-03,Remediation
+srv-155,Ring 1,Windows Server 2022,8,8,100.0,2026-07-19,Compliant
+srv-156,Ring 2,Windows Server 2022,9,9,100.0,2026-07-18,Compliant
+srv-157,Ring 3,Windows Server 2022,9,9,100.0,2026-07-10,Compliant
+srv-158,Ring 1,Windows Server 2022,8,8,100.0,2026-07-04,Compliant
+srv-159,Ring 1,Windows Server 2019,15,15,100.0,2026-07-07,Compliant
+srv-160,Ring 2,Windows Server 2019,15,15,100.0,2026-07-07,Compliant
+srv-161,Ring 1,Windows Server 2022,8,8,100.0,2026-07-01,Compliant
+srv-162,Ring 2,Windows Server 2019,15,15,100.0,2026-07-02,Compliant
+srv-163,Ring 1,Ubuntu 22.04,12,12,100.0,2026-07-16,Compliant
+srv-164,Ring 2,Windows Server 2022,5,4,80.0,2026-07-16,Remediation
+srv-165,Ring 0,Windows Server 2022,11,11,100.0,2026-07-16,Compliant
+srv-166,Ring 3,Windows Server 2022,5,4,80.0,2026-07-03,Remediation
+srv-167,Ring 0,Windows Server 2019,13,13,100.0,2026-07-05,Compliant
+srv-168,Ring 2,Windows Server 2019,16,16,100.0,2026-07-08,Compliant
+srv-169,Ring 3,Ubuntu 22.04,5,5,100.0,2026-07-20,Compliant
+srv-170,Ring 3,Windows Server 2022,16,16,100.0,2026-07-15,Compliant
+srv-171,Ring 3,Windows Server 2022,8,7,87.5,2026-07-19,Remediation
+srv-172,Ring 0,Windows Server 2019,13,13,100.0,2026-07-21,Compliant
+srv-173,Ring 0,Windows Server 2019,7,7,100.0,2026-07-08,Compliant
+srv-174,Ring 1,Windows Server 2019,6,6,100.0,2026-07-14,Compliant
+srv-175,Ring 3,Windows Server 2022,11,11,100.0,2026-07-02,Compliant
+srv-176,Ring 2,Ubuntu 22.04,7,7,100.0,2026-07-15,Compliant
+srv-177,Ring 2,Ubuntu 22.04,5,5,100.0,2026-07-19,Compliant
+srv-178,Ring 1,Windows Server 2022,14,13,92.9,2026-07-04,Remediation
+srv-179,Ring 1,Windows Server 2022,12,12,100.0,2026-07-05,Compliant
+srv-180,Ring 2,Ubuntu 22.04,5,5,100.0,2026-07-19,Compliant

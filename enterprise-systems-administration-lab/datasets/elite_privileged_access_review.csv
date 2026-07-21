@@ -1,0 +1,121 @@
+account,tier,role,owner,mfa,last_used_days,justification,decision
+adm001,1,Backup Operator,Owner 001,Enabled,73,Approved operational responsibility,Retain
+adm002,1,PKI Manager,Owner 002,Enabled,179,Approved operational responsibility,Remove
+adm003,1,Domain Admin,Owner 003,Enabled,138,Approved operational responsibility,Remove
+adm004,1,Backup Operator,Owner 004,Enabled,153,Approved operational responsibility,Remove
+adm005,0,Domain Admin,Owner 005,Enabled,154,Approved operational responsibility,Remove
+adm006,2,Domain Admin,Owner 006,Disabled,58,Approved operational responsibility,Remove
+adm007,2,Domain Admin,Owner 007,Enabled,172,Approved operational responsibility,Remove
+adm008,2,Virtualization Admin,Owner 008,Enabled,44,Approved operational responsibility,Expire 30 Days
+adm009,1,Virtualization Admin,Owner 009,Enabled,71,Approved operational responsibility,Expire 30 Days
+adm010,1,Backup Operator,Owner 010,Enabled,23,Approved operational responsibility,Retain
+adm011,1,Virtualization Admin,Owner 011,Enabled,82,Approved operational responsibility,Retain
+adm012,1,Virtualization Admin,Owner 012,Enabled,177,Approved operational responsibility,Remove
+adm013,1,Domain Admin,Owner 013,Enabled,140,Approved operational responsibility,Remove
+adm014,0,Virtualization Admin,Owner 014,Enabled,80,Approved operational responsibility,Retain
+adm015,2,PKI Manager,Owner 015,Enabled,131,Approved operational responsibility,Remove
+adm016,0,PKI Manager,Owner 016,Enabled,118,Approved operational responsibility,Retain
+adm017,1,Virtualization Admin,Owner 017,Disabled,92,Approved operational responsibility,Remove
+adm018,2,Server Admin,Owner 018,Enabled,13,Approved operational responsibility,Retain
+adm019,1,Domain Admin,Owner 019,Enabled,73,Approved operational responsibility,Expire 30 Days
+adm020,0,Server Admin,Owner 020,Disabled,7,Approved operational responsibility,Remove
+adm021,2,Virtualization Admin,Owner 021,Enabled,79,Approved operational responsibility,Retain
+adm022,1,Domain Admin,Owner 022,Enabled,23,Approved operational responsibility,Retain
+adm023,1,Backup Operator,Owner 023,Enabled,165,Approved operational responsibility,Remove
+adm024,1,Virtualization Admin,Owner 024,Enabled,130,Approved operational responsibility,Remove
+adm025,2,Server Admin,Owner 025,Enabled,120,Approved operational responsibility,Retain
+adm026,2,Server Admin,Owner 026,Enabled,98,Approved operational responsibility,Expire 30 Days
+adm027,1,PKI Manager,Owner 027,Enabled,17,Approved operational responsibility,Retain
+adm028,2,Backup Operator,Owner 028,Enabled,68,Approved operational responsibility,Retain
+adm029,2,Virtualization Admin,Owner 029,Disabled,150,Approved operational responsibility,Remove
+adm030,1,Backup Operator,Owner 030,Enabled,38,Approved operational responsibility,Expire 30 Days
+adm031,1,Virtualization Admin,Owner 031,Enabled,85,Approved operational responsibility,Expire 30 Days
+adm032,0,PKI Manager,Owner 032,Enabled,82,Approved operational responsibility,Expire 30 Days
+adm033,0,Backup Operator,Owner 033,Enabled,98,Approved operational responsibility,Retain
+adm034,1,Server Admin,Owner 034,Enabled,121,Approved operational responsibility,Remove
+adm035,0,PKI Manager,Owner 035,Enabled,126,Approved operational responsibility,Remove
+adm036,0,Virtualization Admin,Owner 036,Enabled,151,Approved operational responsibility,Remove
+adm037,0,Server Admin,Owner 037,Enabled,25,Approved operational responsibility,Retain
+adm038,1,Backup Operator,Owner 038,Enabled,104,Approved operational responsibility,Retain
+adm039,2,Virtualization Admin,Owner 039,Disabled,86,Approved operational responsibility,Remove
+adm040,1,PKI Manager,Owner 040,Enabled,166,Approved operational responsibility,Remove
+adm041,2,Virtualization Admin,Owner 041,Enabled,97,Approved operational responsibility,Expire 30 Days
+adm042,2,Domain Admin,Owner 042,Enabled,138,Approved operational responsibility,Remove
+adm043,2,Domain Admin,Owner 043,Enabled,60,Approved operational responsibility,Retain
+adm044,2,Domain Admin,Owner 044,Enabled,111,Approved operational responsibility,Expire 30 Days
+adm045,1,Domain Admin,Owner 045,Enabled,113,Approved operational responsibility,Expire 30 Days
+adm046,1,Backup Operator,Owner 046,Enabled,11,Approved operational responsibility,Retain
+adm047,0,PKI Manager,Owner 047,Enabled,95,Approved operational responsibility,Retain
+adm048,2,Server Admin,Owner 048,Disabled,105,Approved operational responsibility,Remove
+adm049,2,Virtualization Admin,Owner 049,Enabled,43,Approved operational responsibility,Retain
+adm050,1,PKI Manager,Owner 050,Enabled,158,Approved operational responsibility,Remove
+adm051,2,Backup Operator,Owner 051,Enabled,36,Approved operational responsibility,Retain
+adm052,0,Virtualization Admin,Owner 052,Enabled,117,Approved operational responsibility,Expire 30 Days
+adm053,0,Virtualization Admin,Owner 053,Enabled,73,Approved operational responsibility,Retain
+adm054,1,Virtualization Admin,Owner 054,Disabled,88,Approved operational responsibility,Remove
+adm055,1,Backup Operator,Owner 055,Enabled,176,Approved operational responsibility,Remove
+adm056,0,Server Admin,Owner 056,Enabled,50,Approved operational responsibility,Retain
+adm057,1,PKI Manager,Owner 057,Disabled,97,Approved operational responsibility,Remove
+adm058,2,Virtualization Admin,Owner 058,Enabled,75,Approved operational responsibility,Retain
+adm059,2,Domain Admin,Owner 059,Enabled,70,Approved operational responsibility,Expire 30 Days
+adm060,1,Server Admin,Owner 060,Enabled,155,Approved operational responsibility,Remove
+adm061,0,Server Admin,Owner 061,Enabled,155,Approved operational responsibility,Remove
+adm062,2,Server Admin,Owner 062,Enabled,158,Approved operational responsibility,Remove
+adm063,2,Domain Admin,Owner 063,Enabled,160,Approved operational responsibility,Remove
+adm064,2,Backup Operator,Owner 064,Enabled,79,Approved operational responsibility,Retain
+adm065,1,Virtualization Admin,Owner 065,Enabled,33,Approved operational responsibility,Retain
+adm066,2,Backup Operator,Owner 066,Enabled,44,Approved operational responsibility,Retain
+adm067,1,Server Admin,Owner 067,Enabled,135,Approved operational responsibility,Remove
+adm068,2,Backup Operator,Owner 068,Enabled,65,Approved operational responsibility,Retain
+adm069,0,Server Admin,Owner 069,Enabled,29,Approved operational responsibility,Retain
+adm070,2,Backup Operator,Owner 070,Enabled,173,Approved operational responsibility,Remove
+adm071,1,PKI Manager,Owner 071,Enabled,23,Approved operational responsibility,Retain
+adm072,2,Backup Operator,Owner 072,Enabled,31,Approved operational responsibility,Retain
+adm073,2,Backup Operator,Owner 073,Enabled,149,Approved operational responsibility,Remove
+adm074,0,PKI Manager,Owner 074,Enabled,27,Approved operational responsibility,Retain
+adm075,2,Server Admin,Owner 075,Enabled,143,Approved operational responsibility,Remove
+adm076,2,Virtualization Admin,Owner 076,Enabled,165,Approved operational responsibility,Remove
+adm077,2,Virtualization Admin,Owner 077,Enabled,179,Approved operational responsibility,Remove
+adm078,0,Backup Operator,Owner 078,Enabled,29,Approved operational responsibility,Retain
+adm079,0,Server Admin,Owner 079,Enabled,126,Approved operational responsibility,Remove
+adm080,1,Virtualization Admin,Owner 080,Enabled,137,Approved operational responsibility,Remove
+adm081,2,Server Admin,Owner 081,Enabled,94,Approved operational responsibility,Retain
+adm082,2,Virtualization Admin,Owner 082,Enabled,106,Approved operational responsibility,Retain
+adm083,1,Server Admin,Owner 083,Enabled,71,Approved operational responsibility,Expire 30 Days
+adm084,1,Domain Admin,Owner 084,Enabled,113,Approved operational responsibility,Retain
+adm085,2,Backup Operator,Owner 085,Enabled,175,Approved operational responsibility,Remove
+adm086,0,Domain Admin,Owner 086,Enabled,15,Approved operational responsibility,Retain
+adm087,0,PKI Manager,Owner 087,Enabled,116,Approved operational responsibility,Expire 30 Days
+adm088,0,Server Admin,Owner 088,Enabled,5,Approved operational responsibility,Retain
+adm089,0,PKI Manager,Owner 089,Enabled,144,Approved operational responsibility,Remove
+adm090,0,Server Admin,Owner 090,Disabled,53,Approved operational responsibility,Remove
+adm091,0,Backup Operator,Owner 091,Enabled,84,Approved operational responsibility,Expire 30 Days
+adm092,1,Server Admin,Owner 092,Enabled,37,Approved operational responsibility,Expire 30 Days
+adm093,0,Backup Operator,Owner 093,Enabled,28,Approved operational responsibility,Retain
+adm094,1,Domain Admin,Owner 094,Disabled,60,Approved operational responsibility,Remove
+adm095,0,Virtualization Admin,Owner 095,Enabled,44,Approved operational responsibility,Retain
+adm096,2,Domain Admin,Owner 096,Enabled,134,Approved operational responsibility,Remove
+adm097,1,PKI Manager,Owner 097,Enabled,121,Approved operational responsibility,Remove
+adm098,1,PKI Manager,Owner 098,Enabled,151,Approved operational responsibility,Remove
+adm099,0,PKI Manager,Owner 099,Disabled,56,Approved operational responsibility,Remove
+adm100,0,Domain Admin,Owner 100,Enabled,77,Approved operational responsibility,Expire 30 Days
+adm101,1,Domain Admin,Owner 101,Enabled,122,Approved operational responsibility,Remove
+adm102,0,Domain Admin,Owner 102,Enabled,125,Approved operational responsibility,Remove
+adm103,0,Domain Admin,Owner 103,Disabled,82,Approved operational responsibility,Remove
+adm104,2,PKI Manager,Owner 104,Enabled,32,Approved operational responsibility,Expire 30 Days
+adm105,1,PKI Manager,Owner 105,Enabled,140,Approved operational responsibility,Remove
+adm106,1,PKI Manager,Owner 106,Enabled,135,Approved operational responsibility,Remove
+adm107,0,Domain Admin,Owner 107,Enabled,154,Approved operational responsibility,Remove
+adm108,2,Server Admin,Owner 108,Enabled,167,Approved operational responsibility,Remove
+adm109,1,Backup Operator,Owner 109,Enabled,110,Approved operational responsibility,Retain
+adm110,2,Domain Admin,Owner 110,Enabled,116,Approved operational responsibility,Retain
+adm111,2,Backup Operator,Owner 111,Enabled,80,Approved operational responsibility,Retain
+adm112,1,Domain Admin,Owner 112,Enabled,95,Approved operational responsibility,Expire 30 Days
+adm113,1,Domain Admin,Owner 113,Enabled,23,Approved operational responsibility,Retain
+adm114,0,PKI Manager,Owner 114,Enabled,95,Approved operational responsibility,Expire 30 Days
+adm115,1,Domain Admin,Owner 115,Enabled,143,Approved operational responsibility,Remove
+adm116,1,Domain Admin,Owner 116,Enabled,105,Approved operational responsibility,Expire 30 Days
+adm117,1,Backup Operator,Owner 117,Disabled,73,Approved operational responsibility,Remove
+adm118,2,Server Admin,Owner 118,Disabled,26,Approved operational responsibility,Remove
+adm119,0,Backup Operator,Owner 119,Enabled,39,Approved operational responsibility,Retain
+adm120,0,Backup Operator,Owner 120,Enabled,142,Approved operational responsibility,Remove
