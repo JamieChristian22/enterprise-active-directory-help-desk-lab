@@ -1,0 +1,1 @@
+Get-BitLockerVolume | Select MountPoint,VolumeStatus,ProtectionStatus,EncryptionPercentage

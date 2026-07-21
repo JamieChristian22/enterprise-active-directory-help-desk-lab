@@ -1,0 +1,1 @@
+$d="SupportBundle-$env:COMPUTERNAME-$(Get-Date -Format yyyyMMddHHmm)"; New-Item $d -ItemType Directory | Out-Null; ipconfig /all > "$d\ipconfig.txt"; Get-ComputerInfo > "$d\computerinfo.txt"; Compress-Archive $d "$d.zip"

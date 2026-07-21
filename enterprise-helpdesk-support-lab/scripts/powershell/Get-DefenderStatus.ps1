@@ -1,0 +1,1 @@
+Get-MpComputerStatus | Select AMServiceEnabled,AntivirusEnabled,RealTimeProtectionEnabled,QuickScanAge,FullScanAge
