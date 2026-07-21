@@ -1,0 +1,31 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: operations-api
+  namespace: cloud-ops
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: operations-api
+  template:
+    metadata:
+      labels:
+        app: operations-api
+    spec:
+      securityContext:
+        runAsNonRoot: true
+      containers:
+      - name: api
+        image: nginx:1.27-alpine
+        ports:
+        - containerPort: 80
+        resources:
+          requests: {cpu: 100m, memory: 128Mi}
+          limits: {cpu: 500m, memory: 256Mi}
+        readinessProbe:
+          httpGet: {path: /, port: 80}
+          initialDelaySeconds: 5
+        livenessProbe:
+          httpGet: {path: /, port: 80}
+          initialDelaySeconds: 15

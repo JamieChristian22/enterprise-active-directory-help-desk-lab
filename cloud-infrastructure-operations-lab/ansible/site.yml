@@ -1,0 +1,6 @@
+---
+- name: Baseline Linux cloud hosts
+  hosts: linux
+  become: true
+  roles:
+    - linux_baseline
