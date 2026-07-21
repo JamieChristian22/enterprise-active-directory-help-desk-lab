@@ -1,0 +1,1 @@
+Get-CimInstance Win32_LogicalDisk -Filter "DriveType=3" | Select-Object SystemName,DeviceID,@{n='SizeGB';e={[math]::Round($_.Size/1GB,2)}},@{n='FreeGB';e={[math]::Round($_.FreeSpace/1GB,2)}},@{n='FreePct';e={[math]::Round(100*$_.FreeSpace/$_.Size,1)}}
