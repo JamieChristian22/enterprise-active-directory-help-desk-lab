@@ -1,0 +1,121 @@
+ticket_id,created_at,resolved_at,priority,category,title,requester,technician,sla_result,resolution_minutes,root_cause,status
+INC-10001,2026-01-05T13:00,2026-01-05T13:51,P2,Identity & Access,Account lockout after password change,User-008,Tech-01,Met,51,Identity configuration,Resolved
+INC-10002,2026-01-05T18:00,2026-01-05T21:22,P3,Microsoft 365,Shared mailbox missing,User-015,Tech-02,Met,202,Client or tenant configuration,Resolved
+INC-10003,2026-01-05T23:00,2026-01-06T02:38,P2,Windows Endpoint,BitLocker recovery prompt,User-022,Tech-03,Met,218,OS or driver state,Resolved
+INC-10004,2026-01-06T04:00,2026-01-06T07:16,P2,Networking & VPN,Wi-Fi disconnects,User-029,Tech-04,Met,196,Connectivity or name resolution,Resolved
+INC-10005,2026-01-06T09:00,2026-01-06T10:08,P2,Hardware,SSD health warning,User-036,Tech-05,Met,68,Component failure,Resolved
+INC-10006,2026-01-06T14:00,2026-01-07T12:09,P4,Printing,Badge release unavailable,User-043,Tech-06,Met,1329,Driver or spooler,Resolved
+INC-10007,2026-01-06T19:00,2026-01-07T07:58,P3,Business Application,ERP client login failure,User-050,Tech-07,Met,778,Application configuration,Resolved
+INC-10008,2026-01-07T00:00,2026-01-07T08:39,P3,Security,Defender malware alert,User-057,Tech-08,Met,519,Security control or user action,Resolved
+INC-10009,2026-01-07T05:00,2026-01-07T18:57,P3,Mobile & Intune,Outlook mobile setup failed,User-064,Tech-01,Met,837,Enrollment or compliance policy,Resolved
+INC-10010,2026-01-07T10:00,2026-01-07T15:44,P3,File Services,NTFS permission mismatch,User-071,Tech-02,Met,344,Permission or storage state,Resolved
+INC-10011,2026-01-07T15:00,2026-01-07T17:44,P3,Identity & Access,SSO loop in browser,User-078,Tech-03,Met,164,Identity configuration,Resolved
+INC-10012,2026-01-07T20:00,2026-01-08T03:07,P3,Microsoft 365,Office activation error,User-085,Tech-04,Met,427,Client or tenant configuration,Resolved
+INC-10013,2026-01-08T01:00,2026-01-08T05:28,P4,Windows Endpoint,Blue screen after driver update,User-092,Tech-05,Met,268,OS or driver state,Resolved
+INC-10014,2026-01-08T06:00,2026-01-08T09:07,P3,Networking & VPN,DNS resolution intermittent,User-099,Tech-06,Met,187,Connectivity or name resolution,Resolved
+INC-10015,2026-01-08T11:00,2026-01-08T14:06,P2,Hardware,Webcam not detected,User-106,Tech-07,Met,186,Component failure,Resolved
+INC-10016,2026-01-08T16:00,2026-01-09T01:33,P4,Printing,Driver installation failed,User-113,Tech-08,Met,573,Driver or spooler,Resolved
+INC-10017,2026-01-08T21:00,2026-01-08T21:56,P2,Business Application,HR portal access denied,User-120,Tech-01,Met,56,Application configuration,Resolved
+INC-10018,2026-01-09T02:00,2026-01-09T06:58,P3,Security,Browser certificate warning,User-127,Tech-02,Met,298,Security control or user action,Resolved
+INC-10019,2026-01-09T07:00,2026-01-09T15:44,P3,Mobile & Intune,Device enrollment failed,User-134,Tech-03,Met,524,Enrollment or compliance policy,Resolved
+INC-10020,2026-01-09T12:00,2026-01-09T19:19,P3,File Services,Deleted file restoration,User-141,Tech-04,Met,439,Permission or storage state,Resolved
+INC-10021,2026-01-09T17:00,2026-01-09T22:33,P3,Identity & Access,Expired password during remote login,User-148,Tech-05,Met,333,Identity configuration,Resolved
+INC-10022,2026-01-09T22:00,2026-01-10T01:20,P2,Microsoft 365,OneDrive sync conflict,User-155,Tech-06,Met,200,Client or tenant configuration,Resolved
+INC-10023,2026-01-10T03:00,2026-01-10T21:46,P4,Windows Endpoint,Mapped drive missing,User-162,Tech-07,Met,1126,OS or driver state,Resolved
+INC-10024,2026-01-10T08:00,2026-01-10T19:55,P3,Networking & VPN,Proxy configuration blocks site,User-169,Tech-08,Met,715,Connectivity or name resolution,Resolved
+INC-10025,2026-01-10T13:00,2026-01-11T03:04,P4,Hardware,Laptop battery not charging,User-176,Tech-01,Met,844,Component failure,Resolved
+INC-10026,2026-01-10T18:00,2026-01-10T19:43,P2,Printing,Secure print queue missing,User-183,Tech-02,Met,103,Driver or spooler,Resolved
+INC-10027,2026-01-10T23:00,2026-01-11T01:07,P3,Business Application,POS application timeout,User-190,Tech-03,Met,127,Application configuration,Resolved
+INC-10028,2026-01-11T04:00,2026-01-12T05:22,P4,Security,USB storage blocked,User-197,Tech-04,Met,1522,Security control or user action,Resolved
+INC-10029,2026-01-11T09:00,2026-01-11T20:58,P3,Mobile & Intune,Remote wipe verification,User-204,Tech-05,Met,718,Enrollment or compliance policy,Resolved
+INC-10030,2026-01-11T14:00,2026-01-11T17:22,P3,File Services,Offline files conflict,User-211,Tech-06,Met,202,Permission or storage state,Resolved
+INC-10031,2026-01-11T19:00,2026-01-12T23:29,P4,Identity & Access,Account lockout after password change,User-218,Tech-07,Met,1709,Identity configuration,Resolved
+INC-10032,2026-01-12T00:00,2026-01-12T16:37,P4,Microsoft 365,Shared mailbox missing,User-225,Tech-08,Met,997,Client or tenant configuration,Resolved
+INC-10033,2026-01-12T05:00,2026-01-12T08:21,P3,Windows Endpoint,BitLocker recovery prompt,User-232,Tech-01,Met,201,OS or driver state,Resolved
+INC-10034,2026-01-12T10:00,2026-01-12T23:53,P3,Networking & VPN,Wi-Fi disconnects,User-239,Tech-02,Met,833,Connectivity or name resolution,Resolved
+INC-10035,2026-01-12T15:00,2026-01-12T16:24,P2,Hardware,SSD health warning,User-246,Tech-03,Met,84,Component failure,Resolved
+INC-10036,2026-01-12T20:00,2026-01-12T22:05,P3,Printing,Badge release unavailable,User-003,Tech-04,Met,125,Driver or spooler,Resolved
+INC-10037,2026-01-13T01:00,2026-01-13T09:59,P3,Business Application,ERP client login failure,User-010,Tech-05,Met,539,Application configuration,Resolved
+INC-10038,2026-01-13T06:00,2026-01-13T07:11,P3,Security,Defender malware alert,User-017,Tech-06,Met,71,Security control or user action,Resolved
+INC-10039,2026-01-13T11:00,2026-01-13T14:39,P2,Mobile & Intune,Outlook mobile setup failed,User-024,Tech-07,Met,219,Enrollment or compliance policy,Resolved
+INC-10040,2026-01-13T16:00,2026-01-13T22:48,P3,File Services,NTFS permission mismatch,User-031,Tech-08,Met,408,Permission or storage state,Resolved
+INC-10041,2026-01-13T21:00,2026-01-14T00:41,P3,Identity & Access,SSO loop in browser,User-038,Tech-01,Met,221,Identity configuration,Resolved
+INC-10042,2026-01-14T02:00,2026-01-14T03:52,P2,Microsoft 365,Office activation error,User-045,Tech-02,Met,112,Client or tenant configuration,Resolved
+INC-10043,2026-01-14T07:00,2026-01-14T09:48,P3,Windows Endpoint,Blue screen after driver update,User-052,Tech-03,Met,168,OS or driver state,Resolved
+INC-10044,2026-01-14T12:00,2026-01-14T21:39,P3,Networking & VPN,DNS resolution intermittent,User-059,Tech-04,Met,579,Connectivity or name resolution,Resolved
+INC-10045,2026-01-14T17:00,2026-01-15T00:22,P3,Hardware,Webcam not detected,User-066,Tech-05,Met,442,Component failure,Resolved
+INC-10046,2026-01-14T22:00,2026-01-15T12:17,P3,Printing,Driver installation failed,User-073,Tech-06,Met,857,Driver or spooler,Resolved
+INC-10047,2026-01-15T03:00,2026-01-15T06:18,P2,Business Application,HR portal access denied,User-080,Tech-07,Met,198,Application configuration,Resolved
+INC-10048,2026-01-15T08:00,2026-01-15T09:13,P2,Security,Browser certificate warning,User-087,Tech-08,Met,73,Security control or user action,Resolved
+INC-10049,2026-01-15T13:00,2026-01-15T18:06,P3,Mobile & Intune,Device enrollment failed,User-094,Tech-01,Met,306,Enrollment or compliance policy,Resolved
+INC-10050,2026-01-15T18:00,2026-01-15T19:06,P2,File Services,Deleted file restoration,User-101,Tech-02,Met,66,Permission or storage state,Resolved
+INC-10051,2026-01-15T23:00,2026-01-16T02:01,P2,Identity & Access,Expired password during remote login,User-108,Tech-03,Met,181,Identity configuration,Resolved
+INC-10052,2026-01-16T04:00,2026-01-16T13:06,P3,Microsoft 365,OneDrive sync conflict,User-115,Tech-04,Met,546,Client or tenant configuration,Resolved
+INC-10053,2026-01-16T09:00,2026-01-16T19:00,P3,Windows Endpoint,Mapped drive missing,User-122,Tech-05,Met,600,OS or driver state,Resolved
+INC-10054,2026-01-16T14:00,2026-01-17T00:12,P3,Networking & VPN,Proxy configuration blocks site,User-129,Tech-06,Met,612,Connectivity or name resolution,Resolved
+INC-10055,2026-01-16T19:00,2026-01-17T02:48,P3,Hardware,Laptop battery not charging,User-136,Tech-07,Met,468,Component failure,Resolved
+INC-10056,2026-01-17T00:00,2026-01-17T09:49,P3,Printing,Secure print queue missing,User-143,Tech-08,Met,589,Driver or spooler,Resolved
+INC-10057,2026-01-17T05:00,2026-01-17T06:48,P2,Business Application,POS application timeout,User-150,Tech-01,Met,108,Application configuration,Resolved
+INC-10058,2026-01-17T10:00,2026-01-17T21:02,P3,Security,USB storage blocked,User-157,Tech-02,Met,662,Security control or user action,Resolved
+INC-10059,2026-01-17T15:00,2026-01-17T19:45,P3,Mobile & Intune,Remote wipe verification,User-164,Tech-03,Met,285,Enrollment or compliance policy,Resolved
+INC-10060,2026-01-17T20:00,2026-01-17T23:26,P2,File Services,Offline files conflict,User-171,Tech-04,Met,206,Permission or storage state,Resolved
+INC-10061,2026-01-18T01:00,2026-01-18T01:53,P2,Identity & Access,Account lockout after password change,User-178,Tech-05,Met,53,Identity configuration,Resolved
+INC-10062,2026-01-18T06:00,2026-01-19T07:50,P4,Microsoft 365,Shared mailbox missing,User-185,Tech-06,Met,1550,Client or tenant configuration,Resolved
+INC-10063,2026-01-18T11:00,2026-01-18T21:12,P3,Windows Endpoint,BitLocker recovery prompt,User-192,Tech-07,Met,612,OS or driver state,Resolved
+INC-10064,2026-01-18T16:00,2026-01-19T03:17,P4,Networking & VPN,Wi-Fi disconnects,User-199,Tech-08,Met,677,Connectivity or name resolution,Resolved
+INC-10065,2026-01-18T21:00,2026-01-19T01:14,P3,Hardware,SSD health warning,User-206,Tech-01,Met,254,Component failure,Resolved
+INC-10066,2026-01-19T02:00,2026-01-19T05:33,P2,Printing,Badge release unavailable,User-213,Tech-02,Met,213,Driver or spooler,Resolved
+INC-10067,2026-01-19T07:00,2026-01-19T15:58,P3,Business Application,ERP client login failure,User-220,Tech-03,Met,538,Application configuration,Resolved
+INC-10068,2026-01-19T12:00,2026-01-19T15:37,P2,Security,Defender malware alert,User-227,Tech-04,Met,217,Security control or user action,Resolved
+INC-10069,2026-01-19T17:00,2026-01-19T18:00,P2,Mobile & Intune,Outlook mobile setup failed,User-234,Tech-05,Met,60,Enrollment or compliance policy,Resolved
+INC-10070,2026-01-19T22:00,2026-01-20T03:14,P3,File Services,NTFS permission mismatch,User-241,Tech-06,Met,314,Permission or storage state,Resolved
+INC-10071,2026-01-20T03:00,2026-01-20T11:39,P3,Identity & Access,SSO loop in browser,User-248,Tech-07,Met,519,Identity configuration,Resolved
+INC-10072,2026-01-20T08:00,2026-01-20T13:45,P3,Microsoft 365,Office activation error,User-005,Tech-08,Met,345,Client or tenant configuration,Resolved
+INC-10073,2026-01-20T13:00,2026-01-20T21:33,P3,Windows Endpoint,Blue screen after driver update,User-012,Tech-01,Met,513,OS or driver state,Resolved
+INC-10074,2026-01-20T18:00,2026-01-20T18:57,P2,Networking & VPN,DNS resolution intermittent,User-019,Tech-02,Met,57,Connectivity or name resolution,Resolved
+INC-10075,2026-01-20T23:00,2026-01-21T00:08,P2,Hardware,Webcam not detected,User-026,Tech-03,Met,68,Component failure,Resolved
+INC-10076,2026-01-21T04:00,2026-01-21T13:17,P3,Printing,Driver installation failed,User-033,Tech-04,Met,557,Driver or spooler,Resolved
+INC-10077,2026-01-21T09:00,2026-01-21T11:00,P3,Business Application,HR portal access denied,User-040,Tech-05,Met,120,Application configuration,Resolved
+INC-10078,2026-01-21T14:00,2026-01-21T21:39,P3,Security,Browser certificate warning,User-047,Tech-06,Met,459,Security control or user action,Resolved
+INC-10079,2026-01-21T19:00,2026-01-22T03:13,P3,Mobile & Intune,Device enrollment failed,User-054,Tech-07,Met,493,Enrollment or compliance policy,Resolved
+INC-10080,2026-01-22T00:00,2026-01-22T19:36,P4,File Services,Deleted file restoration,User-061,Tech-08,Met,1176,Permission or storage state,Resolved
+INC-10081,2026-01-22T05:00,2026-01-22T11:03,P3,Identity & Access,Expired password during remote login,User-068,Tech-01,Met,363,Identity configuration,Resolved
+INC-10082,2026-01-22T10:00,2026-01-22T13:13,P2,Microsoft 365,OneDrive sync conflict,User-075,Tech-02,Met,193,Client or tenant configuration,Resolved
+INC-10083,2026-01-22T15:00,2026-01-22T17:05,P2,Windows Endpoint,Mapped drive missing,User-082,Tech-03,Met,125,OS or driver state,Resolved
+INC-10084,2026-01-22T20:00,2026-01-23T17:07,P4,Networking & VPN,Proxy configuration blocks site,User-089,Tech-04,Met,1267,Connectivity or name resolution,Resolved
+INC-10085,2026-01-23T01:00,2026-01-23T10:40,P3,Hardware,Laptop battery not charging,User-096,Tech-05,Met,580,Component failure,Resolved
+INC-10086,2026-01-23T06:00,2026-01-23T17:09,P3,Printing,Secure print queue missing,User-103,Tech-06,Met,669,Driver or spooler,Resolved
+INC-10087,2026-01-23T11:00,2026-01-23T14:02,P3,Business Application,POS application timeout,User-110,Tech-07,Met,182,Application configuration,Resolved
+INC-10088,2026-01-23T16:00,2026-01-24T03:08,P3,Security,USB storage blocked,User-117,Tech-08,Met,668,Security control or user action,Resolved
+INC-10089,2026-01-23T21:00,2026-01-24T22:26,P4,Mobile & Intune,Remote wipe verification,User-124,Tech-01,Met,1526,Enrollment or compliance policy,Resolved
+INC-10090,2026-01-24T02:00,2026-01-24T15:47,P4,File Services,Offline files conflict,User-131,Tech-02,Met,827,Permission or storage state,Resolved
+INC-10091,2026-01-24T07:00,2026-01-24T19:25,P3,Identity & Access,Account lockout after password change,User-138,Tech-03,Met,745,Identity configuration,Resolved
+INC-10092,2026-01-24T12:00,2026-01-24T17:31,P3,Microsoft 365,Shared mailbox missing,User-145,Tech-04,Met,331,Client or tenant configuration,Resolved
+INC-10093,2026-01-24T17:00,2026-01-25T05:00,P3,Windows Endpoint,BitLocker recovery prompt,User-152,Tech-05,Met,720,OS or driver state,Resolved
+INC-10094,2026-01-24T22:00,2026-01-25T11:49,P3,Networking & VPN,Wi-Fi disconnects,User-159,Tech-06,Met,829,Connectivity or name resolution,Resolved
+INC-10095,2026-01-25T03:00,2026-01-25T05:42,P2,Hardware,SSD health warning,User-166,Tech-07,Met,162,Component failure,Resolved
+INC-10096,2026-01-25T08:00,2026-01-25T09:03,P2,Printing,Badge release unavailable,User-173,Tech-08,Met,63,Driver or spooler,Resolved
+INC-10097,2026-01-25T13:00,2026-01-26T03:54,P4,Business Application,ERP client login failure,User-180,Tech-01,Met,894,Application configuration,Resolved
+INC-10098,2026-01-25T18:00,2026-01-25T19:47,P2,Security,Defender malware alert,User-187,Tech-02,Met,107,Security control or user action,Resolved
+INC-10099,2026-01-25T23:00,2026-01-26T09:16,P3,Mobile & Intune,Outlook mobile setup failed,User-194,Tech-03,Met,616,Enrollment or compliance policy,Resolved
+INC-10100,2026-01-26T04:00,2026-01-26T18:46,P3,File Services,NTFS permission mismatch,User-201,Tech-04,Met,886,Permission or storage state,Resolved
+INC-10101,2026-01-26T09:00,2026-01-27T06:55,P4,Identity & Access,SSO loop in browser,User-208,Tech-05,Met,1315,Identity configuration,Resolved
+INC-10102,2026-01-26T14:00,2026-01-26T16:46,P3,Microsoft 365,Office activation error,User-215,Tech-06,Met,166,Client or tenant configuration,Resolved
+INC-10103,2026-01-26T19:00,2026-01-26T21:49,P3,Windows Endpoint,Blue screen after driver update,User-222,Tech-07,Met,169,OS or driver state,Resolved
+INC-10104,2026-01-27T00:00,2026-01-27T12:37,P4,Networking & VPN,DNS resolution intermittent,User-229,Tech-08,Met,757,Connectivity or name resolution,Resolved
+INC-10105,2026-01-27T05:00,2026-01-27T19:42,P4,Hardware,Webcam not detected,User-236,Tech-01,Met,882,Component failure,Resolved
+INC-10106,2026-01-27T10:00,2026-01-27T21:49,P3,Printing,Driver installation failed,User-243,Tech-02,Met,709,Driver or spooler,Resolved
+INC-10107,2026-01-27T15:00,2026-01-27T19:44,P4,Business Application,HR portal access denied,User-250,Tech-03,Met,284,Application configuration,Resolved
+INC-10108,2026-01-27T20:00,2026-01-27T23:27,P2,Security,Browser certificate warning,User-007,Tech-04,Met,207,Security control or user action,Resolved
+INC-10109,2026-01-28T01:00,2026-01-28T01:45,P2,Mobile & Intune,Device enrollment failed,User-014,Tech-05,Met,45,Enrollment or compliance policy,Resolved
+INC-10110,2026-01-28T06:00,2026-01-28T11:28,P3,File Services,Deleted file restoration,User-021,Tech-06,Met,328,Permission or storage state,Resolved
+INC-10111,2026-01-28T11:00,2026-01-29T00:02,P3,Identity & Access,Expired password during remote login,User-028,Tech-07,Met,782,Identity configuration,Resolved
+INC-10112,2026-01-28T16:00,2026-01-28T21:34,P4,Microsoft 365,OneDrive sync conflict,User-035,Tech-08,Met,334,Client or tenant configuration,Resolved
+INC-10113,2026-01-28T21:00,2026-01-28T22:36,P3,Windows Endpoint,Mapped drive missing,User-042,Tech-01,Met,96,OS or driver state,Resolved
+INC-10114,2026-01-29T02:00,2026-01-29T19:40,P4,Networking & VPN,Proxy configuration blocks site,User-049,Tech-02,Met,1060,Connectivity or name resolution,Resolved
+INC-10115,2026-01-29T07:00,2026-01-29T13:15,P3,Hardware,Laptop battery not charging,User-056,Tech-03,Met,375,Component failure,Resolved
+INC-10116,2026-01-29T12:00,2026-01-29T14:16,P2,Printing,Secure print queue missing,User-063,Tech-04,Met,136,Driver or spooler,Resolved
+INC-10117,2026-01-29T17:00,2026-01-29T19:45,P3,Business Application,POS application timeout,User-070,Tech-05,Met,165,Application configuration,Resolved
+INC-10118,2026-01-29T22:00,2026-01-31T02:34,P4,Security,USB storage blocked,User-077,Tech-06,Met,1714,Security control or user action,Resolved
+INC-10119,2026-01-30T03:00,2026-01-30T06:46,P3,Mobile & Intune,Remote wipe verification,User-084,Tech-07,Met,226,Enrollment or compliance policy,Resolved
+INC-10120,2026-01-30T08:00,2026-01-30T12:03,P3,File Services,Offline files conflict,User-091,Tech-08,Met,243,Permission or storage state,Resolved
