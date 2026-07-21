@@ -1,7 +1,0 @@
-FirstName,LastName,SamAccountName,Department,Title,ManagerSam,OU,Groups
-Alicia,Morgan,amorgan,Finance,Senior Accountant,dprice,"OU=Finance,OU=Users,OU=Northstar,DC=northstar,DC=local",GG-Finance-Users;DL-Public-Share-RW
-Jordan,Carter,jcarter,Finance,Financial Analyst,dprice,"OU=Finance,OU=Users,OU=Northstar,DC=northstar,DC=local",GG-Finance-Users;DL-Public-Share-RW
-Maya,Brooks,mbrooks,Human Resources,HR Generalist,lgrant,"OU=Human Resources,OU=Users,OU=Northstar,DC=northstar,DC=local",GG-HR-Users;DL-Public-Share-RW
-Noah,Reed,nreed,Operations,Operations Coordinator,slopez,"OU=Operations,OU=Users,OU=Northstar,DC=northstar,DC=local",GG-Operations-Users;DL-Public-Share-RW
-Elena,Foster,efoster,Operations,Project Coordinator,slopez,"OU=Operations,OU=Users,OU=Northstar,DC=northstar,DC=local",GG-Operations-Users;DL-Public-Share-RW
-Jamie,Christian,jchristian,IT,Help Desk Technician,rpatel,"OU=IT,OU=Users,OU=Northstar,DC=northstar,DC=local",GG-IT-HelpDesk;DL-Public-Share-RW
